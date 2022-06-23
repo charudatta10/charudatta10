@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Genetic Algorithm, GANs, FPGAs**
 
-- 📫 How to reach me **10041994c@gmail.com**
+- 📫 How to reach me **10682378+charudatta10@users.noreply.github.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
