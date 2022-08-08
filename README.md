@@ -28,4 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charudatta10&show_icons=true&locale=en" alt="charudatta10" /></p>
 
+<embed src="resume.pdf" type="application/pdf">
+
+
 
