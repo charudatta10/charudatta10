@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charudatta Gurudas Korde</h1>
 <h3 align="center">A passionate AI-ML-EDGE developer from Multiverse 1729</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charudatta10" alt="charudatta10" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charudatta10row=2&column=3" alt="charudatta10" /></a> </p>
 
 - 🔭 I’m currently working on [Privacy and Data security with GAN's](https://github.com/charudatta10)
 
