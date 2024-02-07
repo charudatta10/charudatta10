@@ -1,5 +1,5 @@
-# resume
-resume
+# Resume
+
 ![resume](https://github.com/charudatta10/resume/blob/main/ModernMinimalistCVResume.png)
 ## Overview
 
