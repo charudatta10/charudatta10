@@ -1,5 +1,5 @@
+<h1 align="center">Hi 👋, I'm Charudatta Gurudas Korde</h1>
 # Resume
-
 ![resume](https://github.com/charudatta10/resume/blob/main/ModernMinimalistCVResume.png)
 ## Overview
 
@@ -83,7 +83,6 @@ date: '27-july-2023 16:54:00'
 ---
 -->
 # Portfolio
-<h1 align="center">Hi 👋, I'm Charudatta Gurudas Korde</h1>
 <h3 align="center">A passionate AI-ML-EDGE developer from Multiverse 1729</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charudatta10&row=2&column=3" alt="charudatta10" /></a> </p>
