@@ -2,7 +2,7 @@
 
 ## Resume
 
-![resume](https://github.com/charudatta10/resume/blob/main/ModernMinimalistCVResume.png)
+![resume](https://github.com/charudatta10/charudatta10/blob/main/ModernMinimalistCVResume.png)
 
 ## Curriculum Vitae
 
