@@ -1,3 +1,5 @@
+![Banner GitHub](https://github.com/charudatta10/charudatta10/blob/main/_4f5ecc31-55d9-462c-b38f-4c5a7317b3a8.jpeg)
+
 <h1 align="center">Hi 👋, I'm Charudatta Gurudas Korde</h1>
 
 ## Resume
