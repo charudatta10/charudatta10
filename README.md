@@ -1,4 +1,6 @@
-![Banner GitHub](https://github.com/charudatta10/charudatta10/blob/main/_4f5ecc31-55d9-462c-b38f-4c5a7317b3a8.jpeg)
+ <img src="https://github.com/charudatta10/charudatta10/blob/main/_4f5ecc31-55d9-462c-b38f-4c5a7317b3a8.jpeg" alt="linux" width="1020" height="460"/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h1 align="center">Hi 👋, I'm Charudatta Gurudas Korde</h1>
 
@@ -15,6 +17,7 @@
 
 <!--- -- About ME  -->
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div>
 
@@ -58,6 +61,7 @@
 
 <br>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   
  <!---  list  all achivemets
  <details>
@@ -82,7 +86,7 @@
 <!----- Activity Graph ------>
 
 <br>
-<hr>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charudatta10&theme=dracula)](https://github.com/charudatta10/github-readme-activity-graph)
 
@@ -157,9 +161,8 @@
 | -- | -- |
 | ![Charudatta Korde languages used](https://github-readme-stats.vercel.app/api/top-langs?username=charudatta10&show_icons=true&locale=en&layout=compact) | ![Charudatta Korde GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charudatta10&theme=tokyonight&theme=icegray&border_radius=8) |
 
-<hr>
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 | Resume | Curriculum Vitae | Portfolio |
 | -- | -- |  -- |
