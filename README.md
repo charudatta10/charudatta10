@@ -1,4 +1,4 @@
- <img src="https://github.com/charudatta10/charudatta10/blob/main/_4f5ecc31-55d9-462c-b38f-4c5a7317b3a8.jpeg" alt="linux" width="1020" height="460"/>
+ <img src="https://github.com/charudatta10/charudatta10/blob/main/assets/images/banner.jpeg" alt="Charudatta" width="1020" height="460"/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -166,7 +166,7 @@
 
 | Resume | Curriculum Vitae | Portfolio |
 | -- | -- |  -- |
-| [![resume](https://github.com/charudatta10/charudatta10/blob/main/ModernMinimalistCVResume.png)](https://github.com/charudatta10/charudatta10/blob/main/ModernMinimalistCVResume.png) | [![cv](https://github.com/charudatta10/charudatta10/blob/main/Black%20and%20white%20Resume.png)](https://github.com/charudatta10/charudatta10/blob/main/single_page_cv%20(1).pdf) | [![portfolio](https://github.com/charudatta10/charudatta10/blob/main/Modern%20Minimalist%20CV%20Resume(long).png)](https://github.com/charudatta10/charudatta10/blob/main/single_page_cv%20(1).pdf) |
+| [![resume](https://github.com/charudatta10/charudatta10/blob/main/assets/images/resume.png)](https://github.com/charudatta10/charudatta10/blob/main/assets/images/resume.png) | [![cv](https://github.com/charudatta10/charudatta10/blob/main/assets/images/cv.png)](https://github.com/charudatta10/charudatta10/blob/main/assets/pdfs/cv.pdf) | [![portfolio](https://github.com/charudatta10/charudatta10/blob/main/assets/images/portfolio.png)](https://github.com/charudatta10/charudatta10/blob/main/assets/pdfs/portfolio.pdf) |
 
 
 
