@@ -8,8 +8,10 @@
 
 <a target="_blank"><img alt='Visitors' src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759'/></a>
 <br> <br>
-<a href='www.linkedin.com/in/charudatta-korde' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/charudatta--korde-100000?style=for-the-badge&logo=Linkedin&logoColor=F7F7F7&labelColor=black&color=black'/></a>
- <a href='korde.charudatta@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/korde.charudatta-100000?style=for-the-badge&logo=Gmail&logoColor=F7F7F7&labelColor=black&color=black'/></a>
+<a href='https://github.com/charudatta10/charudatta10/' target="_blank"><img alt='GitHUb' src='https://img.shields.io/badge/Github-100000?style=social&logo=GitHUb&logoColor=1C1B1B&labelColor=151515&color=black'/></a>
+<a href='https://in.pinterest.com/charudattakorde/' target="_blank"><img alt='Pinterest' src='https://img.shields.io/badge/Pinterest-100000?style=social&logo=Pinterest&logoColor=F11212&labelColor=151515&color=black'/></a>
+<a href='www.linkedin.com/in/charudatta-korde' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=social&logo=Linkedin&logoColor=0F0FF7&labelColor=151515&color=black'/></a>
+<a href='korde.charudatta@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=social&logo=Gmail&logoColor=F70B07&labelColor=151515&color=black'/></a>
   
 </div>
 <br>
