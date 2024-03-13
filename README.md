@@ -85,16 +85,6 @@
 -->
 
 
-<!----- Activity Graph ------>
-
-<br>
-
-
-[![Charudatta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charudatta10&theme=dracula)](https://github.com/charudatta10/github-readme-activity-graph)
-
-<hr>
-
-
 <!--- -- Skills Section ------->
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
@@ -139,24 +129,30 @@
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Connect with me:
 
 <div align="center">
-  
-  
-  
+   
 </div>
 
 <hr>
  ---------->
-
 
 <!--- -- Support Me Here 
 
 # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me here 
 
 ---------->
-<br><br>
-
 
 <!--- -- GitHub Stats --------->
+
+# GitHub Stats
+
+<!----- Activity Graph ------>
+
+<br>
+
+
+[![Charudatta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charudatta10&theme=dracula)](https://github.com/charudatta10/github-readme-activity-graph)
+
+<hr>
 
 | ![Charudatta Korde trophies](https://github-profile-trophy.vercel.app/?username=charudatta10&row=2&column=3)| ![Charudatta Korde readme status](https://github-readme-stats.vercel.app/api?username=charudatta10&show_icons=true&locale=en) |
 | -- | -- |
