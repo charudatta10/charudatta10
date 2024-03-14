@@ -25,8 +25,6 @@
 
 <h3 align="center">A passionate AI-ML-EDGE developer from Multiverse 1729</h3>
 
-<i>&nbsp; Building products with open source.</i><br><br>
-
 👋 Greetings! It's great to have you here. I'm Charudatta, a AI-ML engineer from India, super into Open Source.
 
 🔭 I’m currently working on [Privacy and Data security with GAN's](https://github.com/charudatta10)
