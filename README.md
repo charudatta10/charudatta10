@@ -1,5 +1,5 @@
- <img src="https://github.com/charudatta10/charudatta10/blob/main/assets/images/banner.jpeg" alt="Charudatta" width="1020" height="460"/>
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Charudatta%20Korde🐱&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+ 
 <hr>
 
 <h1 align="center">Hi 👋, I'm Charudatta Gurudas Korde</h1>
@@ -110,29 +110,8 @@
 |:---------:|:-------------:|:----------:|:-------------------:|
 | ![project 5](https://github.com/charudatta10/charudatta10/blob/main/assets/images/project5.jpeg)  | ![project 6](https://github.com/charudatta10/charudatta10/blob/main/assets/images/project6.jpeg) | ![project 7](https://github.com/charudatta10/charudatta10/blob/main/assets/images/project7.jpeg) | ![project 8](https://github.com/charudatta10/charudatta10/blob/main/assets/images/project8.jpeg) |
 
-
-
 <br>
-
  
-<!--- -- Metrics ------------>
-
-
-
-
-
-
-<!--- -- My Socials
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Connect with me:
-
-<div align="center">
-   
-</div>
-
-<hr>
- ---------->
-
 <!--- -- Support Me Here ---------->
 
 # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me here 
@@ -173,7 +152,7 @@
 | - | - |
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Charudatta%20🐱&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+<img src="https://github.com/charudatta10/charudatta10/blob/main/assets/images/banner.jpeg" alt="Charudatta" width="1020" height="460"/>
 
 <!---
 [![Moon.svg](https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2025-01-01&startDate=2023-01-01&theme=theme1)](https://dday-widget.minung.dev) 
@@ -186,7 +165,7 @@
 --->
 
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   
 
 
