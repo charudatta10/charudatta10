@@ -158,20 +158,32 @@
 | ![Charudatta Korde languages used](https://github-readme-stats.vercel.app/api/top-langs?username=charudatta10&show_icons=true&locale=en&layout=compact&theme=onedark) | ![Charudatta Korde GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charudatta10&theme=tokyonight&theme=icegray&border_radius=8&theme=onedark) |
 
 
+| [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=charudatta10&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox) | [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev) |
+|  - | - |
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 | Resume | Curriculum Vitae | Portfolio |
 | -- | -- |  -- |
 | [![resume](https://github.com/charudatta10/charudatta10/blob/main/assets/images/resume.png)](https://github.com/charudatta10/charudatta10/blob/main/assets/images/resume.png) | [![cv](https://github.com/charudatta10/charudatta10/blob/main/assets/images/cv.png)](https://github.com/charudatta10/charudatta10/blob/main/assets/pdfs/cv.pdf) | [![portfolio](https://github.com/charudatta10/charudatta10/blob/main/assets/images/portfolio.png)](https://github.com/charudatta10/charudatta10/blob/main/assets/pdfs/portfolio.pdf) |
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+| ![Jokes Card](https://readme-jokes.vercel.app/api) | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) |
+| - | - |
 
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Charudatta%20🐱&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
+<!---
+[![Moon.svg](https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2025-01-01&startDate=2023-01-01&theme=theme1)](https://dday-widget.minung.dev) 
+[![Moon.svg](https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2025-01-01&startDate=2023-01-01&theme=theme2)](https://dday-widget.minung.dev)
 
 
+[![Moon.svg](https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2025-01-01&startDate=2023-01-01&theme=theme3)](https://dday-widget.minung.dev)
 
 
-
-
+--->
 
 
 
