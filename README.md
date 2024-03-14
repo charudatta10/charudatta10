@@ -149,13 +149,13 @@
 <br>
 
 
-[![Charudatta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charudatta10&theme=dracula)](https://github.com/charudatta10/github-readme-activity-graph)
+[![Charudatta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charudatta10&theme=onedark)](https://github.com/charudatta10/github-readme-activity-graph)
 
 <hr>
 
-| ![Charudatta Korde trophies](https://github-profile-trophy.vercel.app/?username=charudatta10&row=2&column=3)| ![Charudatta Korde readme status](https://github-readme-stats.vercel.app/api?username=charudatta10&show_icons=true&locale=en) |
+| ![Charudatta Korde trophies](https://github-profile-trophy.vercel.app/?username=charudatta10&row=2&column=3&theme=onedark)| ![Charudatta Korde readme status](https://github-readme-stats.vercel.app/api?username=charudatta10&show_icons=true&locale=en&theme=onedark) |
 | -- | -- |
-| ![Charudatta Korde languages used](https://github-readme-stats.vercel.app/api/top-langs?username=charudatta10&show_icons=true&locale=en&layout=compact) | ![Charudatta Korde GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charudatta10&theme=tokyonight&theme=icegray&border_radius=8) |
+| ![Charudatta Korde languages used](https://github-readme-stats.vercel.app/api/top-langs?username=charudatta10&show_icons=true&locale=en&layout=compact&theme=onedark) | ![Charudatta Korde GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charudatta10&theme=tokyonight&theme=icegray&border_radius=8&theme=onedark) |
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
