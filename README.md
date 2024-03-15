@@ -12,6 +12,9 @@
 <a href='https://in.pinterest.com/charudattakorde/' target="_blank"><img alt='Pinterest' src='https://img.shields.io/badge/Pinterest-100000?style=social&logo=Pinterest&logoColor=F11212&labelColor=151515&color=black'/></a>
 <a href='www.linkedin.com/in/charudatta-korde' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=social&logo=Linkedin&logoColor=0F0FF7&labelColor=151515&color=black'/></a>
 <a href='korde.charudatta@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=social&logo=Gmail&logoColor=F70B07&labelColor=151515&color=black'/></a>
+<a href='https://discord.com/channels/1123272894223503440/1123272894739390536' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=social&logo=Discord&logoColor=0D20F1&labelColor=black&color=black'/></a>
+<a href='https://www.instagram.com/ryunabi326/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=social&logo=Instagram&logoColor=EA720F&labelColor=black&color=black'/></a>
+<a href='https://mastodon.social/@ryunabi326' target="_blank"><img alt='mastodon' src='https://img.shields.io/badge/Mastodon-100000?style=social&logo=mastodon&logoColor=0D06F1&labelColor=252424&color=151515'/></a>
 
 [![My Skills](https://skillicons.dev/icons?i=alpinejs,anaconda,arduino,atom,bash,blender,c,css,devto,discord,bots,django,docker,electron,express,flask,git,github,githubactions,gitlab,gmail,godot,html,instagram,js,latex,linkedin,linux,lua,md,mastodon,materialui,matlab,mint,mysql,neovim,nginx,notion,obsidian,octave,opencv,p5js,perl,ps,php,postgres,powershell,processing,py,pytorch,r,raspberrypi,redhat,redis,regex,rust,sqlite,sklearn,svg,tensorflow,ubuntu,vscode,vscodium,windows&perline=16)](https://skillicons.dev)  
 </div>
