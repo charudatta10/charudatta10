@@ -12,7 +12,8 @@
 <a href='https://in.pinterest.com/charudattakorde/' target="_blank"><img alt='Pinterest' src='https://img.shields.io/badge/Pinterest-100000?style=social&logo=Pinterest&logoColor=F11212&labelColor=151515&color=black'/></a>
 <a href='www.linkedin.com/in/charudatta-korde' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=social&logo=Linkedin&logoColor=0F0FF7&labelColor=151515&color=black'/></a>
 <a href='korde.charudatta@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=social&logo=Gmail&logoColor=F70B07&labelColor=151515&color=black'/></a>
-  
+
+[![My Skills](https://skillicons.dev/icons?i=alpinejs,anaconda,arduino,atom,bash,blender,c,css,devto,discord,bots,django,docker,electron,express,flask,git,github,githubactions,gitlab,gmail,godot,html,instagram,js,latex,linkedin,linux,lua,md,mastodon,materialui,matlab,mint,mysql,neovim,nginx,notion,obsidian,octave,opencv,p5js,perl,ps,php,postgres,powershell,processing,py,pytorch,r,raspberrypi,redhat,redis,regex,rust,sqlite,sklearn,svg,tensorflow,ubuntu,vscode,vscodium,windows&perline=16)](https://skillicons.dev)  
 </div>
 <br>
 
@@ -168,7 +169,5 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   
 
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=1920&lines=%E2%80%9CBe+afraid+and+do+it+anyway.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CRight+now+is+the+only+guarantee.%E2%80%9D+%E2%80%93+Jay+Long;%E2%80%9CBe+a+voice.+Not+an+echo.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CIt+will+all+make+sense+eventually.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CDon%E2%80%99t+be+afraid+to+dream+big.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CFearlessness+is+the+mother+of+reinvention.%E2%80%9D+%E2%80%93+Arianna+Huffington)](https://git.io/typing-svg)
 
