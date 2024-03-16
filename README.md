@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Charudatta%20Korde🐱&width=1020&height=460)](https://github.com/Akshay090/svg-banners)
+![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Charudatta%20Korde🐱&width=1020&height=460)
  
 <hr>
 
