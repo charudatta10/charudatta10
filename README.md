@@ -16,8 +16,8 @@
 <a href='https://www.instagram.com/ryunabi326/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=social&logo=Instagram&logoColor=EA720F&labelColor=black&color=black'/></a>
 <a href='https://mastodon.social/@ryunabi326' target="_blank"><img alt='mastodon' src='https://img.shields.io/badge/Mastodon-100000?style=social&logo=mastodon&logoColor=0D06F1&labelColor=252424&color=151515'/></a>
 <a href='https://www.reddit.com/user/ryunabi/' target="_blank"><img alt='Reddit' src='https://img.shields.io/badge/Reddit-100000?style=social&logo=Reddit&logoColor=F70A0A&labelColor=black&color=black'/></a>
-<a href='https://www.youtube.com/@charudattakorde695' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/Youtube-100000?style=social&logo=Youtube&logoColor=F70A0A&labelColor=black&color=black'/></a>
-
+<a href='https://www.youtube.com/@charudattakorde695' target="_blank"><img alt='YouTube' src='https://img.shields.io/badge/YouTube-100000?style=social&logo=Youtube&logoColor=F70A0A&labelColor=black&color=black'/></a>
+<a href='t.me/Ryunabix' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/Telegram-100000?style=social&logo=Telegram&logoColor=08E4E4&labelColor=black&color=black'/></a>
 [![My Skills](https://skillicons.dev/icons?i=alpinejs,anaconda,arduino,atom,bash,blender,c,css,devto,discord,bots,django,docker,electron,express,flask,git,github,githubactions,gitlab,gmail,godot,html,instagram,js,latex,linkedin,linux,lua,md,mastodon,materialui,matlab,mint,mysql,neovim,nginx,notion,obsidian,octave,opencv,p5js,perl,ps,php,postgres,powershell,processing,py,pytorch,r,raspberrypi,redhat,redis,regex,rust,sqlite,sklearn,svg,tensorflow,ubuntu,vscode,vscodium,windows&perline=16)](https://skillicons.dev)  
 </div>
 <br>
