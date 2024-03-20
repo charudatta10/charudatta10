@@ -24,9 +24,9 @@
 
 <h3 align="center">A passionate AI-ML-EDGE developer from Multiverse 1729</h3>
 
-<img align="right" src="https://github.com/charudatta10/charudatta10/blob/main/assets/images/banner1.jpeg" alt="Charudatta" width="240" height="210"/>
+<img align="right" src="https://github.com/charudatta10/charudatta10/blob/main/assets/images/banner1.jpeg" alt="Charudatta" width="240" height="200"/>
 
-👋 Greetings! It's great to have you here. I'm Charudatta, a AI-ML engineer from India, super into Open Source.
+🧠  AI-ML engineer from India, super into Open Source.
 
 🔭 I’m currently working on [Privacy and Data security with GAN's](https://github.com/charudatta10)
 
@@ -36,7 +36,7 @@
 
 🤝 I’m looking for help with [Python to edge flow](https://github.com/charudatta10/Vitis-AI)
 
-<img align="right" src="https://github.com/charudatta10/charudatta10/blob/main/assets/images/banner2.jpeg" alt="Charudatta" width="240" height="210"/>
+<img align="right" src="https://github.com/charudatta10/charudatta10/blob/main/assets/images/banner2.jpeg" alt="Charudatta" width="240" height="200"/>
 
 👨‍💻 All of my projects are available at [https://github.com/charudatta10](https://github.com/charudatta10)
 
@@ -56,11 +56,11 @@
 
 <!-- 🚀 my achivements -->
 
-<!-- 🎁 work -->
+ <!-- 🎁 my work [portfolio](https://github.com/charudatta10/charudatta10/blob/main/assets/pdfs/portfolio.pdf). -->
 
 <!-- 😄 just thing -->
 
-<!-- quote 🔥  -->
+🔥 "You must be the change you wish to see in the world." -Mahatma Gandhi
 
 </div>
 
