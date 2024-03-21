@@ -139,10 +139,10 @@
 
 | ![Charudatta Korde trophies](https://github-profile-trophy.vercel.app/?username=charudatta10&row=2&column=3&theme=onedark)| ![Charudatta Korde readme status](https://github-readme-stats.vercel.app/api?username=charudatta10&show_icons=true&locale=en&theme=onedark) |
 | -- | -- |
-| ![Charudatta Korde languages used](https://github-readme-stats.vercel.app/api/top-langs?username=charudatta10&show_icons=true&locale=en&layout=compact&theme=onedark) | ![Charudatta Korde GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charudatta10&theme=tokyonight&theme=icegray&border_radius=8&theme=onedark) |
+| ![Charudatta Korde languages used](https://github-readme-stats.vercel.app/api/top-langs?username=charudatta10&show_icons=true&locale=en&layout=compact&theme=onedark) | ![Charudatta Korde GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charudatta10&theme=onedark&border_radius=8) |
 
 
-| [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=charudatta10&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox) | [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev) |
+| [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=charudatta10&data=followers,repositories,stars,commits&theme=onedark)](https://github.com/Jurredr/github-widgetbox) | [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev) |
 |  - | - |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
