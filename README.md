@@ -137,7 +137,7 @@
 
 <hr>
 
-| ![Charudatta Korde trophies](https://github-profile-trophy.vercel.app/?username=charudatta10&row=2&column=3&theme=onedark)| ![Charudatta Korde readme status](https://github-readme-stats.vercel.app/api?username=charudatta10&show_icons=true&locale=en&theme=onedark) |
+| ![Charudatta Korde trophies](https://github-profile-trophy.vercel.app/?username=charudatta10&row=2&column=3&theme=onedark)| ![Charudatta Korde readme status](https://github-readme-stats.vercel.app/api?username=charudatta10&locale=en&theme=onedark&include_all_commits=true&rank_icon=github) |
 | -- | -- |
 | ![Charudatta Korde languages used](https://github-readme-stats.vercel.app/api/top-langs?username=charudatta10&show_icons=true&locale=en&layout=compact&theme=onedark) | ![Charudatta Korde GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charudatta10&theme=onedark&border_radius=8) |
 
