@@ -93,8 +93,9 @@
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
-[![My Skills](https://skillicons.dev/icons?i=alpinejs,anaconda,arduino,atom,bash,blender,c,css,devto,discord,bots,django,docker,electron,express,flask,git,github,githubactions,gitlab,gmail,godot,html,instagram,js,latex,linkedin,linux,lua,md,mastodon,materialui,matlab,mint,mysql,neovim,nginx,notion,obsidian,octave,opencv,p5js,perl,ps,php,postgres,powershell,processing,py,pytorch,r,raspberrypi,redhat,redis,regex,rust,sqlite,sklearn,svg,tensorflow,ubuntu,vscode,vscodium,windows&perline=16)](https://skillicons.dev)  
+![My Skills](https://skillicons.dev/icons?i=alpinejs,anaconda,arduino,atom,bash,blender,c,css,devto,discord,bots,django,docker,electron,express,flask,git,github,githubactions,gitlab,gmail,godot,html,instagram,js,latex,linkedin,linux,lua,md,mastodon,materialui,matlab,mint,mysql,neovim,nginx,notion,obsidian,octave,opencv,p5js,perl,ps,php,postgres,powershell,processing,py,pytorch,r,raspberrypi,redhat,redis,regex,rust,sqlite,sklearn,svg,tensorflow,ubuntu,vscode,vscodium,windows&perline=16)  
 <br></br>
+
 
 |                                                                              AI models                                                                              |                                                    ML & DL                                                   |                                                           IDE/Editors                                                          |                                                           Software                                                           |                                                               Tools & Services                                                              |                                                                    PKM                                                                   |                                                               Missclenious                                                              |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
@@ -134,7 +135,7 @@
 <br>
 
 
-[![Charudatta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charudatta10&theme=onedark)](https://github.com/charudatta10/github-readme-activity-graph)
+![Charudatta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charudatta10&theme=onedark)
 
 <hr>
 
@@ -150,7 +151,7 @@
 
 | Resume | Curriculum Vitae | Portfolio |
 | -- | -- |  -- |
-| [![resume](https://github.com/charudatta10/charudatta10/blob/main/assets/images/resume.png)](https://github.com/charudatta10/charudatta10/blob/main/assets/images/resume.png) | [![cv](https://github.com/charudatta10/charudatta10/blob/main/assets/images/cv.png)](https://github.com/charudatta10/charudatta10/blob/main/assets/pdfs/cv.pdf) | [![portfolio](https://github.com/charudatta10/charudatta10/blob/main/assets/images/portfolio.png)](https://github.com/charudatta10/charudatta10/blob/main/assets/pdfs/portfolio.pdf) |
+| [![resume](assets/images/resume.png)](assets/images/resume.png) | [![cv](assets/images/cv.png)](assets/pdfs/cv.pdf) | [![portfolio](assets/images/portfolio.png)](assets/pdfs/portfolio.pdf) |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -174,5 +175,5 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=1920&lines=%E2%80%9CBe+afraid+and+do+it+anyway.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CRight+now+is+the+only+guarantee.%E2%80%9D+%E2%80%93+Jay+Long;%E2%80%9CBe+a+voice.+Not+an+echo.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CIt+will+all+make+sense+eventually.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CDon%E2%80%99t+be+afraid+to+dream+big.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CFearlessness+is+the+mother+of+reinvention.%E2%80%9D+%E2%80%93+Arianna+Huffington)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=1920&lines=%E2%80%9CBe+afraid+and+do+it+anyway.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CRight+now+is+the+only+guarantee.%E2%80%9D+%E2%80%93+Jay+Long;%E2%80%9CBe+a+voice.+Not+an+echo.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CIt+will+all+make+sense+eventually.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CDon%E2%80%99t+be+afraid+to+dream+big.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CFearlessness+is+the+mother+of+reinvention.%E2%80%9D+%E2%80%93+Arianna+Huffington)
 
