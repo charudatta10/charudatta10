@@ -81,11 +81,13 @@
  -->
   
 
-<!-- BLOG-POST-LIST
+<!-- BLOG-POST-LIST -->
 
-## Latest Blog Posts 
+## Blog Posts 
 
--->
+| [[Dev.to](/assets/blog1)](https://dev.to/charudatta10) | [[GitHub Pages](/assets/blog2)](https://charudatta10.github.io/myblog/) |
+| :---: | :---: |
+| [[Dev.to](/assets/blog3)](https://dev.to/charudatta10) | [[GitHub Pages](/assets/blog4)](https://charudatta10.github.io/myblog/) |
 
 
 <!--- -- Skills Section ------->
