@@ -85,9 +85,8 @@
 
 ## Blog Posts 
 
-| [![Dev.to](https://github.com/charudatta10/charudatta10/blob/main/assets/images/blog1.jpeg)](https://dev.to/charudatta10) | [![GitHub Pages](https://github.com/charudatta10/charudatta10/blob/main/assets/images/blog2.jpeg)](https://charudatta10.github.io/myblog/) |
-| :---: | :---: |
-| [Dev.to](https://dev.to/charudatta10) | [GitHub Pages](https://charudatta10.github.io/myblog/) |
+| [![Dev.to](assets/images/blog1.jpeg)](https://dev.to/charudatta10) | [![GitHub Pages](assets/images/blog2.jpeg)](https://charudatta10.github.io/myblog/) | [![Dev.to](assets/images/blog3.jpeg)](https://dev.to/charudatta10) | [![GitHub Pages](assets/images/blog4.jpeg)](https://charudatta10.github.io/myblog/) |
+| :---: | :---: | :---: |  :---: | 
 
 
 <!--- -- Skills Section ------->
@@ -113,9 +112,9 @@
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-| ![project 1](https://github.com/charudatta10/charudatta10/blob/main/assets/images/project1.jpeg)  | ![project 2](https://github.com/charudatta10/charudatta10/blob/main/assets/images/project2.jpeg) | ![project 3](https://github.com/charudatta10/charudatta10/blob/main/assets/images/project3.jpeg) | ![project 4](https://github.com/charudatta10/charudatta10/blob/main/assets/images/project4.jpeg) |
+| ![project 1](assets/images/project1.jpeg)  | ![project 2](assets/images/project2.jpeg) | ![project 3](assets/images/project3.jpeg) | ![project 4](assets/images/project4.jpeg) |
 |:---------:|:-------------:|:----------:|:-------------------:|
-| ![project 5](https://github.com/charudatta10/charudatta10/blob/main/assets/images/project5.jpeg)  | ![project 6](https://github.com/charudatta10/charudatta10/blob/main/assets/images/project6.jpeg) | ![project 7](https://github.com/charudatta10/charudatta10/blob/main/assets/images/project7.jpeg) | ![project 8](https://github.com/charudatta10/charudatta10/blob/main/assets/images/project8.jpeg) |
+| ![project 5](assets/images/project5.jpeg)  | ![project 6](assets/images/project6.jpeg) | ![project 7](assets/images/project7.jpeg) | ![project 8](assets/images/project8.jpeg) |
 
 <br>
  
@@ -123,7 +122,7 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me here 
 
-| ![Bhim UPI](https://github.com/charudatta10/charudatta10/blob/main/assets/images/pay1.jpeg)  | ![GPay](https://github.com/charudatta10/charudatta10/blob/main/assets/images/pay2.jpeg) | ![PhonePe](https://github.com/charudatta10/charudatta10/blob/main/assets/images/pay3.jpeg) | ![Metamask](https://github.com/charudatta10/charudatta10/blob/main/assets/images/pay4.jpeg) |
+| ![Bhim UPI](assets/images/pay1.jpeg)  | ![GPay](assets/images/pay2.jpeg) | ![PhonePe](assets/images/pay3.jpeg) | ![Metamask](assets/images/pay4.jpeg) |
 |:---------:|:-------------:|:----------:|:-------------------:|
 
 <!--- -- GitHub Stats --------->
