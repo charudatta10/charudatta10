@@ -85,9 +85,9 @@
 
 ## Blog Posts 
 
-| [[Dev.to](/assets/blog1)](https://dev.to/charudatta10) | [[GitHub Pages](/assets/blog2)](https://charudatta10.github.io/myblog/) |
+| [![Dev.to](https://github.com/charudatta10/charudatta10/blob/main/assets/images/blog1.jpeg)](https://dev.to/charudatta10) | [![GitHub Pages](https://github.com/charudatta10/charudatta10/blob/main/assets/images/blog2.jpeg)](https://charudatta10.github.io/myblog/) |
 | :---: | :---: |
-| [[Dev.to](/assets/blog3)](https://dev.to/charudatta10) | [[GitHub Pages](/assets/blog4)](https://charudatta10.github.io/myblog/) |
+| [Dev.to](https://dev.to/charudatta10) | [GitHub Pages](https://charudatta10.github.io/myblog/) |
 
 
 <!--- -- Skills Section ------->
