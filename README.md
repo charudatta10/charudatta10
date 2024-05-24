@@ -7,10 +7,10 @@
 <div align="center">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
-[![GitHub](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=314042&color=263759)](https://github.com/charudatta10)
+[![GitHub](https://img.shields.io/badge/My_Site-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=314042&color=263759)](https://charudatta10.github.io/myblog/)
 [![linktree](https://img.shields.io/badge/Linktree-100000?style=for-the-badge&logo=linktree&logoColor=white&labelColor=314042&color=263759)](https://charudatta10.github.io/linktree/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=314042&color=263759)](https://www.linkedin.com/in/charudatta-korde/)
-
+[![Pinterest](https://img.shields.io/badge/Pinterest-100000?style=for-the-badge&logo=Pinterest&logoColor=white&labelColor=314042&color=263759)](https://in.pinterest.com/charudattakorde/)
 
 
 | [![GitHUb](https://img.shields.io/badge/Github-100000?style=social&logo=GitHUb&logoColor=1C1B1B&labelColor=151515&color=black)](https://github.com/charudatta10) | [![Pinterest](https://img.shields.io/badge/Pinterest-100000?style=social&logo=Pinterest&logoColor=F11212&labelColor=151515&color=black)](https://in.pinterest.com/charudattakorde/) | [![Linkedin](https://img.shields.io/badge/Linkedin-100000?style=social&logo=Linkedin&logoColor=0F0FF7&labelColor=151515&color=black)](https://www.linkedin.com/in/charudatta-korde/) | [![Gmail](https://img.shields.io/badge/Gmail-100000?style=social&logo=Gmail&logoColor=F70B07&labelColor=151515&color=black)](mailto:152109007c@gmail.com) | [![Discord](https://img.shields.io/badge/Discord-100000?style=social&logo=Discord&logoColor=0D20F1&labelColor=black&color=black)](https://discord.gg/6SjyKxVE) |
