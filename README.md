@@ -122,8 +122,10 @@
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-| ![project 1](assets/images/project1.jpeg)  | ![project 2](assets/images/project2.jpeg) | ![project 3](assets/images/project3.jpeg) | ![project 4](assets/images/project4.jpeg) |
+| Web3 | myblog | improved-barnacle | linktree |
 |:---------:|:-------------:|:----------:|:-------------------:|
+| ![project 1](assets/images/project1.jpeg)  | ![project 2](assets/images/project2.jpeg) | ![project 3](assets/images/project3.jpeg) | ![project 4](assets/images/project4.jpeg) |
+| myprofile | OCR | Web-crawler | didactic-pancake |
 | ![project 5](assets/images/project5.jpeg)  | ![project 6](assets/images/project6.jpeg) | ![project 7](assets/images/project7.jpeg) | ![project 8](assets/images/project8.jpeg) |
 
 <br>
