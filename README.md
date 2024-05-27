@@ -92,8 +92,10 @@
 
 ## Blog Posts 
 
-| [![Dev.to](assets/images/blog1.jpeg)](https://dev.to/charudatta10) | [![GitHub Pages](assets/images/blog2.jpeg)](https://charudatta10.github.io/myblog/) | [![Dev.to](assets/images/blog3.jpeg)](https://dev.to/charudatta10) | [![GitHub Pages](assets/images/blog4.jpeg)](https://charudatta10.github.io/myblog/) |
+| DEV.to | GitHub Pages | Medium | LinkedIn |
 | :---: | :---: | :---: |  :---: | 
+| [![Dev.to](assets/images/blog1.jpeg)](https://dev.to/charudatta10) | [![GitHub Pages](assets/images/blog2.jpeg)](https://charudatta10.github.io/myblog/) | [![Medium](assets/images/blog3.jpeg)](https://medium.com/@152109007c) | [![LinkedIn](assets/images/blog4.jpeg)](https://www.linkedin.com/in/charudatta-korde/) |
+
 
 
 <!--- -- Skills Section ------->
