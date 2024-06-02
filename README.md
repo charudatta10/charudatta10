@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=🖑%20Charudatta%20Korde%20🖗&width=1020&height=460)
+![SVG Banners](assets/images/profile_banner.svg)
  
 <hr>
 
