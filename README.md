@@ -118,7 +118,7 @@
 | ![Charudatta Korde languages used](https://github-readme-stats.vercel.app/api/top-langs?username=charudatta10&show_icons=true&locale=en&layout=compact&theme=onedark) | ![Charudatta Korde GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charudatta10&theme=onedark&border_radius=10) |
 
 
-| ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=charudatta10&data=followers,repositories,stars,commits&theme=onedark) | ![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)] |
+| ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=charudatta10&data=followers,repositories,stars,commits&theme=onedark) | ![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic) |
 |  - | - |
 
 ---
