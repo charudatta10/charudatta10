@@ -72,23 +72,21 @@
 ---
 <!--- -- Skills Section ------->
 
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# Skills <img src="../assets/images/folder.png" alt="binder folder" width="40" /> 
 
-![My Skills](https://skillicons.dev/icons?i=alpinejs,anaconda,arduino,atom,bash,blender,c,css,devto,discord,bots,django,docker,electron,express,flask,git,github,githubactions,gitlab,gmail,godot,html,instagram,js,latex,linkedin,linux,lua,md,mastodon,materialui,matlab,mint,mysql,neovim,nginx,notion,obsidian,octave,opencv,p5js,perl,ps,php,postgres,powershell,processing,py,pytorch,r,raspberrypi,redhat,redis,regex,rust,sqlite,sklearn,svg,tensorflow,ubuntu,vscode,vscodium,windows&perline=16)  
-<br></br>
+![My Skills](../assets/svg/icons.svg)
 
-
-|                                                                              AI models                                                                              |                                                    ML & DL                                                   |                                                           IDE/Editors                                                          |                                                           Software                                                           |                                                               Tools & Services                                                              |   
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
-|                   ![Orca](https://img.shields.io/badge/Orca-100000?style=for-the-badge&logo=Orca&logoColor=0400F4&labelColor=0C0C0C&color=039992)                   |   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  |     ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)     |               ![Gimp ](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)              | ![Omnivore](https://img.shields.io/badge/Omnivore-100000?style=for-the-badge&logo=Omnivore&logoColor=3BD8E1&labelColor=B30C0C&color=F1C106) |     
-|                  ![LAMMA](https://img.shields.io/badge/LAMMA-100000?style=for-the-badge&logo=LAMMA&logoColor=0400F4&labelColor=0C0C0C&color=E4B90D)                 | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |          ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)          |          ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)         |                  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)                  |  
-| ![Stable diffusion](https://img.shields.io/badge/Stable_diffusion-100000?style=for-the-badge&logo=Stablediffusion&logoColor=0400F4&labelColor=0C0C0C&color=EA1F0C) |  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  |    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)    | ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) |                  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)                  |        
-|               ![Mistral](https://img.shields.io/badge/Mistral-100000?style=for-the-badge&logo=Mistral&logoColor=0400F4&labelColor=0C0C0C&color=282727)              |   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  | ![Nano](https://img.shields.io/badge/nano-100000?style=for-the-badge&logo=nano&logoColor=EDEAEA&labelColor=151515&color=black) |         ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)         |                     ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)                     |
+| AI models | ML & DL | IDE/Editors | Software | Tools &          Services |                                                                   
+| :----------------: | :------------------: | :-------------------: | :--------------------: | :-----------------: | 
+| ![Orca](../assets/svg/Orca-100000.svg) | ![NumPy](../assets/svg/numpy-013243.svg)  |     ![Notepad++](../assets/svg/Notepad++-90E59A.svg)     |  ![Gimp ](../assets/svg/Gimp-657D8B.svg)  | ![Omnivore](../assets/svg/Omnivore-100000.svg) |    
+| ![LAMMA](../assets/svg/LAMMA-100000.svg) | ![Pandas](../assets/svg/pandas-150458.svg) |   ![Spyder](../assets/svg/Spyder-838485.svg)  |   ![Audacity](../assets/svg/Audacity-0000CC.svg)    |   ![Canva](../assets/svg/Canva-00C4CC.svg)  |  
+| ![Stable diffusion](../assets/svg/Stable_diffusion-100000.svg) |  ![SciPy](../assets/svg/SciPy-0C55A5.svg)  |    ![Jupyter Notebook](../assets/svg/jupyter-FA0F00.svg)    | ![MS Office](../assets/svg/Microsoft_Office-D83B01.svg) |   ![LaTeX](../assets/svg/latex-008080.svg)   |  
+| ![Mistral](../assets/svg/Mistral-100000.svg)  |  ![Keras](../assets/svg/Keras-D00000.svg)   | ![Nano](../assets/svg/nano-100000.svg) | ![Inkscape](../assets/svg/Inkscape-e0e0e0.svg) | ![Gitea](../assets/svg/Gitea-34495E.svg) | 
   
 --- 
 <!--- -- Projects Section ------------>
 
-# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+# Projects <img src="../assets/images/folder.png" alt="binder folder" width="40" />
 
 | Web3 | myblog | improved-barnacle | linktree |
 |:---------:|:-------------:|:----------:|:-------------------:|
