@@ -74,7 +74,7 @@
 
 # Skills <img src="assets/images/folder.png" alt="binder folder" width="40" /> 
 
-![My Skills](../assets/svg/icons.svg)
+![My Skills](assets/svg/icons.svg)
 
 | AI models | ML & DL | IDE/Editors | Software | Tools &          Services |                                                                   
 | :----------------: | :------------------: | :-------------------: | :--------------------: | :-----------------: | 
