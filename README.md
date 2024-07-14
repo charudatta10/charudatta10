@@ -20,7 +20,7 @@
 
 <h3 align="center">A passionate AI-ML-EDGE developer from Multiverse 1729</h3>
 
-<img align="right" src="https://github.com/charudatta10/charudatta10/blob/main/assets/images/banner1-modified.png" alt="Charudatta" width="180" height="180"/>
+<img align="right" src="assets/images/banner1-modified.png" alt="Charudatta" width="180" height="180"/>
 
 🧠  AI-ML engineer from India, super into Open Source.
 
@@ -32,7 +32,7 @@
 
 🤝 I’m looking for help with [Python to edge flow](https://github.com/charudatta10/Vitis-AI)
 
-<img align="right" src="https://github.com/charudatta10/charudatta10/blob/main/assets/images/banner2-modified.png" alt="Charudatta" width="180" height="180"/>
+<img align="right" src="assets/images/banner2-modified.png" alt="Charudatta" width="180" height="180"/>
 
 👨‍💻 All of my projects are available at [https://github.com/charudatta10](https://github.com/charudatta10)
 
