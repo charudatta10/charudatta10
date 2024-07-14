@@ -97,7 +97,7 @@
  ---
 <!--- -- Support Me Here ---------->
 
-# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me here 
+# <img src="assets/images/handshake.png" alt="Handshake" width="40" /> Sponsor me here 
 
 | ![Bhim UPI](assets/images/pay1.jpeg)  | ![GPay](assets/images/pay2.jpeg) | ![PhonePe](assets/images/pay3.jpeg) | ![Metamask](assets/images/pay4.jpeg) |
 |:---------:|:-------------:|:----------:|:-------------------:|
