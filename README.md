@@ -5,12 +5,12 @@
 <div align="center">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
-[![GitHub](https://img.shields.io/badge/My_Site-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=314042&color=263759)](https://charudatta10.github.io/myblog/)
-[![linktree](https://img.shields.io/badge/Linktree-100000?style=for-the-badge&logo=linktree&logoColor=white&labelColor=314042&color=263759)](https://charudatta10.github.io/linktree/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-100000?style=for-the-badge&logo=Dev.to&logoColor=white&labelColor=314042&color=263759)](https://dev.to/charudatta10)
-[![Pinterest](https://img.shields.io/badge/Pinterest-100000?style=for-the-badge&logo=Pinterest&logoColor=white&labelColor=314042&color=263759)](https://in.pinterest.com/charudattakorde/)
+[![MySite](assets/svg/mysite.svg)](https://charudatta10.github.io/myblog/)
+[![linktree](assets/svg/linktree.svg)](https://charudatta10.github.io/linktree/)
+[![Dev.to](assets/svg/devto.svg)](https://dev.to/charudatta10)
+[![Pinterest](assets/svg/pinterest.svg)](https://in.pinterest.com/charudattakorde/)
 
-| [![Gitlab](https://img.shields.io/badge/Gitlab-100000?style=social&logo=Gitlab&logoColor=FF5100&labelColor=black&color=black)](https://gitlab.com/152109007c) | [![YouTube](https://img.shields.io/badge/YouTube-100000?style=social&logo=Youtube&logoColor=F70A0A&labelColor=black&color=black)](https://www.youtube.com/channel/UC6rsnLlOAfK6VU-v3kUYqhg) | [![Discord](https://img.shields.io/badge/Discord-100000?style=social&logo=Discord&logoColor=0D20F1&labelColor=black&color=black)](https://discord.gg/6SjyKxVE) | [![twitch](https://img.shields.io/badge/Twitch-100000?style=social&logo=twitch&logoColor=6613BA&labelColor=black&color=black)](https://www.twitch.tv/ryunabi326) | [![Upwork](https://img.shields.io/badge/Upwork-100000?style=social&logo=Upwork&logoColor=19C013&labelColor=black&color=black)](https://github.com/charudatta10) | [![indeed](https://img.shields.io/badge/indeed-100000?style=social&logo=indeed&logoColor=170DD3&labelColor=black&color=black)](https://profile.indeed.com/p/charudattak-h04r448)|  [![Gmail](https://img.shields.io/badge/Gmail-100000?style=social&logo=Gmail&logoColor=F70B07&labelColor=151515&color=black)](mailto:152109007c@gmail.com) |  
+| [![Gitlab](assets/svg/gitlab.svg)](https://gitlab.com/152109007c) | [![YouTube](assets/svg/youtube.svg)](https://www.youtube.com/channel/UC6rsnLlOAfK6VU-v3kUYqhg) | [![Discord](assets/svg/discord.svg)](https://discord.gg/6SjyKxVE) | [![twitch](assets/svg/twitch.svg)](https://www.twitch.tv/ryunabi326) | [![Upwork](assets/svg/upwork.svg)](https://github.com/charudatta10) | [![indeed](assets/svg/indeed.svg)](https://profile.indeed.com/p/charudattak-h04r448)|  [![Gmail](assets/svg/gmail.svg)](mailto:152109007c@gmail.com) |  
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 </div>
 
