@@ -30,7 +30,7 @@
 
 <!--- -- About ME  -->
 
-<h1 align="center" >  <img src="assets/svg/engineer.svg" alt="binder folder" width="32" />  Software Enginner  </h1>
+<h1 align="center" >  <img src="assets/svg/engineer.svg" alt="binder folder" width="32" />  Software Engineer  </h1>
 
 <img align="right" src="assets/images/banner1-modified.png" alt="Charudatta" width="180" height="180"/>
 
