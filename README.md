@@ -17,7 +17,7 @@
 
 <!--- Sponsor Me  -->
 <!-- ![](https://img.shields.io/badge/Contact%20Me-0070CA?style=for-the-badge) -->
-[![](https://img.shields.io/badge/Contact%20Me-20B2AA?style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSesCG3tUQPIzW4JScqs_A4q6w2uDTRav45J2xoAklmm76jpGA/viewform?usp=sf_link)
+[![](assets/svg/contactme.svg)](https://docs.google.com/forms/d/e/1FAIpQLSesCG3tUQPIzW4JScqs_A4q6w2uDTRav45J2xoAklmm76jpGA/viewform?usp=sf_link)
 [![Amazon Pay](assets/svg/amazon.svg)](assets/images/pay1.jpeg)
 [![Github-sponsors](assets/svg/sponsor.svg)](https://github.com/sponsors/charudatta10)
 [![Google Pay](assets/svg/gpay.svg)](assets/images/pay2.jpeg)
