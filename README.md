@@ -17,11 +17,11 @@
 
 <!--- Sponsor Me  -->
 
-[![Amazon Pay](assets/svg/amazon.svg)](https://link.upilink.in/100494c-2@okhdfcbank)
+[![Amazon Pay](assets/svg/amazon.svg)](assets/images/pay1.jpeg)
 [![Github-sponsors](assets/svg/sponsor.svg)](https://github.com/sponsors/charudatta10)
-[![Google Pay](assets/svg/gpay.svg)](https://link.upilink.in/100494c-2@okhdfcbank)
-[![Paytm](assets/svg/paytm.svg)](https://link.upilink.in/100494c-2@okhdfcbank)
-[![Phonepe](assets/svg/phonepe.svg)](https://link.upilink.in/100494c-2@okhdfcbank)
+[![Google Pay](assets/svg/gpay.svg)](assets/images/pay2.jpeg)
+[![Paytm](assets/svg/paytm.svg)](assets/images/pay4.jpeg)
+[![Phonepe](assets/svg/phonepe.svg)](assets/images/pay3.jpeg)
 
 </div>
 
