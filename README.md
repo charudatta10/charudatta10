@@ -78,7 +78,7 @@
 
 ## Blog Posts 
 
-| DEV.to | GitHub Pages | Medium | LinkedIn |
+| [DEV.to](https://dev.to/charudatta10) | [GitHub Pages](https://charudatta10.github.io/myblog/blog/index.html) | [Medium](https://medium.com/@152109007c) | [LinkedIn](https://www.linkedin.com/in/charudatta-korde/) |
 | :---: | :---: | :---: |  :---: | 
 | [![Dev.to](assets/images/blog1.jpeg)](https://dev.to/charudatta10) | [![GitHub Pages](assets/images/blog2.jpeg)](https://charudatta10.github.io/myblog/) | [![Medium](assets/images/blog3.jpeg)](https://medium.com/@152109007c) | [![LinkedIn](assets/images/blog4.jpeg)](https://www.linkedin.com/in/charudatta-korde/) |
 
