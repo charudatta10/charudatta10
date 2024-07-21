@@ -12,11 +12,20 @@
 
 | [![Gitlab](assets/svg/gitlab.svg)](https://gitlab.com/152109007c) | [![YouTube](assets/svg/youtube.svg)](https://www.youtube.com/channel/UC6rsnLlOAfK6VU-v3kUYqhg) | [![Discord](assets/svg/discord.svg)](https://discord.gg/6SjyKxVE) | [![twitch](assets/svg/twitch.svg)](https://www.twitch.tv/ryunabi326) | [![Upwork](assets/svg/upwork.svg)](https://github.com/charudatta10) | [![indeed](assets/svg/indeed.svg)](https://profile.indeed.com/p/charudattak-h04r448)|  [![Gmail](assets/svg/gmail.svg)](mailto:152109007c@gmail.com) |  
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
+![Amazon Pay](https://img.shields.io/badge/AmazonPay-ff9900.svg?style=for-the-badge&logo=Amazon-Pay&logoColor=white)
+![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
+![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
+![Paytm](https://img.shields.io/badge/Paytm-1C2C94?style=for-the-badge&logo=paytm&logoColor=05BAF3)
+![Phonepe](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)
+
 </div>
 
 ---
+
 <!--- -- About ME  -->
-<div>
+
 
 <h3 align="center">A passionate AI-ML-EDGE developer from Multiverse 1729</h3>
 
@@ -93,14 +102,6 @@
 | ![project 1](assets/images/project1.jpeg)  | ![project 2](assets/images/project2.jpeg) | ![project 3](assets/images/project3.jpeg) | ![project 4](assets/images/project4.jpeg) |
 | myprofile | OCR | Web-crawler | didactic-pancake |
 | ![project 5](assets/images/project5.jpeg)  | ![project 6](assets/images/project6.jpeg) | ![project 7](assets/images/project7.jpeg) | ![project 8](assets/images/project8.jpeg) |
-
- ---
-<!--- -- Support Me Here ---------->
-
-# <img src="assets/images/handshake.png" alt="Handshake" width="40" /> Sponsor me here 
-
-| ![Bhim UPI](assets/images/pay1.jpeg)  | ![GPay](assets/images/pay2.jpeg) | ![PhonePe](assets/images/pay3.jpeg) | ![Metamask](assets/images/pay4.jpeg) |
-|:---------:|:-------------:|:----------:|:-------------------:|
 
 <!--- -- GitHub Stats --------->
 
