@@ -85,7 +85,7 @@
 ---
 <!--- -- Skills Section ------->
 
-<h1 align="center">  <img src="assets/svg/kitchen-set-solid.svg" alt="binder folder" width="32" /> Skills   </h1>
+<h1 align="center">  <img src="assets/svg/kitchen-set-solid.svg" alt="binder folder" width="32" /> Skills Sets  </h1>
 
 ![My Skills](assets/svg/icons.svg)
 
@@ -99,7 +99,7 @@
 --- 
 <!--- -- Projects Section ------------>
 
-<h1 align="center"> <img src="assets/svg/diagram-project-solid.svg" alt="binder folder" width="32" /> Projects  </h1>
+<h1 align="center"> <img src="assets/svg/diagram-project-solid.svg" alt="binder folder" width="32" /> FOSS Projects  </h1>
 
 | [Web3](https://github.com/charudatta10/web3) | [Blog](https://github.com/charudatta10/myblog) | [Cleanup Script](https://github.com/charudatta10/improved-barnacle) | [Linktree](https://github.com/charudatta10/linktree) |
 |:---------:|:-------------:|:----------:|:-------------------:|
@@ -124,12 +124,14 @@
 |  - | - |
 
 ---
+<h1 align="center"> <img src="assets/svg/briefcase-solid.svg" alt="binder folder" width="32" /> My Work </h1>
 
 | [Resume](assets/images/resume.png) | [Curriculum Vitae](assets/pdfs/cv.pdf) | [Portfolio](assets/pdfs/portfolio.pdf) |
 | -- | -- |  -- |
 | ![resume](assets/images/resume.png) | ![cv](assets/images/cv.png) | ![portfolio](assets/images/portfolio.png) |
 
 ---
+<h1 align="center"> <img src="assets/svg/soap-solid.svg" alt="binder folder" width="32" /> Fun Bubbles </h1>
 
 | ![Jokes Card](https://readme-jokes.vercel.app/api) | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) |
 | - | - |
