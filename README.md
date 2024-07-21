@@ -31,7 +31,7 @@
 <!--- -- About ME  -->
 
 
-<h3 align="center">A passionate AI-ML-EDGE developer from Multiverse 1729</h3>
+<h2 align="center">A passionate AI-ML-EDGE developer from Multiverse 1729</h2>
 
 <img align="right" src="assets/images/banner1-modified.png" alt="Charudatta" width="180" height="180"/>
 
@@ -76,7 +76,7 @@
 --- 
 <!-- BLOG-POST-LIST -->
 
-## Blog Posts 
+<h1 align="center" >  <img src="assets/images/folder.png" alt="binder folder" width="32" />  Blog Posts </div> </h1>
 
 | [DEV.to](https://dev.to/charudatta10) | [GitHub Pages](https://charudatta10.github.io/myblog/blog/index.html) | [Medium](https://medium.com/@152109007c) | [LinkedIn](https://www.linkedin.com/in/charudatta-korde/) |
 | :---: | :---: | :---: |  :---: | 
@@ -85,7 +85,7 @@
 ---
 <!--- -- Skills Section ------->
 
-# Skills <img src="assets/images/folder.png" alt="binder folder" width="40" /> 
+<h1 align="center">  <img src="assets/images/folder.png" alt="binder folder" width="32" /> Skills   </h1>
 
 ![My Skills](assets/svg/icons.svg)
 
@@ -99,7 +99,7 @@
 --- 
 <!--- -- Projects Section ------------>
 
-# Projects <img src="assets/images/folder.png" alt="binder folder" width="40" />
+<h1 align="center"> <img src="assets/images/folder.png" alt="binder folder" width="32" /> Projects  </h1>
 
 | [Web3](https://github.com/charudatta10/web3) | [Blog](https://github.com/charudatta10/myblog) | [Cleanup Script](https://github.com/charudatta10/improved-barnacle) | [Linktree](https://github.com/charudatta10/linktree) |
 |:---------:|:-------------:|:----------:|:-------------------:|
@@ -109,7 +109,7 @@
 
 <!--- -- GitHub Stats --------->
 
-# GitHub Stats
+<h1 align="center"> <img src="assets/images/folder.png" alt="binder folder" width="32" /> GitHub Stats </h1>
 
 <!----- Activity Graph ------>
 
