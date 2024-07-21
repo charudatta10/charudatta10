@@ -101,10 +101,10 @@
 
 # Projects <img src="assets/images/folder.png" alt="binder folder" width="40" />
 
-| Web3 | myblog | improved-barnacle | linktree |
+| [Web3](https://github.com/charudatta10/web3) | [myblog](https://github.com/charudatta10/myblog) | [improved-barnacle](https://github.com/charudatta10/improved-barnacle) | [linktree](https://github.com/charudatta10/linktree) |
 |:---------:|:-------------:|:----------:|:-------------------:|
 | ![project 1](assets/images/project1.jpeg)  | ![project 2](assets/images/project2.jpeg) | ![project 3](assets/images/project3.jpeg) | ![project 4](assets/images/project4.jpeg) |
-| myprofile | OCR | Web-crawler | didactic-pancake |
+| [myprofile](https://github.com/charudatta10/charudatta10) | [OCR](https://github.com/charudatta10/hand_written_devnagari_script_recognition) | [Task Manager](https://github.com/charudatta10/task-manager-dragon-urban-waffle) | [Readme Generator](https://github.com/charudatta10/readme-generator) |
 | ![project 5](assets/images/project5.jpeg)  | ![project 6](assets/images/project6.jpeg) | ![project 7](assets/images/project7.jpeg) | ![project 8](assets/images/project8.jpeg) |
 
 <!--- -- GitHub Stats --------->
