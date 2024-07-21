@@ -30,8 +30,7 @@
 
 <!--- -- About ME  -->
 
-
-<h2 align="center">A passionate AI-ML-EDGE developer from Multiverse 1729</h2>
+<h1 align="center" >  <img src="assets/svg/engineer.svg" alt="binder folder" width="32" />  Software Enginner  </h1>
 
 <img align="right" src="assets/images/banner1-modified.png" alt="Charudatta" width="180" height="180"/>
 
@@ -76,7 +75,7 @@
 --- 
 <!-- BLOG-POST-LIST -->
 
-<h1 align="center" >  <img src="assets/svg/blog-solid.svg" alt="binder folder" width="32" />  Blog Posts </div> </h1>
+<h1 align="center" >  <img src="assets/svg/blog-solid.svg" alt="binder folder" width="32" />  Blog Posts </h1>
 
 | [DEV.to](https://dev.to/charudatta10) | [GitHub Pages](https://charudatta10.github.io/myblog/blog/index.html) | [Medium](https://medium.com/@152109007c) | [LinkedIn](https://www.linkedin.com/in/charudatta-korde/) |
 | :---: | :---: | :---: |  :---: | 
