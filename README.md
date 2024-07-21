@@ -76,7 +76,7 @@
 --- 
 <!-- BLOG-POST-LIST -->
 
-<h1 align="center" >  <img src="assets/images/folder.png" alt="binder folder" width="32" />  Blog Posts </div> </h1>
+<h1 align="center" >  <img src="assets/svg/blog-solid.svg" alt="binder folder" width="32" />  Blog Posts </div> </h1>
 
 | [DEV.to](https://dev.to/charudatta10) | [GitHub Pages](https://charudatta10.github.io/myblog/blog/index.html) | [Medium](https://medium.com/@152109007c) | [LinkedIn](https://www.linkedin.com/in/charudatta-korde/) |
 | :---: | :---: | :---: |  :---: | 
@@ -85,7 +85,7 @@
 ---
 <!--- -- Skills Section ------->
 
-<h1 align="center">  <img src="assets/images/folder.png" alt="binder folder" width="32" /> Skills   </h1>
+<h1 align="center">  <img src="assets/svg/kitchen-set-solid.svg" alt="binder folder" width="32" /> Skills   </h1>
 
 ![My Skills](assets/svg/icons.svg)
 
@@ -99,7 +99,7 @@
 --- 
 <!--- -- Projects Section ------------>
 
-<h1 align="center"> <img src="assets/images/folder.png" alt="binder folder" width="32" /> Projects  </h1>
+<h1 align="center"> <img src="assets/svg/diagram-project-solid.svg" alt="binder folder" width="32" /> Projects  </h1>
 
 | [Web3](https://github.com/charudatta10/web3) | [Blog](https://github.com/charudatta10/myblog) | [Cleanup Script](https://github.com/charudatta10/improved-barnacle) | [Linktree](https://github.com/charudatta10/linktree) |
 |:---------:|:-------------:|:----------:|:-------------------:|
@@ -109,7 +109,7 @@
 
 <!--- -- GitHub Stats --------->
 
-<h1 align="center"> <img src="assets/images/folder.png" alt="binder folder" width="32" /> GitHub Stats </h1>
+<h1 align="center"> <img src="assets/svg/github-alt-brands-solid.svg" alt="binder folder" width="32" /> GitHub Stats </h1>
 
 <!----- Activity Graph ------>
 
