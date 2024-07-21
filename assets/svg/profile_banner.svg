@@ -1,5 +1,5 @@
 
-<svg fill="none" viewBox="0 0 1020 460" width="1020" height="460" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1020 115" width="1020" height="115" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -11,7 +11,7 @@
                 justify-content: center;
                 margin: 0;
                 width: 100%;
-                height: 460px;
+                height: 115px;
                 background: #333641;
                 background-size: 600% 400%;
                 border-radius: 10px;
