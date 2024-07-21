@@ -18,10 +18,10 @@
 <!--- Sponsor Me  -->
 <!-- ![](https://img.shields.io/badge/Contact%20Me-0070CA?style=for-the-badge) -->
 [![](assets/svg/contactme.svg)](https://docs.google.com/forms/d/e/1FAIpQLSesCG3tUQPIzW4JScqs_A4q6w2uDTRav45J2xoAklmm76jpGA/viewform?usp=sf_link)
-[![Amazon Pay](assets/svg/amazon.svg)](assets/images/pay1.jpeg)
-[![Github-sponsors](assets/svg/sponsor.svg)](https://github.com/sponsors/charudatta10)
 [![Google Pay](assets/svg/gpay.svg)](assets/images/pay2.jpeg)
+[![Github-sponsors](assets/svg/sponsor.svg)](https://github.com/sponsors/charudatta10)
 [![Paytm](assets/svg/paytm.svg)](assets/images/pay4.jpeg)
+[![Amazon Pay](assets/svg/amazon.svg)](assets/images/pay1.jpeg)
 [![Phonepe](assets/svg/phonepe.svg)](assets/images/pay3.jpeg)
 
 </div>
