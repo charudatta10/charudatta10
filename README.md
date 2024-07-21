@@ -10,15 +10,18 @@
 [![Dev.to](assets/svg/devto.svg)](https://dev.to/charudatta10)
 [![Pinterest](assets/svg/pinterest.svg)](https://in.pinterest.com/charudattakorde/)
 
+<!--- Follow Me  -->
+
 | [![Gitlab](assets/svg/gitlab.svg)](https://gitlab.com/152109007c) | [![YouTube](assets/svg/youtube.svg)](https://www.youtube.com/channel/UC6rsnLlOAfK6VU-v3kUYqhg) | [![Discord](assets/svg/discord.svg)](https://discord.gg/6SjyKxVE) | [![twitch](assets/svg/twitch.svg)](https://www.twitch.tv/ryunabi326) | [![Upwork](assets/svg/upwork.svg)](https://github.com/charudatta10) | [![indeed](assets/svg/indeed.svg)](https://profile.indeed.com/p/charudattak-h04r448)|  [![Gmail](assets/svg/gmail.svg)](mailto:152109007c@gmail.com) |  
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
+<!--- Sponsor Me  -->
 
-![Amazon Pay](https://img.shields.io/badge/AmazonPay-ff9900.svg?style=for-the-badge&logo=Amazon-Pay&logoColor=white)
-![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
-![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
-![Paytm](https://img.shields.io/badge/Paytm-1C2C94?style=for-the-badge&logo=paytm&logoColor=05BAF3)
-![Phonepe](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)
+[![Amazon Pay](assets/svg/amazon.svg)](https://link.upilink.in/100494c-2@okhdfcbank)
+[![Github-sponsors](assets/svg/sponsor.svg)](https://github.com/sponsors/charudatta10)
+[![Google Pay](assets/svg/gpay.svg)](https://link.upilink.in/100494c-2@okhdfcbank)
+[![Paytm](assets/svg/paytm.svg)](https://link.upilink.in/100494c-2@okhdfcbank)
+[![Phonepe](assets/svg/phonepe.svg)](https://link.upilink.in/100494c-2@okhdfcbank)
 
 </div>
 
