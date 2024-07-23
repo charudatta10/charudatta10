@@ -57,7 +57,8 @@ I currently work as a research scholar at NIT Goa. In my role, I have served as 
 ### MyBlog
 
 - Built a statics website using mkdocs to host portfolio. 
-- MyBlog has blog section,  
+- MyBlog has blog section, portfolio section, home and about sections.
+ 
 
 ## Skills
 
