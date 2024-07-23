@@ -125,9 +125,9 @@
 ---
 <h1 align="center"> <img src="assets/svg/briefcase-solid.svg" alt="binder folder" width="32" /> My Work </h1>
 
-| [Resume](assets/images/resume.png) | [Curriculum Vitae](assets/pdfs/cv.pdf) | [Portfolio](assets/pdfs/portfolio.pdf) |
+| [![Resume](assets/svg/resume-lightgrey.svg)](assets/pdfs/resume.pdf "download") | [![Curriculum Vitae](assets/svg/Curriculum%20Vitae-lightgrey.svg)](assets/pdfs/cv.pdf "download")  | [![Portfolio](assets/svg/portfolio-lightgrey.svg)](assets/pdfs/portfolio.pdf "download") |
 | -- | -- |  -- |
-| ![resume](assets/images/resume.png) | ![cv](assets/images/cv.png) | ![portfolio](assets/images/portfolio.png) |
+
 
 ---
 <h1 align="center"> <img src="assets/svg/soap-solid.svg" alt="binder folder" width="32" /> Fun Bubbles </h1>
