@@ -86,6 +86,8 @@
 
 <h1 align="center">  <img src="assets/svg/kitchen-set-solid.svg" alt="binder folder" width="32" /> Skills Sets  </h1>
 
+<div align="center">
+ 
 ![My Skills](assets/svg/icons.svg)
 
 | AI models | ML & DL | IDE/Editors | Software | Tools &          Services |                                                                   
@@ -94,7 +96,9 @@
 | ![LAMMA](assets/svg/LAMMA-100000.svg) | ![Pandas](assets/svg/pandas-150458.svg) |   ![Spyder](assets/svg/Spyder-838485.svg)  |   ![Audacity](assets/svg/Audacity-0000CC.svg)    |   ![Canva](assets/svg/Canva-00C4CC.svg)  |  
 | ![Stable diffusion](assets/svg/Stable_diffusion-100000.svg) |  ![SciPy](assets/svg/SciPy-0C55A5.svg)  |    ![Jupyter Notebook](assets/svg/jupyter-FA0F00.svg)    | ![MS Office](assets/svg/Microsoft_Office-D83B01.svg) |   ![LaTeX](assets/svg/latex-008080.svg)   |  
 | ![Mistral](assets/svg/Mistral-100000.svg)  |  ![Keras](assets/svg/Keras-D00000.svg)   | ![Nano](assets/svg/nano-100000.svg) | ![Inkscape](assets/svg/Inkscape-e0e0e0.svg) | ![Gitea](assets/svg/Gitea-34495E.svg) | 
-  
+
+</div>
+
 --- 
 <!--- -- Projects Section ------------>
 
@@ -124,10 +128,12 @@
 
 ---
 <h1 align="center"> <img src="assets/svg/briefcase-solid.svg" alt="binder folder" width="32" /> My Work </h1>
-
+<div align="center">
+ 
 | [![Resume](assets/svg/resume-lightgrey.svg)](assets/pdfs/resume.pdf "download") | [![Curriculum Vitae](assets/svg/Curriculum%20Vitae-lightgrey.svg)](assets/pdfs/cv.pdf "download")  | [![Portfolio](assets/svg/portfolio-lightgrey.svg)](assets/pdfs/portfolio.pdf "download") |
 | -- | -- |  -- |
 
+</div>
 
 ---
 <h1 align="center"> <img src="assets/svg/soap-solid.svg" alt="binder folder" width="32" /> Fun Bubbles </h1>
