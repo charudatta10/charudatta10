@@ -39,9 +39,15 @@ I currently work as a research scholar at NIT Goa. In my role, I have served as 
 |           HSSC           |      2011       |     71     |    Goa Board     |                Science                 |      Santacruz Higher Secondary      |  |
 | Bachelors in Engineering |      2015       |     76     |  Goa University  | Electrical and Electronics Engineering |      Goa College of Engineering      |
 |  Masters in Engineering  |      2017       |     81     |  Goa University  |      Microelectronics Engineering      |      Goa college of Engineering      |
-|           PhD            |      2024       |     86     |     NIT Goa      |                  VLSI                  | National Institute of Technology Goa |
+|           PhD            |      *2024       |     86     |     NIT Goa      |                  VLSI                  | National Institute of Technology Goa |
 
 ## Current Projects
+
+### GenAiTamago
+
+- Built a Generative AI PyTorch tensor model aggregator project.
+- Project include GAN, VanillaGAN, ConditionalGAN, DCGAN, WGAN.
+- GenAiTamago is used to trace signal, and generate handwritten digits with given prompts.
 
 ### readme-generator
 
@@ -58,18 +64,31 @@ I currently work as a research scholar at NIT Goa. In my role, I have served as 
 
 - Built a statics website using mkdocs to host portfolio. 
 - MyBlog has blog section, portfolio section, home and about sections.
- 
+<!-- 
+### legendary-dollop
 
-## Skills
+- Built a SVG generator project.
+- Project generates svg's such as glitch, luminance, badge etc.
+
+### improved-barnacle
+
+- Built python script to clean download directory.
+- Project sorts through the files by extension and move files to folder. -->
+
+## Tools & Skills
 
 - **Programming**: Python, Verilog, Latex.
-- **Deep learning**: GAN, CGAN, WGAN.
+- **Deep learning tools**: PyTorch, Tensorflow, keras,
+- **Deep learning models**: GAN, CGAN, WGAN, DCGAN.
 - **Machine learning**: genetic algorithm, wavelet transform, MFDFA.
 - **Artificial intelligence**: ollama, lamma3, gemma.
-- **VLSI**: FPGA.
+- **VLSI**: Quartus, Vivado, FPGA.
+- **misc tools**: powershell, vscode, github, neovim.
+  
 
+<!-- 
 ## Achievements
 
 ### Best Undergrad Research Project <span class="spacer"></span> 2018
 
-### Eagle Scout <span class="spacer"></span> 2012
+### Eagle Scout <span class="spacer"></span> 2012 -->

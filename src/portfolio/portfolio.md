@@ -59,13 +59,25 @@ I am X where X is:
 
 ## Education
 
-|      Qualification       | Year of passing | Percentage | Board/University |             Specialization             |            Institute Name            |
-| :----------------------: | :-------------: | :--------: | :--------------: | :------------------------------------: | :----------------------------------: |
+|      Qualification       | Year of passing | Percentage | Board |             Specialization             |            Institute Name            |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 |           SSC            |      2019       |     69     |    Goa Board     |                Science                 |          Dr. K.B. Hedgewar           |
-|           HSSC           |      2011       |     71     |    Goa Board     |                Science                 |      Santacruz Higher Secondary      |  |
-| Bachelors in Engineering |      2015       |     76     |  Goa University  | Electrical and Electronics Engineering |      Goa College of Engineering      |
-|  Masters in Engineering  |      2017       |     81     |  Goa University  |      Microelectronics Engineering      |      Goa college of Engineering      |
-|           PhD            |      2024       |     86     |     NIT Goa      |                  VLSI                  | National Institute of Technology Goa |
+|           HSSC           |      2011       |     71     |    Goa Board     |                Science                 |      Santacruz Higher Secondary      |  
+
+---
+
+## Education (Continued...1)
+|      Qualification       | Year of passing | Percentage | University |             Specialization             |            Institute Name            |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Bachelors  |      2015       |     76     |  Goa   | EEE |      Goa College of Engineering      |
+|  Masters  |      2017       |     81     |  Goa  |      Microelectronics      |      Goa college of Engineering      |
+
+---
+
+## Education (Continued...2)
+|      Qualification       | Year of passing | Percentage | University |             Specialization             |            Institute Name            |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|           PhD            |      *2024       |     86     |     NIT Goa      |                  VLSI                  | National Institute of Technology Goa |
 
 
 ---
