@@ -130,7 +130,7 @@
 <h1 align="center"> <img src="assets/svg/briefcase-solid.svg" alt="binder folder" width="32" /> My Work </h1>
 <div align="center">
  
-| [![Resume](assets/svg/resume-lightgrey.svg)](assets/pdfs/resume.pdf "download") | [![Curriculum Vitae](assets/svg/Curriculum%20Vitae-blueviolet.svg)](assets/pdfs/cv.pdf "download")  | [![Portfolio](assets/svg/portfolio-lightgrey.svg)](assets/pdfs/portfolio.pdf "download") |
+| [![Resume](assets/svg/resume-lightgrey.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/Curriculum%20Vitae-blueviolet.svg)](src/cv/cv.pdf "download")  | [![Portfolio](assets/svg/portfolio-lightgrey.svg)](src/portfolio/portfolio.pdf "download") |
 | -- | -- |  -- |
 
 </div>
