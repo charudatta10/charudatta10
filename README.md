@@ -5,24 +5,20 @@
 <div align="center">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
-[![MySite](assets/svg/mysite.svg)](https://charudatta10.github.io/myblog/)
-[![linktree](assets/svg/linktree.svg)](https://charudatta10.github.io/linktree/)
 [![Dev.to](assets/svg/devto.svg)](https://dev.to/charudatta10)
 [![Pinterest](assets/svg/pinterest.svg)](https://in.pinterest.com/charudattakorde/)
 
 <!--- Follow Me  -->
 
-| [![Gitlab](assets/svg/gitlab.svg)](https://gitlab.com/152109007c) | [![YouTube](assets/svg/youtube.svg)](https://www.youtube.com/channel/UC6rsnLlOAfK6VU-v3kUYqhg) | [![Discord](assets/svg/discord.svg)](https://discord.gg/6SjyKxVE) | [![twitch](assets/svg/twitch.svg)](https://www.twitch.tv/ryunabi326) | [![Upwork](assets/svg/upwork.svg)](https://github.com/charudatta10) | [![indeed](assets/svg/indeed.svg)](https://profile.indeed.com/p/charudattak-h04r448)|  [![Gmail](assets/svg/gmail.svg)](mailto:152109007c@gmail.com) |  
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [![indeed](assets/svg/indeed.svg)](https://profile.indeed.com/p/charudattak-h04r448)|  [![Gmail](assets/svg/gmail.svg)](mailto:152109007c@gmail.com) |  
+|:---:|:---:|
 
 <!--- Sponsor Me  -->
 <!-- ![](https://img.shields.io/badge/Contact%20Me-0070CA?style=for-the-badge) -->
 [![](assets/svg/contactme.svg)](https://docs.google.com/forms/d/e/1FAIpQLSesCG3tUQPIzW4JScqs_A4q6w2uDTRav45J2xoAklmm76jpGA/viewform?usp=sf_link)
-[![Google Pay](assets/svg/gpay.svg)](assets/images/pay2.jpeg)
 [![Github-sponsors](assets/svg/sponsor.svg)](https://github.com/sponsors/charudatta10)
 [![Paytm](assets/svg/paytm.svg)](assets/images/pay4.jpeg)
-[![Amazon Pay](assets/svg/amazon.svg)](assets/images/pay1.jpeg)
-[![Phonepe](assets/svg/phonepe.svg)](assets/images/pay3.jpeg)
+
 
 </div>
 
