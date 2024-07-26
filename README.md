@@ -100,15 +100,6 @@
 </div>
 
 --- 
-<!--- -- Projects Section ------------>
-
-<h1 align="center"> <img src="assets/svg/diagram-project-solid.svg" alt="binder folder" width="32" /> FOSS Projects  </h1>
-
-| [Web3](https://github.com/charudatta10/web3) | [Blog](https://github.com/charudatta10/myblog) | [Cleanup Script](https://github.com/charudatta10/improved-barnacle) | [Linktree](https://github.com/charudatta10/linktree) |
-|:---------:|:-------------:|:----------:|:-------------------:|
-| ![project 1](assets/images/project1.jpeg)  | ![project 2](assets/images/project2.jpeg) | ![project 3](assets/images/project3.jpeg) | ![project 4](assets/images/project4.jpeg) |
-| [Profile](https://github.com/charudatta10/charudatta10) | [OCR](https://github.com/charudatta10/hand_written_devnagari_script_recognition) | [Task Manager](https://github.com/charudatta10/task-manager-dragon-urban-waffle) | [Readme Generator](https://github.com/charudatta10/readme-generator) |
-| ![project 5](assets/images/project5.jpeg)  | ![project 6](assets/images/project6.jpeg) | ![project 7](assets/images/project7.jpeg) | ![project 8](assets/images/project8.jpeg) |
 
 <!--- -- GitHub Stats --------->
 
@@ -146,7 +137,11 @@
 | [![Contact](assets/svg/contact.svg)](https://docs.google.com/forms/d/e/1FAIpQLSesCG3tUQPIzW4JScqs_A4q6w2uDTRav45J2xoAklmm76jpGA/viewform?usp=sf_link) | ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=1920&lines=%E2%80%9CBe+afraid+and+do+it+anyway.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CRight+now+is+the+only+guarantee.%E2%80%9D+%E2%80%93+Jay+Long;%E2%80%9CBe+a+voice.+Not+an+echo.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CIt+will+all+make+sense+eventually.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CDon%E2%80%99t+be+afraid+to+dream+big.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CFearlessness+is+the+mother+of+reinvention.%E2%80%9D+%E2%80%93+Arianna+Huffington) |
 | --- | --- |
 
+---
 
+<!--- -- Projects Section ------------>
+
+<h1 align="center"> <img src="assets/svg/diagram-project-solid.svg" alt="binder folder" width="32" /> Pinned Projects  </h1>
 
 
 
