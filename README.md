@@ -5,19 +5,17 @@
 <div align="center">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
+[![Github-sponsors](assets/svg/sponsors-100000.svg)](https://github.com/sponsors/charudatta10)
+[![Paytm](assets/svg/paytm-100000.svg)](assets/images/pay4.jpeg)
 [![Dev.to](assets/svg/devto.svg)](https://dev.to/charudatta10)
-[![Pinterest](assets/svg/pinterest.svg)](https://in.pinterest.com/charudattakorde/)
+[![indeed](assets/svg/indeed-100000.svg)](https://profile.indeed.com/p/charudattak-h04r448)
+[![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com)
+[![Contact Me](assets/svg/contact_me-100000.svg)](https://docs.google.com/forms/d/e/1FAIpQLSesCG3tUQPIzW4JScqs_A4q6w2uDTRav45J2xoAklmm76jpGA/viewform?usp=sf_link)
 
-<!--- Follow Me  -->
-
-| [![indeed](assets/svg/indeed.svg)](https://profile.indeed.com/p/charudattak-h04r448)|  [![Gmail](assets/svg/gmail.svg)](mailto:152109007c@gmail.com) |  
-|:---:|:---:|
 
 <!--- Sponsor Me  -->
 <!-- ![](https://img.shields.io/badge/Contact%20Me-0070CA?style=for-the-badge) -->
-[![](assets/svg/contactme.svg)](https://docs.google.com/forms/d/e/1FAIpQLSesCG3tUQPIzW4JScqs_A4q6w2uDTRav45J2xoAklmm76jpGA/viewform?usp=sf_link)
-[![Github-sponsors](assets/svg/sponsor.svg)](https://github.com/sponsors/charudatta10)
-[![Paytm](assets/svg/paytm.svg)](assets/images/pay4.jpeg)
+
 
 
 </div>
