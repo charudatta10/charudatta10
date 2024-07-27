@@ -1,26 +1,16 @@
 ![SVG Banners](assets/svg/profile_banner.svg)
- 
----
 
 <div align="center">
-
+ 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
 [![Github-sponsors](assets/svg/sponsors-100000.svg)](https://github.com/sponsors/charudatta10)
 [![Paytm](assets/svg/paytm-100000.svg)](assets/images/pay4.jpeg)
 [![Dev.to](assets/svg/devto.svg)](https://dev.to/charudatta10)
 [![indeed](assets/svg/indeed-100000.svg)](https://profile.indeed.com/p/charudattak-h04r448)
 [![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com)
-[![Contact Me](assets/svg/contact_me-100000.svg)](https://docs.google.com/forms/d/e/1FAIpQLSesCG3tUQPIzW4JScqs_A4q6w2uDTRav45J2xoAklmm76jpGA/viewform?usp=sf_link)
-
-
-<!--- Sponsor Me  -->
 <!-- ![](https://img.shields.io/badge/Contact%20Me-0070CA?style=for-the-badge) -->
 
-
-
 </div>
-
----
 
 <!--- -- About ME  -->
 
@@ -66,7 +56,6 @@
 
 <br>
 
---- 
 <!-- BLOG-POST-LIST -->
 
 <h1 align="center" >  <img src="assets/svg/blog-solid.svg" alt="binder folder" width="32" />  Blog Posts </h1>
@@ -75,7 +64,6 @@
 | :---: | :---: | :---: |  :---: | 
 | [![Dev.to](assets/images/blog1.jpeg)](https://dev.to/charudatta10) | [![GitHub Pages](assets/images/blog2.jpeg)](https://charudatta10.github.io/myblog/) | [![Medium](assets/images/blog3.jpeg)](https://medium.com/@152109007c) | [![LinkedIn](assets/images/blog4.jpeg)](https://www.linkedin.com/in/charudatta-korde/) |
 
----
 <!--- -- Skills Section ------->
 
 <h1 align="center">  <img src="assets/svg/kitchen-set-solid.svg" alt="binder folder" width="32" /> Skills Sets  </h1>
@@ -93,8 +81,6 @@
 
 </div>
 
---- 
-
 <!--- -- GitHub Stats --------->
 
 <h1 align="center"> <img src="assets/svg/github-alt-brands-solid.svg" alt="binder folder" width="32" /> GitHub Stats </h1>
@@ -111,7 +97,6 @@
 | ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=charudatta10&data=followers,repositories,stars,commits&theme=onedark) | ![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic) |
 |  - | - |
 
----
 <h1 align="center"> <img src="assets/svg/briefcase-solid.svg" alt="binder folder" width="32" /> My Work </h1>
 <div align="center">
  
@@ -120,18 +105,12 @@
 
 </div>
 
----
 <h1 align="center"> <img src="assets/svg/soap-solid.svg" alt="binder folder" width="32" /> Fun Bubbles </h1>
 
 | ![Jokes Card](https://readme-jokes.vercel.app/api) | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) |
 | - | - |
 
----
-
-| [![Contact](assets/svg/contact.svg)](https://docs.google.com/forms/d/e/1FAIpQLSesCG3tUQPIzW4JScqs_A4q6w2uDTRav45J2xoAklmm76jpGA/viewform?usp=sf_link) | ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=1920&lines=%E2%80%9CBe+afraid+and+do+it+anyway.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CRight+now+is+the+only+guarantee.%E2%80%9D+%E2%80%93+Jay+Long;%E2%80%9CBe+a+voice.+Not+an+echo.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CIt+will+all+make+sense+eventually.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CDon%E2%80%99t+be+afraid+to+dream+big.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CFearlessness+is+the+mother+of+reinvention.%E2%80%9D+%E2%80%93+Arianna+Huffington) |
-| --- | --- |
-
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=1920&lines=%E2%80%9CBe+afraid+and+do+it+anyway.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CRight+now+is+the+only+guarantee.%E2%80%9D+%E2%80%93+Jay+Long;%E2%80%9CBe+a+voice.+Not+an+echo.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CIt+will+all+make+sense+eventually.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CDon%E2%80%99t+be+afraid+to+dream+big.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CFearlessness+is+the+mother+of+reinvention.%E2%80%9D+%E2%80%93+Arianna+Huffington)
 
 <!--- -- Projects Section ------------>
 
