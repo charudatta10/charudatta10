@@ -12,6 +12,14 @@
 
 </div>
 
+<h1 align="center"> <img src="assets/svg/briefcase-solid.svg" alt="binder folder" width="32" /> My Work </h1>
+<div align="center">
+ 
+| [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download")  | [![Portfolio](assets/svg/portfolio-100000.svg)](src/portfolio/portfolio.pdf "download") |
+| -- | -- |  -- |
+
+</div>
+
 <!--- -- About ME  -->
 
 <h1 align="center" >  <img src="assets/svg/engineer.svg" alt="binder folder" width="32" />  Software Engineer  </h1>
@@ -54,16 +62,6 @@
 
 </div>
 
-<br>
-
-<!-- BLOG-POST-LIST -->
-
-<h1 align="center" >  <img src="assets/svg/blog-solid.svg" alt="binder folder" width="32" />  Blog Posts </h1>
-
-| [DEV.to](https://dev.to/charudatta10) | [GitHub Pages](https://charudatta10.github.io/myblog/blog/index.html) | [Medium](https://medium.com/@152109007c) | [LinkedIn](https://www.linkedin.com/in/charudatta-korde/) |
-| :---: | :---: | :---: |  :---: | 
-| [![Dev.to](assets/images/blog1.jpeg)](https://dev.to/charudatta10) | [![GitHub Pages](assets/images/blog2.jpeg)](https://charudatta10.github.io/myblog/) | [![Medium](assets/images/blog3.jpeg)](https://medium.com/@152109007c) | [![LinkedIn](assets/images/blog4.jpeg)](https://www.linkedin.com/in/charudatta-korde/) |
-
 <!--- -- Skills Section ------->
 
 <h1 align="center">  <img src="assets/svg/kitchen-set-solid.svg" alt="binder folder" width="32" /> Skills Sets  </h1>
@@ -81,6 +79,26 @@
 
 </div>
 
+<!-- BLOG-POST-LIST -->
+
+<h1 align="center" >  <img src="assets/svg/blog-solid.svg" alt="binder folder" width="32" />  Blog Posts </h1>
+
+<img align="right" src="assets/images/blog1.jpeg" alt="Charudatta" width="180" height="180"/>
+
+- [exploring the legendary dollop repository an svg generator](https://dev.to/charudatta10/exploring-the-legendary-dollop-repository-an-svg-generator-4388)
+- [Organization schemes for note taking](https://dev.to/charudatta10/organization-schemes-for-note-taking-j18)
+- [VS Code for Note-Taking](https://dev.to/charudatta10/vs-code-for-note-taking-324b)
+- [Improved-Barnacle repository: (The Cleanup Python Script)](https://dev.to/charudatta10/improved-barnacle-repository-the-cleanup-python-script-172d)
+- [Vscode setup with Foam and Logseq for Digital Note Taking](https://dev.to/charudatta10/vscode-setup-with-foam-and-logseq-for-digital-note-taking-2953)
+
+  <img align="right" src="assets/images/blog2.jpeg" alt="Charudatta" width="180" height="180"/>
+  
+- [Collaborative Note-Taking with AI: Tools that Facilitate Teamwork and Knowledge Sharing](https://dev.to/charudatta10/collaborative-note-taking-with-ai-tools-that-facilitate-teamwork-and-knowledge-sharing-2i3p)
+- [Visual Note-Taking Apps: Unleashing Creativity with AI-Driven Mind Maps and Doodles](https://dev.to/charudatta10/visual-note-taking-apps-unleashing-creativity-with-ai-driven-mind-maps-and-doodles-hfp)
+- [Introduction to Digital Note-Taking: A Beginner's Guide](https://dev.to/charudatta10/introduction-to-digital-note-taking-a-beginners-guide-9p2)
+- [Why Obsidian Falls Short as a Note-Taking Tool](https://dev.to/charudatta10/why-obsidian-falls-short-as-a-note-taking-tool-3ef2)
+- [Customizing AI Prompts for Note-Taking: Tips for Tailoring Your AI-Generated Prompts](https://charudatta10.github.io/myblog/blog/index.html)
+  
 <!--- -- GitHub Stats --------->
 
 <h1 align="center"> <img src="assets/svg/github-alt-brands-solid.svg" alt="binder folder" width="32" /> GitHub Stats </h1>
@@ -96,14 +114,6 @@
 
 | ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=charudatta10&data=followers,repositories,stars,commits&theme=onedark) | ![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic) |
 |  - | - |
-
-<h1 align="center"> <img src="assets/svg/briefcase-solid.svg" alt="binder folder" width="32" /> My Work </h1>
-<div align="center">
- 
-| [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download")  | [![Portfolio](assets/svg/portfolio-100000.svg)](src/portfolio/portfolio.pdf "download") |
-| -- | -- |  -- |
-
-</div>
 
 <h1 align="center"> <img src="assets/svg/soap-solid.svg" alt="binder folder" width="32" /> Fun Bubbles </h1>
 
