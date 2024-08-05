@@ -24,7 +24,7 @@
 
 <h1 align="center" >  <img src="assets/svg/engineer.svg" alt="binder folder" width="32" />  Software Engineer  </h1>
 
-<img align="right" src="assets/images/banner1-modified.png" alt="Charudatta" width="180" height="180"/>
+<img align="right" src="assets/images/banner1.jpeg" alt="Charudatta" width="180" height="180"/>
 
 🧠  AI-ML engineer from India, super into Open Source.
 
@@ -36,7 +36,7 @@
 
 🤝 I’m looking for help with [Python to edge flow](https://github.com/charudatta10/Vitis-AI)
 
-<img align="right" src="assets/images/banner2-modified.png" alt="Charudatta" width="180" height="180"/>
+<img align="right" src="assets/images/banner2.jpeg" alt="Charudatta" width="180" height="180"/>
 
 👨‍💻 All of my projects are available at [https://github.com/charudatta10](https://github.com/charudatta10)
 
