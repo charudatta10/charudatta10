@@ -26,37 +26,57 @@
 
 <img align="right" src="assets/images/banner1.jpeg" alt="Charudatta" width="180" height="180"/>
 
-🧠  AI-ML engineer from India, super into Open Source.
+🧠  AI-ML \& Hardware engineer from India, super into Open Source.
 
-🔭 I’m currently working on [Privacy and Data security with GAN's](https://github.com/charudatta10)
+🔭 I’m currently working on [FPGA Hardware](https://github.com/charudatta10/hdl-codes-glowing-octo-invention)
 
-🌱 I’m currently learning **HLS4ML**
+🌱 I’m currently learning **FPGA, GAN \& NNGEN**
 
-👯 I’m looking to collaborate on [AI ML EDGE devices](https://github.com/charudatta10)
+👯 I’m looking to collaborate on [AI ML EDGE on  devices](https://github.com/charudatta10/hdl-codes-glowing-octo-invention)
 
-🤝 I’m looking for help with [Python to edge flow](https://github.com/charudatta10/Vitis-AI)
+🤝 I’m looking for help with [Python to edge flow NNGEN](https://github.com/charudatta10/hdl-codes-glowing-octo-invention)
 
 <img align="right" src="assets/images/banner2.jpeg" alt="Charudatta" width="180" height="180"/>
 
 👨‍💻 All of my projects are available at [https://github.com/charudatta10](https://github.com/charudatta10)
 
-💬 Ask me about **Genetic Algorithm, GANs, FPGAs**
+💬 Ask me about **Genetic Algorithm, GANs, FPGAs, MFDFA**
 
 📫 How to reach me **Korde.charudatta@gmail.com**
 
-<!-- 🎯 my goal is -->
+🎯 my goal is advancing your expertise and contributions in areas:
+ 
+ - AI and Machine Learning,
+ - Open Source Contributions,
+ - Collaboration and Learning,
+ - Research and Development.
 
-<!-- ✨ I'm part of core developer team. -->
+<img align="right" src="assets/images/banner1.jpeg" alt="Charudatta" width="180" height="180"/>
 
-<!-- 🏆 I secured compition -->
+✨ my colobrative efforts and contribution
+
+ - Open Source Projects: You’ve contributed to various open-source projects, which often involve collaboration with other developers. This includes your work on handwritten Devanagari script recognition and other Python scripts.
+ -  Research Collaboration: As a research scholar at NIT Goa, you have guided and collaborated with final-year bachelor’s and master’s students on lab and project work.
+ -  Community Engagement: Your involvement in creating and maintaining repositories, such as the README generator and Neovim configuration, indicates a commitment to sharing knowledge and tools with the developer community.
+
+🏆 I participated in poster compettion presenting my reserch work. I also participated in state level chess competation. 
 
 🎓 I'm pursuing a PhD in VLSI with [NITGOA](https://nitgoa.ac.in/).
 
-<!-- 🚀 my achivements -->
+<img align="right" src="assets/images/banner1.jpeg" alt="Charudatta" width="180" height="180"/>
+
+🚀 Here are  my some of  achivements:
+ 
+ - Handwritten Devanagari Script Recognition: Developed an open-source project focused on recognizing handwritten Devanagari script characters using MATLAB1.
+ - Improved Barnacle: Created a Python script for cleanup tasks1.
+ - Readme Generator: Built a tool to generate README files for GitHub repositories1.
+ - Blog: Maintained a blog hosted on GitHub, featuring articles on privacy, data security, and GANs1.
+ - Neovim Configuration: Customized Neovim to function like an IDE with fast startup times1.
+ - Research and Teaching: As a research scholar at NIT Goa, you have guided final-year bachelor’s and master’s students in lab and project work1.
 
 🎁 my work [portfolio](https://charudatta10.github.io/myblog/portfolio/project.html).
 
-<!-- 😄 just thing -->
+😄 My key philosopies are kaizen, ikegai, wabi-sabi, zen of life.
 
 🔥 "You must be the change you wish to see in the world." -Mahatma Gandhi
 
