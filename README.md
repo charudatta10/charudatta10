@@ -42,28 +42,31 @@
 
 💬 Ask me about **Genetic Algorithm, GANs, FPGAs, MFDFA**
 
+
+
 📫 How to reach me **Korde.charudatta@gmail.com**
+
 
 🎯 my goal is advancing your expertise and contributions in areas:
  
  - AI and Machine Learning,
- - Open Source Contributions,
+ - Open Source Contributions, <img align="right" src="assets/images/banner4.jpg" alt="Charudatta" width="180" height="80"/>
  - Collaboration and Learning,
  - Research and Development.
 
-<img align="right" src="assets/images/banner1.jpeg" alt="Charudatta" width="180" height="180"/>
+<img align="right" src="assets/images/banner3.jpeg" alt="Charudatta" width="180" height="120"/>
 
 ✨ my colobrative efforts and contribution
 
  - Open Source Projects: You’ve contributed to various open-source projects, which often involve collaboration with other developers. This includes your work on handwritten Devanagari script recognition and other Python scripts.
- -  Research Collaboration: As a research scholar at NIT Goa, you have guided and collaborated with final-year bachelor’s and master’s students on lab and project work.
- -  Community Engagement: Your involvement in creating and maintaining repositories, such as the README generator and Neovim configuration, indicates a commitment to sharing knowledge and tools with the developer community.
+ -  Research Collaboration: As a research scholar at NIT Goa, you have guided and collaborated with final-year bachelor’s and master’s students on lab and project work. <img align="right" src="assets/images/banner5.jpeg" alt="Charudatta" width="180" height="180"/>
+ -  Community Engagement: Your involvement in creating and maintaining repositories, such as the README generator and Neovim configuration, indicates a commitment to sharing knowledge and tools with the developer community. 
 
 🏆 I participated in poster compettion presenting my reserch work. I also participated in state level chess competation. 
 
 🎓 I'm pursuing a PhD in VLSI with [NITGOA](https://nitgoa.ac.in/).
 
-<img align="right" src="assets/images/banner1.jpeg" alt="Charudatta" width="180" height="180"/>
+<img align="right" src="assets/images/banner6.jpg" alt="Charudatta" width="180" height="180"/>
 
 🚀 Here are  my some of  achivements:
  
@@ -71,7 +74,7 @@
  - Improved Barnacle: Created a Python script for cleanup tasks1.
  - Readme Generator: Built a tool to generate README files for GitHub repositories1.
  - Blog: Maintained a blog hosted on GitHub, featuring articles on privacy, data security, and GANs1.
- - Neovim Configuration: Customized Neovim to function like an IDE with fast startup times1.
+ - Neovim Configuration: Customized Neovim to function like an IDE with fast startup times1. <img align="right" src="assets/images/banner7.jpeg" alt="Charudatta" width="180" height="180"/>
  - Research and Teaching: As a research scholar at NIT Goa, you have guided final-year bachelor’s and master’s students in lab and project work1.
 
 🎁 my work [portfolio](https://charudatta10.github.io/myblog/portfolio/project.html).
