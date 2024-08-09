@@ -36,7 +36,7 @@
 
 🤝 I’m looking for help with [Python to edge flow NNGEN](https://github.com/charudatta10/hdl-codes-glowing-octo-invention)
 
-<img align="right" src="assets/images/banner2.jpeg" alt="Charudatta" width="180" height="180"/>
+<img align="right" src="assets/images/banner2.jpeg" alt="Charudatta" width="180" height="160"/>
 
 👨‍💻 All of my projects are available at [https://github.com/charudatta10](https://github.com/charudatta10)
 
@@ -47,7 +47,7 @@
 🎯 my goal is advancing your expertise and contributions in areas:
  
  - AI and Machine Learning,
- - Open Source Contributions, <img align="right" src="assets/images/banner4.jpg" alt="Charudatta" width="180" height="60"/>
+ - Open Source Contributions, <img align="right" src="assets/images/banner4.jpg" alt="Charudatta" width="180" height="80"/>
  - Collaboration and Learning,
  - Research and Development.
 
