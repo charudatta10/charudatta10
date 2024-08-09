@@ -42,15 +42,12 @@
 
 💬 Ask me about **Genetic Algorithm, GANs, FPGAs, MFDFA**
 
-
-
 📫 How to reach me **Korde.charudatta@gmail.com**
-
 
 🎯 my goal is advancing your expertise and contributions in areas:
  
  - AI and Machine Learning,
- - Open Source Contributions, <img align="right" src="assets/images/banner4.jpg" alt="Charudatta" width="180" height="80"/>
+ - Open Source Contributions, <img align="right" src="assets/images/banner4.jpg" alt="Charudatta" width="180" height="60"/>
  - Collaboration and Learning,
  - Research and Development.
 
@@ -66,7 +63,7 @@
 
 🎓 I'm pursuing a PhD in VLSI with [NITGOA](https://nitgoa.ac.in/).
 
-<img align="right" src="assets/images/banner6.jpg" alt="Charudatta" width="180" height="180"/>
+<img align="right" src="assets/images/banner6.jpg" alt="Charudatta" width="180" height="160"/>
 
 🚀 Here are  my some of  achivements:
  
