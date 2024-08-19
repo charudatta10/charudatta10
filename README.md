@@ -41,7 +41,7 @@
 
 <div align="center">
 <img src="assets/images/banner1.jpeg" alt="Charudatta" width="90" height="90"/> <img src="assets/images/banner2.jpeg" alt="Charudatta" width="90" height="90"/>
-<img src="assets/images/banner3.jpeg" alt="Charudatta" width="90" height="90"/><img  src="assets/images/banner4.jpg" alt="Charudatta" width="90" height="90"/>
+<img src="assets/images/banner3.jpg" alt="Charudatta" width="90" height="90"/><img  src="assets/images/banner4.jpg" alt="Charudatta" width="90" height="90"/>
 </div>
 
 <!--- -- Skills Section ------->
