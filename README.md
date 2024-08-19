@@ -22,63 +22,30 @@
 
 <!--- -- About ME  -->
 
+<img align="left" src="assets/images/banner3.jpeg" alt="Charudatta" width="90" height="90"/><img align="right" src="assets/images/banner4.jpg" alt="Charudatta" width="90" height="90"/>
+
 <h1 align="center" >  <img src="assets/svg/engineer.svg" alt="binder folder" width="32" />  Software Engineer  </h1>
 
-<img align="right" src="assets/images/banner1.jpeg" alt="Charudatta" width="180" height="180"/>
+<div align="center"> <h5> 🧠 AI-ML & Hardware Engineer | Open Source Enthusiast</h5> </div>
 
-🧠  AI-ML \& Hardware engineer from India, super into Open Source.
+<img align="right" src="assets/images/banner1.jpeg" alt="Charudatta" width="420" height="240"/>
 
-🔭 I’m currently working on [FPGA Hardware](https://github.com/charudatta10/hdl-codes-glowing-octo-invention)
+| **🔭 Current Work** | FPGA Hardware, AI/ML on Edge Devices |
+| :--: | :--: |
+| **🌱 Learning** | FPGA, GANs, NNGEN |
+| **👯 Collaboration** | Open to AI/ML projects on edge devices |
+| **🎁 Projects** | <ul> <li> Handwritten Devanagari Script Recognition </li> <li>  Python Cleanup Script  </li> <li>  README Generator  </li> <li>   Neovim Configuration </li><ul> |
 
-🌱 I’m currently learning **FPGA, GAN \& NNGEN**
+<img align="right" src="assets/images/banner2.jpeg" alt="Charudatta" width="280" height="180"/>
 
-👯 I’m looking to collaborate on [AI ML EDGE on  devices](https://github.com/charudatta10/hdl-codes-glowing-octo-invention)
+| **🎓 Research** | PhD in VLSI at NIT Goa, guiding students in lab and project work |
+| :--: | :--: |
+| **🏆🚀 Achievements** | State-level chess competitor, poster competition participant |
+| **📫 Contact** | Korde.charudatta@gmail.com |
+| **😄 Philosophy** | Kaizen, Ikigai, Wabi-Sabi, Zen of Life |
+| **🎁 my work** | [portfolio](https://charudatta10.github.io/myblog/portfolio/project.html). |
 
-🤝 I’m looking for help with [Python to edge flow NNGEN](https://github.com/charudatta10/hdl-codes-glowing-octo-invention)
-
-<img align="right" src="assets/images/banner2.jpeg" alt="Charudatta" width="180" height="160"/>
-
-👨‍💻 All of my projects are available at [https://github.com/charudatta10](https://github.com/charudatta10)
-
-💬 Ask me about **Genetic Algorithm, GANs, FPGAs, MFDFA**
-
-📫 How to reach me **Korde.charudatta@gmail.com**
-
-🎯 my goal is advancing your expertise and contributions in areas:
- 
- - AI and Machine Learning,
- - Open Source Contributions, <img align="right" src="assets/images/banner4.jpg" alt="Charudatta" width="180" height="80"/>
- - Collaboration and Learning,
- - Research and Development.
-
-<img align="right" src="assets/images/banner3.jpeg" alt="Charudatta" width="180" height="120"/>
-
-✨ my colobrative efforts and contribution
-
- - Open Source Projects: You’ve contributed to various open-source projects, which often involve collaboration with other developers. This includes your work on handwritten Devanagari script recognition and other Python scripts.
- -  Research Collaboration: As a research scholar at NIT Goa, you have guided and collaborated with final-year bachelor’s and master’s students on lab and project work. <img align="right" src="assets/images/banner5.jpeg" alt="Charudatta" width="180" height="180"/>
- -  Community Engagement: Your involvement in creating and maintaining repositories, such as the README generator and Neovim configuration, indicates a commitment to sharing knowledge and tools with the developer community. 
-
-🏆 I participated in poster compettion presenting my reserch work. I also participated in state level chess competation. 
-
-🎓 I'm pursuing a PhD in VLSI with [NITGOA](https://nitgoa.ac.in/).
-
-<img align="right" src="assets/images/banner6.jpg" alt="Charudatta" width="180" height="160"/>
-
-🚀 Here are  my some of  achivements:
- 
- - Handwritten Devanagari Script Recognition: Developed an open-source project focused on recognizing handwritten Devanagari script characters using MATLAB1.
- - Improved Barnacle: Created a Python script for cleanup tasks1.
- - Readme Generator: Built a tool to generate README files for GitHub repositories1.
- - Blog: Maintained a blog hosted on GitHub, featuring articles on privacy, data security, and GANs1.
- - Neovim Configuration: Customized Neovim to function like an IDE with fast startup times1. <img align="right" src="assets/images/banner7.jpeg" alt="Charudatta" width="180" height="180"/>
- - Research and Teaching: As a research scholar at NIT Goa, you have guided final-year bachelor’s and master’s students in lab and project work1.
-
-🎁 my work [portfolio](https://charudatta10.github.io/myblog/portfolio/project.html).
-
-😄 My key philosopies are kaizen, ikegai, wabi-sabi, zen of life.
-
-🔥 "You must be the change you wish to see in the world." -Mahatma Gandhi
+> 🔥 "You must be the change you wish to see in the world." -Mahatma Gandhi
 
 </div>
 
