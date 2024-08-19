@@ -28,7 +28,7 @@
 
 <div align="center"> <h5> 🧠 AI-ML & Hardware Engineer | Open Source Enthusiast</h5> </div>
 
-<img align="right" src="assets/images/banner1.jpeg" alt="Charudatta" width="360" height="240"/>
+<img align="right" src="assets/images/banner1.jpeg" alt="Charudatta" width="360" height="180"/>
 
 | **🔭 Current Work** | FPGA Hardware, AI/ML on Edge Devices |
 | :--: | :--: |
