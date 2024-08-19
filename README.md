@@ -40,8 +40,10 @@
 > 🔥 "You must be the change you wish to see in the world." -Mahatma Gandhi
 
 <div align="center">
-<img src="assets/images/banner1.jpeg" alt="Charudatta" width="90" height="90"/> <img src="assets/images/banner2.jpeg" alt="Charudatta" width="90" height="90"/>
-<img src="assets/images/banner3.jpg" alt="Charudatta" width="90" height="90"/><img  src="assets/images/banner4.jpg" alt="Charudatta" width="90" height="90"/>
+<img src="assets/images/banner1.jpeg" alt="Charudatta" width="120" height="120"/> 
+<img src="assets/images/banner3.jpg" alt="Charudatta" width="120" height="120"/>
+<img src="assets/images/banner2.jpeg" alt="Charudatta" width="120" height="120"/>
+<img src="assets/images/banner4.jpg" alt="Charudatta" width="120" height="120"/>
 </div>
 
 <!--- -- Skills Section ------->
