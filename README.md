@@ -28,7 +28,7 @@
 
 <div align="center"> <h5> 🧠 AI-ML & Hardware Engineer | Open Source Enthusiast</h5> </div>
 
-<img align="right" src="assets/images/banner1.jpeg" alt="Charudatta" width="420" height="240"/>
+<img align="right" src="assets/images/banner1.jpeg" alt="Charudatta" width="360" height="240"/>
 
 | **🔭 Current Work** | FPGA Hardware, AI/ML on Edge Devices |
 | :--: | :--: |
@@ -36,7 +36,7 @@
 | **👯 Collaboration** | Open to AI/ML projects on edge devices |
 | **🎁 Projects** | <ul> <li> Handwritten Devanagari Script Recognition </li> <li>  Python Cleanup Script  </li> <li>  README Generator  </li> <li>   Neovim Configuration </li><ul> |
 
-<img align="right" src="assets/images/banner2.jpeg" alt="Charudatta" width="280" height="180"/>
+<img align="right" src="assets/images/banner2.jpeg" alt="Charudatta" width="240" height="180"/>
 
 | **🎓 Research** | PhD in VLSI at NIT Goa, guiding students in lab and project work |
 | :--: | :--: |
