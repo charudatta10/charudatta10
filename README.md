@@ -22,10 +22,11 @@
 
 <!--- -- About ME  -->
 
-<h1 align="center" >  <img src="assets/svg/engineer.svg" alt="binder folder" width="32" />  Software Engineer  </h1>
 
-<div align="center"> <h5> 🧠 AI-ML & Hardware Engineer | Open Source Enthusiast</h5> </div>
+<h1 align="center" >  <img src="assets/svg/engineer.svg" alt="binder folder" width="32" /> Engineer (AI-ML, FPGA) | Open Source Enthusiast </h1>
 
+<div align="center">
+ 
 | **🔭 Current Work** | FPGA Hardware, AI/ML on Edge Devices |
 | :--: | :--: |
 | **🌱 Learning** | FPGA, GANs, NNGEN |
@@ -39,7 +40,6 @@
 
 > 🔥 "You must be the change you wish to see in the world." -Mahatma Gandhi
 
-<div align="center">
 <img src="assets/images/banner1.jpeg" alt="Charudatta" width="120" height="120"/> 
 <img src="assets/images/banner3.jpg" alt="Charudatta" width="120" height="120"/>
 <img src="assets/images/banner2.jpeg" alt="Charudatta" width="120" height="120"/>
