@@ -22,24 +22,16 @@
 
 <!--- -- About ME  -->
 
-<img align="left" src="assets/images/banner3.jpeg" alt="Charudatta" width="90" height="90"/><img align="right" src="assets/images/banner4.jpg" alt="Charudatta" width="90" height="90"/>
-
 <h1 align="center" >  <img src="assets/svg/engineer.svg" alt="binder folder" width="32" />  Software Engineer  </h1>
 
 <div align="center"> <h5> 🧠 AI-ML & Hardware Engineer | Open Source Enthusiast</h5> </div>
-
-<img align="right" src="assets/images/banner1.jpeg" alt="Charudatta" width="360" height="180"/>
 
 | **🔭 Current Work** | FPGA Hardware, AI/ML on Edge Devices |
 | :--: | :--: |
 | **🌱 Learning** | FPGA, GANs, NNGEN |
 | **👯 Collaboration** | Open to AI/ML projects on edge devices |
-| **🎁 Projects** | <ul> <li> Handwritten Devanagari Script Recognition </li> <li>  Python Cleanup Script  </li> <li>  README Generator  </li> <li>   Neovim Configuration </li><ul> |
-
-<img align="right" src="assets/images/banner2.jpeg" alt="Charudatta" width="240" height="180"/>
-
+| **🎁 Projects** | Handwritten Devanagari Script Recognition, Python Cleanup Script, README Generator, Neovim Configuration |
 | **🎓 Research** | PhD in VLSI at NIT Goa, guiding students in lab and project work |
-| :--: | :--: |
 | **🏆🚀 Achievements** | State-level chess competitor, poster competition participant |
 | **📫 Contact** | Korde.charudatta@gmail.com |
 | **😄 Philosophy** | Kaizen, Ikigai, Wabi-Sabi, Zen of Life |
@@ -47,6 +39,9 @@
 
 > 🔥 "You must be the change you wish to see in the world." -Mahatma Gandhi
 
+<div align="center">
+<img src="assets/images/banner1.jpeg" alt="Charudatta" width="90" height="90"/> <img src="assets/images/banner2.jpeg" alt="Charudatta" width="90" height="90"/>
+<img src="assets/images/banner3.jpeg" alt="Charudatta" width="90" height="90"/><img  src="assets/images/banner4.jpg" alt="Charudatta" width="90" height="90"/>
 </div>
 
 <!--- -- Skills Section ------->
