@@ -21,7 +21,42 @@
 </div>
 
 <!--- -- About ME  -->
+## Current Work 🔭
+| **Area** | **Position** | **Projects** | **Learning** | **Collaborating** |
+|----------|--------------|--------------|--------------|-------------------|
+| AI-ML, FPGA Hardware | Software Engineer | FPGA Hardware projects, Python to edge flow NNGEN | FPGA, GAN, NNGEN | AI ML EDGE on devices |
 
+## Past Work 🌱
+| **Area** | **Position** | **Projects** | **Learning** | **Collaborating** |
+|----------|--------------|--------------|--------------|-------------------|
+| AI-ML, Python, Open Source |	Research Scholar |	Handwritten Devanagari Script Recognition, Improved Barnacle, Readme Generator |	Genetic Algorithm, GANs, FPGAs, MFDFA |	Open Source Contributions, Research Collaboration |
+
+## Future Work Interests 🚀
+| **Area** | **Position** | **Projects** | **Learning** | **Collaborating** |
+|----------|--------------|--------------|--------------|-------------------|
+| AI-ML, Blockchain, Smart Contracts |	Researcher, Developer |	Blockchain and smart contract projects, Advanced AI-ML models |	Advanced blockchain technologies, smart contract development |	Blockchain and AI-ML projects |
+## Achievements 🏆
+- Developed an open-source project for recognizing handwritten Devanagari script characters using MATLAB
+- Created a Python script for cleanup tasks
+- Built a tool to generate README files for GitHub repositories
+- Customized Neovim to function like an IDE with fast startup times
+- Participated in a poster competition presenting research work
+- Participated in a state-level chess competition
+## Philosophies 😄
+- Kaizen
+- Ikegai
+- Wabi-sabi
+- Zen of life
+- “You must be the change you wish to see in the world.” - Mahatma Gandhi
+## Research 🎓
+- Guided final-year bachelor’s and master’s students in lab and project work at NIT Goa
+- Focus on AI and Machine Learning, Open Source Contributions, Collaboration and Learning, Research and Development
+## Knowledge 🎓
+- AI models
+- ML & DL
+- IDE/Editors
+- Software Tools & Services
+<!--  -->
 
 <h1 align="center" >  <img src="assets/svg/engineer.svg" alt="binder folder" width="32" /> Engineer (AI-ML, FPGA) | Open Source Enthusiast </h1>
 
@@ -34,8 +69,6 @@
 | **🎁 Projects** | Handwritten Devanagari Script Recognition, Python Cleanup Script, README Generator, Neovim Configuration |
 | **🎓 Research** | PhD in VLSI at NIT Goa, guiding students in lab and project work |
 | **🏆🚀 Achievements** | State-level chess competitor, poster competition participant |
-| **📫 Contact** | Korde.charudatta@gmail.com |
-| **😄 Philosophy** | Kaizen, Ikigai, Wabi-Sabi, Zen of Life |
 | **🎁 my work** | [portfolio](https://charudatta10.github.io/myblog/portfolio/project.html). |
 
 > 🔥 "You must be the change you wish to see in the world." -Mahatma Gandhi
