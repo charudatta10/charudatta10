@@ -10,23 +10,26 @@
 [![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com)
 <!-- ![](https://img.shields.io/badge/Contact%20Me-0070CA?style=for-the-badge) -->
 
-</div>
 
-<h1 align="center"> <img src="assets/svg/briefcase-solid.svg" alt="binder folder" width="32" /> My Work </h1>
-<div align="center">
+
+# <img src="assets/svg/briefcase-solid.svg" alt="binder folder" width="32" /> My Work 
+
  
 | [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download")  | [![Portfolio](assets/svg/portfolio-100000.svg)](src/portfolio/portfolio.pdf "download") |
 | -- | -- |  -- |
 
+
+#  <img src="assets/svg/engineer.svg" alt="binder folder" width="32" /> Engineer (AI-ML, FPGA) | Open Source Enthusiast 
+<!--- -- About ME  -->
+
+| **Area** | **Position** | **Projects** | **Learning** | Comments |
+|--------------|--------------|--------------|-------------------|-------------------|
+| AI-ML, Python, Open Source |	Research Scholar |	Handwritten Devanagari Script Recognition, Improved Barnacle, Readme Generator, Python to edge flow NNGEN |	Genetic Algorithm, GANs, FPGAs, MFDFA, GAN, NNGEN |	Currently doing PhD with NITGoa |
+| AI-ML, FPGA Hardware | Software Validation Engineer | FPGA Hardware projects | FPGA, Qurtus | Previously interned with Intel |
+| FPGA, AI-ML, Blockchain, Smart Contracts |	Researcher, Developer |	FPGA devlopment, Blockchain and smart contract projects, Advanced AI-ML models |	FPGA technologies, Advanced blockchain technologies |	Future work intresets |
+
 </div>
 
-<!--- -- About ME  -->
-## Works
-| Timeframe  | **Area** | **Position** | **Projects** | **Learning** | 
-|----------|--------------|--------------|--------------|-------------------|
-| **Current Work 🔭** | AI-ML, FPGA Hardware | Software Engineer | FPGA Hardware projects, Python to edge flow NNGEN | FPGA, GAN, NNGEN |
-| **Past Work 🌱** | AI-ML, Python, Open Source |	Research Scholar |	Handwritten Devanagari Script Recognition, Improved Barnacle, Readme Generator |	Genetic Algorithm, GANs, FPGAs, MFDFA |	Open Source Contributions, Research Collaboration |
-| **Future Work Interests 🚀** | AI-ML, Blockchain, Smart Contracts |	Researcher, Developer |	Blockchain and smart contract projects, Advanced AI-ML models |	Advanced blockchain technologies, smart contract development |	Blockchain and AI-ML projects |
 ## Achievements 🏆
 - Developed an open-source project for recognizing handwritten Devanagari script characters using MATLAB
 - Created a Python script for cleanup tasks
@@ -34,48 +37,16 @@
 - Customized Neovim to function like an IDE with fast startup times
 - Participated in a poster competition presenting research work
 - Participated in a state-level chess competition
-## Philosophies 😄
-- Kaizen
-- Ikegai
-- Wabi-sabi
-- Zen of life
-- “You must be the change you wish to see in the world.” - Mahatma Gandhi
-## Research 🎓
-- Guided final-year bachelor’s and master’s students in lab and project work at NIT Goa
-- Focus on AI and Machine Learning, Open Source Contributions, Collaboration and Learning, Research and Development
-## Knowledge 🎓
-- AI models
-- ML & DL
-- IDE/Editors
-- Software Tools & Services
-<!--  -->
-
-<h1 align="center" >  <img src="assets/svg/engineer.svg" alt="binder folder" width="32" /> Engineer (AI-ML, FPGA) | Open Source Enthusiast </h1>
 
 <div align="center">
-<!-- 
-| **🔭 Current Work** | FPGA Hardware, AI/ML on Edge Devices |
-| :--: | :--: |
-| **🌱 Learning** | FPGA, GANs, NNGEN |
-| **👯 Collaboration** | Open to AI/ML projects on edge devices |
-| **🎁 Projects** | Handwritten Devanagari Script Recognition, Python Cleanup Script, README Generator, Neovim Configuration |
-| **🎓 Research** | PhD in VLSI at NIT Goa, guiding students in lab and project work |
-| **🏆🚀 Achievements** | State-level chess competitor, poster competition participant |
-| **🎁 my work** | [portfolio](https://charudatta10.github.io/myblog/portfolio/project.html). |
--->
-> 🔥 "You must be the change you wish to see in the world." -Mahatma Gandhi
-
 <img src="assets/images/banner1.jpeg" alt="Charudatta" width="120" height="120"/> 
 <img src="assets/images/banner3.jpg" alt="Charudatta" width="120" height="120"/>
 <img src="assets/images/banner2.jpeg" alt="Charudatta" width="120" height="120"/>
 <img src="assets/images/banner4.jpg" alt="Charudatta" width="120" height="120"/>
-</div>
 
 <!--- -- Skills Section ------->
 
-<h1 align="center">  <img src="assets/svg/kitchen-set-solid.svg" alt="binder folder" width="32" /> Skills Sets  </h1>
-
-<div align="center">
+# <img src="assets/svg/kitchen-set-solid.svg" alt="binder folder" width="32" /> My Knoweledge & Skills  
  
 ![My Skills](assets/svg/icons.svg)
 
@@ -87,7 +58,6 @@
 | ![Mistral](assets/svg/Mistral-100000.svg)  |  ![Keras](assets/svg/Keras-D00000.svg)   | ![Nano](assets/svg/nano-100000.svg) | ![Inkscape](assets/svg/Inkscape-e0e0e0.svg) | ![Gitea](assets/svg/Gitea-34495E.svg) | 
 
 </div>
-
 <!-- BLOG-POST-LIST -->
 
 <h1 align="center" >  <img src="assets/svg/blog-solid.svg" alt="binder folder" width="32" />  Blog Posts </h1>
@@ -109,8 +79,9 @@
 - [Customizing AI Prompts for Note-Taking: Tips for Tailoring Your AI-Generated Prompts](https://charudatta10.github.io/myblog/blog/index.html)
   
 <!--- -- GitHub Stats --------->
-
-<h1 align="center"> <img src="assets/svg/github-alt-brands-solid.svg" alt="binder folder" width="32" /> GitHub Stats </h1>
+<div align="center">
+ 
+# <img src="assets/svg/github-alt-brands-solid.svg" alt="binder folder" width="32" /> GitHub Stats 
 
 <!----- Activity Graph ------>
 
@@ -124,7 +95,9 @@
 | ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=charudatta10&data=followers,repositories,stars,commits&theme=onedark) | ![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic) |
 |  - | - |
 
-<h1 align="center"> <img src="assets/svg/soap-solid.svg" alt="binder folder" width="32" /> Fun Bubbles </h1>
+# <img src="assets/svg/soap-solid.svg" alt="binder folder" width="32" /> Fun Bubbles 
+ 
+> 🔥 "You must be the change you wish to see in the world." -Mahatma Gandhi
 
 | ![Jokes Card](https://readme-jokes.vercel.app/api) | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) |
 | - | - |
@@ -133,7 +106,7 @@
 
 <!--- -- Projects Section ------------>
 
-<h1 align="center"> <img src="assets/svg/diagram-project-solid.svg" alt="binder folder" width="32" /> Pinned Projects  </h1>
+# <img src="assets/svg/diagram-project-solid.svg" alt="binder folder" width="32" /> Pinned Projects  
 
-
+</div>
 
