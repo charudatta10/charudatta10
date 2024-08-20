@@ -21,20 +21,12 @@
 </div>
 
 <!--- -- About ME  -->
-## Current Work 🔭
-| **Area** | **Position** | **Projects** | **Learning** | **Collaborating** |
+## Works
+| Timeframe  | **Area** | **Position** | **Projects** | **Learning** | 
 |----------|--------------|--------------|--------------|-------------------|
-| AI-ML, FPGA Hardware | Software Engineer | FPGA Hardware projects, Python to edge flow NNGEN | FPGA, GAN, NNGEN | AI ML EDGE on devices |
-
-## Past Work 🌱
-| **Area** | **Position** | **Projects** | **Learning** | **Collaborating** |
-|----------|--------------|--------------|--------------|-------------------|
-| AI-ML, Python, Open Source |	Research Scholar |	Handwritten Devanagari Script Recognition, Improved Barnacle, Readme Generator |	Genetic Algorithm, GANs, FPGAs, MFDFA |	Open Source Contributions, Research Collaboration |
-
-## Future Work Interests 🚀
-| **Area** | **Position** | **Projects** | **Learning** | **Collaborating** |
-|----------|--------------|--------------|--------------|-------------------|
-| AI-ML, Blockchain, Smart Contracts |	Researcher, Developer |	Blockchain and smart contract projects, Advanced AI-ML models |	Advanced blockchain technologies, smart contract development |	Blockchain and AI-ML projects |
+| **Current Work 🔭** | AI-ML, FPGA Hardware | Software Engineer | FPGA Hardware projects, Python to edge flow NNGEN | FPGA, GAN, NNGEN |
+| **Past Work 🌱** | AI-ML, Python, Open Source |	Research Scholar |	Handwritten Devanagari Script Recognition, Improved Barnacle, Readme Generator |	Genetic Algorithm, GANs, FPGAs, MFDFA |	Open Source Contributions, Research Collaboration |
+| **Future Work Interests 🚀** | AI-ML, Blockchain, Smart Contracts |	Researcher, Developer |	Blockchain and smart contract projects, Advanced AI-ML models |	Advanced blockchain technologies, smart contract development |	Blockchain and AI-ML projects |
 ## Achievements 🏆
 - Developed an open-source project for recognizing handwritten Devanagari script characters using MATLAB
 - Created a Python script for cleanup tasks
@@ -61,7 +53,7 @@
 <h1 align="center" >  <img src="assets/svg/engineer.svg" alt="binder folder" width="32" /> Engineer (AI-ML, FPGA) | Open Source Enthusiast </h1>
 
 <div align="center">
- 
+<!-- 
 | **🔭 Current Work** | FPGA Hardware, AI/ML on Edge Devices |
 | :--: | :--: |
 | **🌱 Learning** | FPGA, GANs, NNGEN |
@@ -70,7 +62,7 @@
 | **🎓 Research** | PhD in VLSI at NIT Goa, guiding students in lab and project work |
 | **🏆🚀 Achievements** | State-level chess competitor, poster competition participant |
 | **🎁 my work** | [portfolio](https://charudatta10.github.io/myblog/portfolio/project.html). |
-
+-->
 > 🔥 "You must be the change you wish to see in the world." -Mahatma Gandhi
 
 <img src="assets/images/banner1.jpeg" alt="Charudatta" width="120" height="120"/> 
