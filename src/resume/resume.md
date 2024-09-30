@@ -43,7 +43,7 @@ I currently work as a research scholar at NIT Goa. In my role, I have served as 
 
 ## Current Projects
 
-### GenAiTamago
+### GenAi
 
 - Built a Generative AI PyTorch tensor model aggregator project.
 - Project include GAN, VanillaGAN, ConditionalGAN, DCGAN, WGAN.
@@ -54,17 +54,19 @@ I currently work as a research scholar at NIT Goa. In my role, I have served as 
 - Built a readme generator for github repo using python and jinja2.
 - readme-generator has hero svg, dependency badges, status dynamic badges auto generated.
 
+<!-- 
 ### LinkNet
 
 - Built a python based link aggregator platform.
 - LinkNet has custom icons configurable through json config file.
 - LinkNet is flask app with static hosting options available.
 
+
 ### MyBlog
 
 - Built a statics website using mkdocs to host portfolio. 
 - MyBlog has blog section, portfolio section, home and about sections.
-<!-- 
+
 ### legendary-dollop
 
 - Built a SVG generator project.
@@ -81,9 +83,10 @@ I currently work as a research scholar at NIT Goa. In my role, I have served as 
 - **Deep learning tools**: PyTorch, Tensorflow, keras,
 - **Deep learning models**: GAN, CGAN, WGAN, DCGAN.
 - **Machine learning**: genetic algorithm, wavelet transform, MFDFA.
-- **Artificial intelligence**: ollama, lamma3, gemma.
+- **Artificial intelligence**: ollama, lamma3, gemma. 
+<!-- 
 - **VLSI**: Quartus, Vivado, FPGA.
-- **misc tools**: powershell, vscode, github, neovim.
+- **misc tools**: powershell, vscode, github, neovim. -->
   
 
 <!-- 
@@ -92,3 +95,9 @@ I currently work as a research scholar at NIT Goa. In my role, I have served as 
 ### Best Undergrad Research Project <span class="spacer"></span> 2018
 
 ### Eagle Scout <span class="spacer"></span> 2012 -->
+
+## References
+
+- Dr. M.H. Vasantha | Associate professor, Dept. of ECE, NIT Goa | vasanthmh@nitgoa.ac.in
+
+- Dr. Y.B.Nithin Kumar | Associate professor, Dept. of ECE, NIT Goa | nithin.shastri@gmail.com

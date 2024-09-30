@@ -18,45 +18,104 @@
 
 set windows-shell := ["pwsh.exe", "-NoLogo", "-Command"]
 
-default:
-    just --list --unsorted
+env_path := "C:/Users/$env:username/Documents/GitHub"
 
+default:
+    @just --choose
+
+# create files and directories
 init:
     #!pwsh
     git init
-    New-Item -ItemType "file" -Path ".gitattribute", "main.py", "requirement.txt"
-    New-Item -ItemType "directory" -Path "archives", "data", "src", "test"
-    New-Item -ItemType "file" -Path .\* -Name "__init__.py" -ErrorAction SilentlyContinue
-    New-Item -ItemType "directory" -Path "docs/assets","docs/assets/css", "docs/assets/img", "docs/assets/js" -Force
+    New-Item -ItemType "file" -Path ".env", ".gitattribute", "run.py", "requirements.txt"
+    New-Item -ItemType "directory" -Path "docs", "src", "tests"
     gig gen python > .gitignore 
-    #licenseheaders -t lgpl-v3 -y 2024 -o "Charudatta" -n y -u y -f main.py
+    Add-LicenseHeader
+    7z a archives.7z .gitignore
 
-config:
-    dynaconf init -f json 
-
-doc:
+# add documentation to repo
+docs:
     #!pwsh
     conda activate blog
-    p -m mkdocs new .
-    
-readme:
-    python C:/Users/chaitrali/Documents/GitHub/readme-generator
+    python -m mkdocs new .
 
+# generate and readme to repo    
+readme:
+    #!pwsh
+    conda activate w
+    python {{env_path}}/readmeGen/main.py
+
+# version control repo with git
 commit message="init":
     #!pwsh
     git add .
     git commit -m {{message}}
 
+# create windows executable
 exe file_name:
     #!pwsh
-    pyintsaller src/{{file_name}} -onefile
+    pyinstaller src/{{file_name}} --onefile
 
-#alias b := build
-#build: 
-#   echo "hi"; echo "bye"
+# run python unit test 
+tests:
+    #!pwsh
+    python -m unittest discover -s tests
 
-#########-ADD-Custom-Tasks-Here-##################
+# run project
+run:
+    #!pwsh
+    python run.py
 
+# exit just file
+quit:
+    #!pwsh
+    write-Host "Copyright © 2024 Charudatta"
+    Write-Host "email contact: 152109007c@gmailcom"
+    Write-Host "Exiting Folder" 
+    [System.IO.Path]::GetFileName($(Get-Location))
+
+# install dependencies
+install:
+    #!pwsh
+    pip install -r requirements.txt
+
+# lint code
+lint:
+    #!pwsh
+    pylint src/
+
+# format code
+format:
+    #!pwsh
+    black src/
+
+# run security checks
+security:
+    #!pwsh
+    bandit -r src/
+
+# build documentation
+build-docs:
+    #!pwsh
+    mkdocs build
+
+# deploy application
+deploy:
+    #!pwsh
+    scp -r src/ user@server:/path/to/deploy
+
+# clean up
+clean:
+    #!pwsh
+    Remove-Item -Recurse -Force dist, build, *.egg-info
+
+# check for updates
+update:
+    #!pwsh
+    pip list --outdated
+
+
+# Add custom tasks, enviroment variables
 cv:
     #!pwsh
     cd src/cv
