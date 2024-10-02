@@ -35,7 +35,7 @@ I currently work as a research scholar at NIT Goa. In my role, I have served as 
 
 |      Qualification       | Year of passing | Percentage | Board/University |             Specialization             |            Institute Name            |
 | :----------------------: | :-------------: | :--------: | :--------------: | :------------------------------------: | :----------------------------------: |
-|           SSC            |      2019       |     69     |    Goa Board     |                Science                 |          Dr. K.B. Hedgewar           |
+|           SSC            |      2009       |     69     |    Goa Board     |                Science                 |          Dr. K.B. Hedgewar           |
 |           HSSC           |      2011       |     71     |    Goa Board     |                Science                 |      Santacruz Higher Secondary      |  |
 | Bachelors in Engineering |      2015       |     76     |  Goa University  | Electrical and Electronics Engineering |      Goa College of Engineering      |
 |  Masters in Engineering  |      2017       |     81     |  Goa University  |      Microelectronics Engineering      |      Goa college of Engineering      |

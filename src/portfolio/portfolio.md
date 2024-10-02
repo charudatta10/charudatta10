@@ -61,7 +61,7 @@ I am X where X is:
 
 |      Qualification       | Year of passing | Percentage | Board |             Specialization             |            Institute Name            |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|           SSC            |      2019       |     69     |    Goa Board     |                Science                 |          Dr. K.B. Hedgewar           |
+|           SSC            |      2009       |     69     |    Goa Board     |                Science                 |          Dr. K.B. Hedgewar           |
 |           HSSC           |      2011       |     71     |    Goa Board     |                Science                 |      Santacruz Higher Secondary      |  
 
 ---
