@@ -12,18 +12,15 @@
 
 # <img src="assets/svg/briefcase-solid.svg" alt="binder folder" width="32" /> My Work 
 
- 
 | [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download")  | [![Portfolio](assets/svg/portfolio-100000.svg)](src/portfolio/portfolio.pdf "download") |
 | -- | -- |  -- |
 
-
-
 <!--- -- About ME  -->
 
-#  <img src="assets/svg/engineer.svg" alt="binder folder" width="32" /> Engineer (AI-ML, FPGA) | Open Source Enthusiast 
+#  ⠯⠷ Engineer (AI-ML, FPGA) | Open Source Enthusiast 
 
 </div>
-<details><summary>  <h3> About me </h3> </summary>
+<details><summary>  <h1> 🤵 About me </h1> </summary>
 
 🌍  I'm based in Goa, India 403005.
 
@@ -33,11 +30,17 @@
 
 <details><summary>🧠  I'm learning: </summary>
 
- - FPGA Technologies: Expanding your knowledge and skills in Field-Programmable Gate Arrays.
- - GANs (Generative Adversarial Networks): Exploring advanced AI models and their applications.
- - NNGEN (Neural Network Generation): Working on Python to edge flow for deploying neural networks on edge devices.
- - MFDFA (Multifractal Detrended Fluctuation Analysis): Delving into complex data analysis techniques.
- - Blockchain and Smart Contracts: Investigating the potential of blockchain technology and smart contracts for various applications.
+ ⚛ FPGA Technologies: Expanding your knowledge and skills in Field-Programmable Gate Arrays.  
+ 
+ ☘ GANs (Generative Adversarial Networks): Exploring advanced AI models and their applications.  
+ 
+ ⚘ NNGEN (Neural Network Generation): Working on Python to edge flow for deploying neural networks on edge devices. 
+ 
+ ✐ MFDFA (Multifractal Detrended Fluctuation Analysis): Delving into complex data analysis techniques.  
+ 
+ ❄ Blockchain and Smart Contracts: Investigating the potential of blockchain technology and smart contracts for various applications.  
+
+ 
 </details>
 
 🤝  I'm open to collaborating on Python to edge flow NNGEN, Genetic Algorithm, GANs, FPGAs, MFDFA and AI ML EDGE on devices.
@@ -50,12 +53,19 @@
 
 <details><summary>🌱 My key philosophies:  </summary>  
 
- ⚡ "Be afraid and do it anyway."  
- ⚡ "Right now is the only guarantee."  
+ ⚡ "Be afraid and do it anyway." 
+ 
+ ⚡ "Right now is the only guarantee." 
+ 
  ⚡ "Be a voice. Not an echo."  
+ 
  ⚡ "It will all make sense eventually."  
+ 
  ⚡ "Don’t be afraid to dream big."  
- ⚡ "Fearlessness is the mother of reinvention."   
+ 
+ ⚡ "Fearlessness is the mother of reinvention."  
+
+ 
 </details>
 
 🔥 "You must be the change you wish to see in the world." -Mahatma Gandhi
@@ -74,13 +84,19 @@
 
 </div>
 
-<details><summary> <h2>  Achievements 🏆 </h2> </summary>
-- Developed an open-source project for recognizing handwritten Devanagari script characters using MATLAB
-- Created a Python script for cleanup tasks
-- Built a tool to generate README files for GitHub repositories
-- Customized Neovim to function like an IDE with fast startup times
-- Participated in a poster competition presenting research work
-- Participated in a state-level chess competition
+<details><summary> <h2> 🏆 Achievements  </h2> </summary>
+ 
+➻ Developed an open-source project for recognizing handwritten Devanagari script characters using MATLAB.  
+
+➸ Created a Python script for cleanup tasks.  
+
+➳ Built a tool to generate README files for GitHub repositories.  
+
+➼ Customized Neovim to function like an IDE with fast startup times.  
+
+➨ Participated in a poster competition presenting research work.  
+
+➤ Participated in a state-level chess competition.  
 
 <div align="center">
 <img src="assets/images/banner1.jpeg" alt="Charudatta" width="120" height="120"/> 
