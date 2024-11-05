@@ -30,7 +30,7 @@
 
 </div>
 
-## Achievements 🏆
+<details><summary> <h2>  Achievements 🏆 </h2> </summary>
 - Developed an open-source project for recognizing handwritten Devanagari script characters using MATLAB
 - Created a Python script for cleanup tasks
 - Built a tool to generate README files for GitHub repositories
@@ -43,21 +43,24 @@
 <img src="assets/images/banner3.jpg" alt="Charudatta" width="120" height="120"/>
 <img src="assets/images/banner2.jpeg" alt="Charudatta" width="120" height="120"/>
 <img src="assets/images/banner4.jpg" alt="Charudatta" width="120" height="120"/>
+</div>
+</details>
 
 <!--- -- Skills Section ------->
 
-# <img src="assets/svg/kitchen-set-solid.svg" alt="binder folder" width="32" /> My Knoweledge & Skills  
- 
+<details><summary> <h1> <img src="assets/svg/kitchen-set-solid.svg" alt="binder folder" width="32" /> My Knoweledge & Skills  </h1> </summary>
+<div align="center">
 ![My Skills](assets/svg/icons.svg)
 
  `Verilog` `FPGA` `Phi-3:7B` `Gemma-2:2B` `Mistral` `Ollama` `Crewai` `Langchain` `Blockchain`
 
 ![Orca](assets/svg/Orca-100000.svg) ![LAMMA](assets/svg/LAMMA-100000.svg) ![Stable diffusion](assets/svg/Stable_diffusion-100000.svg) ![Mistral](assets/svg/Mistral-100000.svg) ![Gimp ](assets/svg/Gimp-657D8B.svg) ![Inkscape](assets/svg/Inkscape-e0e0e0.svg) 
 
-</div>
+</div></details>
+
 <!-- BLOG-POST-LIST -->
 
-<h1 align="center" >  <img src="assets/svg/blog-solid.svg" alt="binder folder" width="32" />  Blog Posts </h1>
+<details><summary> <h1 align="center" >  <img src="assets/svg/blog-solid.svg" alt="binder folder" width="32" />  Blog Posts </h1> </summary>
 
 <img align="right" src="assets/images/blog1.jpeg" alt="Charudatta" width="180" height="180"/>
 
@@ -74,12 +77,13 @@
 - [Introduction to Digital Note-Taking: A Beginner's Guide](https://dev.to/charudatta10/introduction-to-digital-note-taking-a-beginners-guide-9p2)
 - [Why Obsidian Falls Short as a Note-Taking Tool](https://dev.to/charudatta10/why-obsidian-falls-short-as-a-note-taking-tool-3ef2)
 - [Customizing AI Prompts for Note-Taking: Tips for Tailoring Your AI-Generated Prompts](https://charudatta10.github.io/myblog/blog/index.html)
-  
-<!--- -- GitHub Stats --------->
-<div align="center">
- 
-# <img src="assets/svg/github-alt-brands-solid.svg" alt="binder folder" width="32" /> GitHub Stats 
 
+</details>
+
+<!--- -- GitHub Stats --------->
+<details>
+
+<summary> <h1> <img src="assets/svg/github-alt-brands-solid.svg" alt="binder folder" width="32" /> GitHub Stats </h1> </summary>
 <!----- Activity Graph ------>
 
 ![Charudatta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charudatta10&theme=onedark)
@@ -92,7 +96,12 @@
 | ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=charudatta10&data=followers,repositories,stars,commits&theme=onedark) | ![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic) |
 |  - | - |
 
-# <img src="assets/svg/soap-solid.svg" alt="binder folder" width="32" /> Fun Bubbles 
+</details>
+
+<!--- Fun Section ------------>
+
+<details>
+<summary> <h1> <img src="assets/svg/soap-solid.svg" alt="binder folder" width="32" /> Fun Bubbles </h1> </summary>
  
 > 🔥 "You must be the change you wish to see in the world." -Mahatma Gandhi
 
@@ -101,9 +110,10 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=1920&lines=%E2%80%9CBe+afraid+and+do+it+anyway.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CRight+now+is+the+only+guarantee.%E2%80%9D+%E2%80%93+Jay+Long;%E2%80%9CBe+a+voice.+Not+an+echo.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CIt+will+all+make+sense+eventually.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CDon%E2%80%99t+be+afraid+to+dream+big.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CFearlessness+is+the+mother+of+reinvention.%E2%80%9D+%E2%80%93+Arianna+Huffington)
 
+</details>
+
 <!--- -- Projects Section ------------>
 
 # <img src="assets/svg/diagram-project-solid.svg" alt="binder folder" width="32" /> Pinned Projects  
 
-</div>
 
