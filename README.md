@@ -10,8 +10,6 @@
 [![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com)
 <!-- ![](https://img.shields.io/badge/Contact%20Me-0070CA?style=for-the-badge) -->
 
-
-
 # <img src="assets/svg/briefcase-solid.svg" alt="binder folder" width="32" /> My Work 
 
  
@@ -50,6 +48,7 @@
 
 <details><summary> <h1> <img src="assets/svg/kitchen-set-solid.svg" alt="binder folder" width="32" /> My Knoweledge & Skills  </h1> </summary>
 <div align="center">
+ 
 ![My Skills](assets/svg/icons.svg)
 
  `Verilog` `FPGA` `Phi-3:7B` `Gemma-2:2B` `Mistral` `Ollama` `Crewai` `Langchain` `Blockchain`
