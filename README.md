@@ -17,7 +17,7 @@ Hi there! I'm Charudatta Korde, a passionate engineer and open-source enthusiast
 
 In this repository, you'll find detailed sections about my work, projects, skills, achievements, and more. Explore my contributions to open-source projects, read my blog posts, check out my portfolio, and see how I'm leveraging technology to create innovative solutions. Let's connect and collaborate on exciting projects!
 
-# <img src="assets/svg/briefcase-solid.svg" alt="binder folder" width="32" /> My Work
+# 💼 My Work
 
 | [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download")  | [![Portfolio](assets/svg/portfolio-100000.svg)](src/portfolio/portfolio.pdf "download") |
 | -- | -- | -- |
@@ -31,8 +31,7 @@ In this repository, you'll find detailed sections about my work, projects, skill
 
 ✉️  You can contact me at Korde.charudatta@gmail.com.
 
-<details>
-<summary>🧠  I'm learning: </summary>
+<details> <summary>🧠  I'm learning: </summary>
 
 ⚛ FPGA Technologies: Expanding my knowledge and skills in Field-Programmable Gate Arrays.  
 
@@ -54,8 +53,7 @@ In this repository, you'll find detailed sections about my work, projects, skill
 
 🎯 My goal is to advance my expertise and contributions in the areas of FPGA development, AI-ML, and open-source projects.
 
-<details>
-<summary>🌱 My key philosophies:  </summary>  
+<details> <summary>🌱 My key philosophies:  </summary>  
 
 ⚡ "Be afraid and do it anyway." 
 
@@ -87,8 +85,7 @@ In this repository, you'll find detailed sections about my work, projects, skill
 
 </div>
 
-<details>
-<summary> <h1> 🏆 Achievements  </h1> </summary>
+<details> <summary> <h1> 🏆 Achievements  </h1> </summary>
 
 ➻ Developed an open-source project for recognizing handwritten Devanagari script characters using MATLAB.  
 
@@ -110,8 +107,7 @@ In this repository, you'll find detailed sections about my work, projects, skill
 </div>
 </details>
 
-<details>
-<summary> <h1> <img src="assets/svg/kitchen-set-solid.svg" alt="binder folder" width="32" /> My Knowledge & Skills  </h1> </summary>
+<details> <summary> <h1> 📚 My Knowledge & Skills  </h1> </summary>
 <div align="center">
 
 ![My Skills](assets/svg/icons.svg)
@@ -125,7 +121,7 @@ In this repository, you'll find detailed sections about my work, projects, skill
 
 <!-- BLOG-POST-LIST -->
 
-<details><summary> <h1 align="center" >  <img src="assets/svg/blog-solid.svg" alt="binder folder" width="32" />  Blog Posts </h1> </summary>
+<details><summary> <h1>  📻  Blog Posts </h1> </summary>
 
 <img align="right" src="assets/images/blog1.jpeg" alt="Charudatta" width="180" height="180"/>
 
@@ -146,9 +142,7 @@ In this repository, you'll find detailed sections about my work, projects, skill
 </details>
 
 <!--- -- GitHub Stats --------->
-<details>
-
-<summary> <h1> <img src="assets/svg/github-alt-brands-solid.svg" alt="binder folder" width="32" /> GitHub Stats </h1> </summary>
+<details> <summary> <h1> 📈 GitHub Stats </h1> </summary>
 <!----- Activity Graph ------>
 
 ![Charudatta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charudatta10&theme=onedark)
@@ -165,8 +159,7 @@ In this repository, you'll find detailed sections about my work, projects, skill
 
 <!--- Fun Section ------------>
 
-<details>
-<summary> <h1> <img src="assets/svg/soap-solid.svg" alt="binder folder" width="32" /> Fun Bubbles </h1> </summary>
+<details> <summary> <h1> 🎮 Fun Bubbles </h1> </summary>
  
 | ![Jokes Card](https://readme-jokes.vercel.app/api) | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) |
 | - | - |
@@ -177,8 +170,7 @@ In this repository, you'll find detailed sections about my work, projects, skill
 
 <!--- -- Projects Section ------------>
 
-<details>
-<summary> <h1> <img src="assets/svg/diagram-project-solid.svg" alt="binder folder" width="32" /> Pinned Projects  </h1> </summary>
+<details> <summary> <h1> ⭐ Pinned Projects  </h1> </summary>
 
 - [`download-cleaner`](https://github.com/charudatta10/download-cleaner): Organizes the download folder by moving files by extension.
 - [`web3-tools`](https://github.com/charudatta10/web3-tools): Web3 technology tools aggregator project.
