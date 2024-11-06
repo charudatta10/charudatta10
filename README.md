@@ -1,15 +1,24 @@
 ![SVG Banners](assets/svg/profile_banner.svg)
 
-<div align="center">
- 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
 [![Github-sponsors](assets/svg/sponsors-100000.svg)](https://github.com/sponsors/charudatta10)
 [![Paytm](assets/svg/paytm-100000.svg)](assets/images/pay4.jpeg)
 [![Dev.to](assets/svg/devto.svg)](https://dev.to/charudatta10)
 [![indeed](assets/svg/indeed-100000.svg)](https://profile.indeed.com/p/charudattak-h04r448)
 [![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com)
+<!--[![indeed](assets/svg/indeed-100000.svg)](https://profile.indeed.com/p/charudattak-h04r448)
+[![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com)
+
 <!-- ![](https://img.shields.io/badge/Contact%20Me-0070CA?style=for-the-badge) -->
 
+#  ⠯⠷ Engineer (AI-ML, FPGA) | Open Source Enthusiast 
+
+Welcome to My GitHub Profile!
+
+Hi there! I'm Charudatta Korde, a passionate engineer and open-source enthusiast specializing in AI-ML, FPGA development, and blockchain technology. Based in Goa, India, I am currently pursuing my PhD in VLSI at NIT Goa, focusing on designing optimized FPGA/Edge device accelerators for AI/ML (GAN) models.
+
+In this repository, you'll find detailed sections about my work, projects, skills, achievements, and more. Explore my contributions to open-source projects, read my blog posts, check out my portfolio, and see how I'm leveraging technology to create innovative solutions. Let's connect and collaborate on exciting projects!
+ 
 # <img src="assets/svg/briefcase-solid.svg" alt="binder folder" width="32" /> My Work 
 
 | [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download")  | [![Portfolio](assets/svg/portfolio-100000.svg)](src/portfolio/portfolio.pdf "download") |
@@ -17,9 +26,6 @@
 
 <!--- -- About ME  -->
 
-#  ⠯⠷ Engineer (AI-ML, FPGA) | Open Source Enthusiast 
-
-</div>
 <details><summary>  <h1> 🤵 About me </h1> </summary>
 
 🌍  I'm based in Goa, India 403005.
@@ -45,7 +51,7 @@
 
 🤝  I'm open to collaborating on Python to edge flow NNGEN, Genetic Algorithm, GANs, FPGAs, MFDFA and AI ML EDGE on devices.
 
-🎓 I'm pursuing a PhD in VLSI with NIT GOA ont the topic "Design optimized FPGA/Edgde device aceelertor of AI/ML(GAN) models".
+🎓 I'm pursuing a PhD in VLSI with NIT GOA ont the topic "Design optimized FPGA/Edgde device accelerator of AI/ML(GAN) models".
 
 🔭 Currently working on FPGA Development, AI and machine learning, Blockchain and Smart Contracts, Python to Edge Flow NNGEN.
 
@@ -80,7 +86,7 @@
 |--------------|--------------|--------------|-------------------|-------------------|
 | AI-ML, Python, Open Source |	Research Scholar |	Handwritten Devanagari Script Recognition, Improved Barnacle, Readme Generator, Python to edge flow NNGEN |	Genetic Algorithm, GANs, FPGAs, MFDFA, GAN, NNGEN |	Currently doing PhD with NITGoa |
 | AI-ML, FPGA Hardware | Software Validation Engineer | FPGA Hardware projects | FPGA, Qurtus | Previously interned with Intel |
-| FPGA, AI-ML, Blockchain, Smart Contracts |	Researcher, Developer |	FPGA devlopment, Blockchain and smart contract projects, Advanced AI-ML models |	FPGA technologies, Advanced blockchain technologies |	Future work intresets |
+| FPGA, AI-ML, Blockchain, Smart Contracts |	Researcher, Developer |	FPGA devlopment, Blockchain and smart contract projects, Advanced AI-ML models |	FPGA technologies, Advanced blockchain technologies |	Future work interests |
 
 </div>
 
