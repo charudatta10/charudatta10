@@ -88,7 +88,7 @@ In this repository, you'll find detailed sections about my work, projects, skill
 </div>
 
 <details>
-<summary> <h2> 🏆 Achievements  </h2> </summary>
+<summary> <h1> 🏆 Achievements  </h1> </summary>
 
 ➻ Developed an open-source project for recognizing handwritten Devanagari script characters using MATLAB.  
 
