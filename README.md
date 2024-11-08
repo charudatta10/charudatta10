@@ -10,8 +10,8 @@
 [![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com) -->
 # 💼 My Work 
 
-| [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download")  | [![Portfolio](assets/svg/portfolio-100000.svg)](src/portfolio/portfolio.pdf "download") |
-| -- | -- | -- |
+| [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download")  | [![Portfolio](assets/svg/portfolio-100000.svg)](src/portfolio/portfolio.pdf "download") | [![Academic Publications](assets/svg/academic-publication-100000.svg)](src/resume/resume.pdf "download") | [![Blog](assets/svg/blog-100000.svg)](src/cv/cv.pdf "download")  | [![Project](assets/svg/project-100000.svg)](src/portfolio/portfolio.pdf "download") |
+| -- | -- | -- | -- | -- | -- |
 
 # ⠯⠷ Engineer (AI-ML, FPGA) | Open Source Enthusiast
 
