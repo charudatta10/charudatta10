@@ -8,6 +8,10 @@
 [![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com)
 <!-- [![indeed](assets/svg/indeed-100000.svg)](https://profile.indeed.com/p/charudattak-h04r448)
 [![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com) -->
+# 💼 My Work 
+
+| [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download")  | [![Portfolio](assets/svg/portfolio-100000.svg)](src/portfolio/portfolio.pdf "download") |
+| -- | -- | -- |
 
 # ⠯⠷ Engineer (AI-ML, FPGA) | Open Source Enthusiast
 
@@ -17,13 +21,17 @@ Hi there! I'm Charudatta Korde, a passionate engineer and open-source enthusiast
 
 In this repository, you'll find detailed sections about my work, projects, skills, achievements, and more. Explore my contributions to open-source projects, read my blog posts, check out my portfolio, and see how I'm leveraging technology to create innovative solutions. Let's connect and collaborate on exciting projects!
 
-# 💼 My Work
+<div align="center">
 
-| [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download")  | [![Portfolio](assets/svg/portfolio-100000.svg)](src/portfolio/portfolio.pdf "download") |
-| -- | -- | -- |
+| **Area** | **Position** | **Projects** | **Learning** | **Comments** |
+| --- | --- | --- | --- | --- |
+| AI-ML, Python, Open Source | Research Scholar | Handwritten Devanagari Script Recognition, Improved Barnacle, Readme Generator, Python to edge flow NNGEN | Genetic Algorithm, GANs, FPGAs, MFDFA, GAN, NNGEN | Currently doing PhD at NIT Goa |
+| AI-ML, FPGA Hardware | Software Validation Engineer | FPGA Hardware projects | FPGA, Qurtus | Previously interned with Intel |
+| FPGA, AI-ML, Blockchain, Smart Contracts | Researcher, Developer | FPGA development, Blockchain and smart contract projects, Advanced AI-ML models | FPGA technologies, Advanced blockchain technologies | Future work interests |
 
-<details>
-<summary> <h1> 🤵 About me </h1> </summary>
+</div>
+
+<details><summary> <h1> 🤵 About me </h1> </summary>
 
 🌍  I'm based in Goa, India 403005.
 
@@ -74,16 +82,6 @@ In this repository, you'll find detailed sections about my work, projects, skill
 ✨ I’m passionate about leveraging technology to create innovative solutions that have a positive impact on the world.
 
 </details>
-
-<div align="center">
-
-| **Area** | **Position** | **Projects** | **Learning** | **Comments** |
-| --- | --- | --- | --- | --- |
-| AI-ML, Python, Open Source | Research Scholar | Handwritten Devanagari Script Recognition, Improved Barnacle, Readme Generator, Python to edge flow NNGEN | Genetic Algorithm, GANs, FPGAs, MFDFA, GAN, NNGEN | Currently doing PhD at NIT Goa |
-| AI-ML, FPGA Hardware | Software Validation Engineer | FPGA Hardware projects | FPGA, Qurtus | Previously interned with Intel |
-| FPGA, AI-ML, Blockchain, Smart Contracts | Researcher, Developer | FPGA development, Blockchain and smart contract projects, Advanced AI-ML models | FPGA technologies, Advanced blockchain technologies | Future work interests |
-
-</div>
 
 <details> <summary> <h1> 🏆 Achievements  </h1> </summary>
 
