@@ -1,5 +1,5 @@
 ![SVG Banners](assets/svg/profile_banner.svg)
-
+# Innovating at the Intersection of AI, FPGA, and Open Source  
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
 [![Github-sponsors](assets/svg/sponsors-100000.svg)](https://github.com/sponsors/charudatta10)
 [![Paytm](assets/svg/paytm-100000.svg)](assets/images/pay4.jpeg)
@@ -9,7 +9,7 @@
 <!-- [![indeed](assets/svg/indeed-100000.svg)](https://profile.indeed.com/p/charudattak-h04r448)
 [![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com) -->
 
-# 💼 My Work
+# 💼 My Work 
 
 | [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download") | [![Portfolio](assets/svg/portfolio-100000.svg)](src/portfolio/portfolio.pdf "download") | [![Blog](assets/svg/blog-100000.svg)](src/cv/cv.pdf "download") | [![Academic Publications](assets/svg/academic-publication-100000.svg)](src/resume/resume.pdf "download") | [![Project](assets/svg/project-100000.svg)](src/portfolio/portfolio.pdf "download") |
 | -- | -- | -- | -- | -- | -- |
