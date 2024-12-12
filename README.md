@@ -78,30 +78,22 @@ Explore my contributions to open-source projects, read my blog posts, check out 
 
 <!--
 
-
-| **Area** | **Position** | **Projects** | **Learning** | **Comments** |
-| --- | --- | --- | --- | --- |
-| AI-ML, Python, Open Source | Research Scholar | Handwritten Devanagari Script Recognition, Improved Barnacle, Readme Generator, Python to edge flow NNGEN | Genetic Algorithm, GANs, FPGAs, MFDFA, GAN, NNGEN | Currently doing PhD at NIT Goa |
-| AI-ML, FPGA Hardware | Software Validation Engineer | FPGA Hardware projects | FPGA, Qurtus | Previously interned with Intel |
-| FPGA, AI-ML, Blockchain, Smart Contracts | Researcher, Developer | FPGA development, Blockchain and smart contract projects, Advanced AI-ML models | FPGA technologies, Advanced blockchain technologies | Future work interests |
-
-</div>
-
 🤵 About me 
 
 -->
 
-
-
-
-
 <!--- -- Projects Section ------------>
 
-## ⭐ Pinned Projects 
+## ⭐ Pinned Projects & Work
 
 - [`download-cleaner`](https://github.com/charudatta10/download-cleaner): Organizes the download folder by moving files by extension.
 - [`web3-tools`](https://github.com/charudatta10/web3-tools): Web3 technology tools aggregator project.
 - [`project-manager`](https://github.com/charudatta10/project-manager): One solution to all your project management tasks. 
 - [`template-project`](template-project): Create boilerplate for your project.
+- [`Handwritten Devanagari Script Recognition`](https://github.com/charudatta10/devanagari-handwriting-recognizer) Completed a Bachelor’s project on the recognition of handwritten Devanagari script characters during the academic year 2014-2015.
+- [`readme-generator`](https://github.com/charudatta10/readme-generator) Generate readme for github repos.
+- [`link-net`](https://github.com/charudatta10/link-net) Links aggregated repository.
+- [`file-tagger`](https://github.com/charudatta10/file-tagger) Add tags to file and sort and order files by tags.
+- [`software validation Enginner`](https://intel.com) Interned as a software validation engineer at Intel, Bangalore during 2019-2020.
 
 
