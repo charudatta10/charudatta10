@@ -5,14 +5,13 @@
 [![Paytm](assets/svg/paytm-100000.svg)](assets/images/pay4.jpeg)
 [![Dev.to](assets/svg/devto.svg)](https://dev.to/charudatta10)
 [![indeed](assets/svg/indeed-100000.svg)](https://profile.indeed.com/p/charudattak-h04r448)
-[![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com)
+
 <!-- [![indeed](assets/svg/indeed-100000.svg)](https://profile.indeed.com/p/charudattak-h04r448)
 [![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com) -->
 
-# 💼 My Work 
-
-| [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download") | [![Portfolio](assets/svg/portfolio-100000.svg)](src/portfolio/portfolio.pdf "download") | [![Blog](assets/svg/blog-100000.svg)](src/cv/cv.pdf "download") | [![Academic Publications](assets/svg/academic-publication-100000.svg)](src/resume/resume.pdf "download") | [![Project](assets/svg/project-100000.svg)](src/portfolio/portfolio.pdf "download") |
-| -- | -- | -- | -- | -- | -- |
+# चारुदत्त's Work 🗀 [![Portfolio](assets/svg/portfolio-100000.svg)](https://charudatta10.github.io/portfolio/) [![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com) 
+| [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download") |  [![Blog](assets/svg/blog-100000.svg)](src/cv/cv.pdf "download") | [![Academic Publications](assets/svg/academic-publication-100000.svg)](src/resume/resume.pdf "download") | [![Project](assets/svg/project-100000.svg)](src/portfolio/portfolio.pdf "download") |
+| -- | -- | -- | -- | -- | 
 
 # ⠯⠷ Engineer (AI-ML, FPGA) | Open Source Enthusiast | Lecturer
 
