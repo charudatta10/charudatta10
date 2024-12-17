@@ -28,20 +28,20 @@ Explore my contributions to open-source projects, read my blog posts, check out 
 
 ## 🕮 Learning & Interests
 
-⚛ FPGA Technologies: Expanding my knowledge and skills in Field-Programmable Gate Arrays.  
-☘ GANs (Generative Adversarial Networks): Exploring advanced AI models and their applications.  
-⚘ NNGEN (Neural Network Generation): Working on Python to edge flow for deploying neural networks on edge devices.  
-✐ MFDFA (Multifractal Detrended Fluctuation Analysis): Delving into complex data analysis techniques.  
-❄ Blockchain and Smart Contracts: Investigating the potential of blockchain technology and smart contracts for various applications.  
+- FPGA Technologies: Expanding my knowledge and skills in Field-Programmable Gate Arrays.  
+- GANs (Generative Adversarial Networks): Exploring advanced AI models and their applications.  
+- NNGEN (Neural Network Generation): Working on Python to edge flow for deploying neural networks on edge devices.  
+- MFDFA (Multifractal Detrended Fluctuation Analysis): Delving into complex data analysis techniques.  
+- Blockchain and Smart Contracts: Investigating the potential of blockchain technology and smart contracts for various applications.  
 
 ## 🏆 Achievements
 
-➻ Developed an open-source project for recognizing handwritten Devanagari script characters using MATLAB.  
-➸ Created a Python script for cleanup tasks.  
-➳ Built a tool to generate README files for GitHub repositories.  
-➼ Customized Neovim to function like an IDE with fast startup times.  
-➨ Participated in a poster competition presenting research work.  
-➤ Participated in a state-level chess competition.  
+- Developed an open-source project for recognizing handwritten Devanagari script characters using MATLAB.  
+- Created a Python script for cleanup tasks.  
+- Built a tool to generate README files for GitHub repositories.  
+- Customized Neovim to function like an IDE with fast startup times.  
+- Participated in a poster competition presenting research work.  
+- Participated in a state-level chess competition.  
 
 ## 📚 Knowledge & Skills
 ![My Skills](assets/svg/icons.svg)
