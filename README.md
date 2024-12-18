@@ -21,10 +21,6 @@ Hi there! I'm Charudatta Korde, a passionate engineer and open-source enthusiast
 
 Explore my contributions to open-source projects, read my blog posts, check out my portfolio, and see how I'm leveraging technology to create innovative solutions. Let's connect and collaborate on exciting projects!
 
-🖥️ See my portfolio at [portfolio](https://charudatta10.github.io/portfolio/).
-
-✉️ You can contact me at Korde.charudatta@gmail.com.
-
 ## 🕮 Learning & Interests
 
 - FPGA Technologies: Expanding my knowledge and skills in Field-Programmable Gate Arrays.  
@@ -45,9 +41,7 @@ Explore my contributions to open-source projects, read my blog posts, check out 
 ## 📚 Knowledge & Skills
 ![My Skills](assets/svg/icons.svg)
 
-`Verilog` `FPGA` `Phi-3:7B` `Gemma-2:2B` `Mistral` `Ollama` `Crewai` `Langchain` `Blockchain`
-
-![Orca](assets/svg/Orca-100000.svg) ![LAMMA](assets/svg/LAMMA-100000.svg) ![Stable diffusion](assets/svg/Stable_diffusion-100000.svg) ![Mistral](assets/svg/Mistral-100000.svg) ![Gimp](assets/svg/Gimp-657D8B.svg) ![Inkscape](assets/svg/Inkscape-e0e0e0.svg)
+`Verilog` `FPGA` `Phi-3:7B` `Gemma-2:2B` `Mistral` `Ollama` `Crewai` `Langchain` `Blockchain` `Orca` `LAMMA` `Stable diffusion` `Gimp` `Inkscape`
 
 ## 📻 Blog Posts
 
