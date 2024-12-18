@@ -6,9 +6,6 @@
 [![Dev.to](assets/svg/devto.svg)](https://dev.to/charudatta10)
 [![indeed](assets/svg/indeed-100000.svg)](https://profile.indeed.com/p/charudattak-h04r448)
 
-<!-- [![indeed](assets/svg/indeed-100000.svg)](https://profile.indeed.com/p/charudattak-h04r448)
-[![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com) -->
-
 # चारुदत्त's Work 🗀 [![Portfolio](assets/svg/portfolio-100000.svg)](https://charudatta10.github.io/portfolio/) [![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com) 
 | [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download") |  [![Blog](assets/svg/blog-100000.svg)](src/cv/cv.pdf "download") | [![Academic Publications](assets/svg/academic-publication-100000.svg)](src/resume/resume.pdf "download") | [![Project](assets/svg/project-100000.svg)](src/portfolio/portfolio.pdf "download") |
 | -- | -- | -- | -- | -- | 
@@ -39,8 +36,8 @@ Explore my contributions to open-source projects, read my blog posts, check out 
 - Participated in a state-level chess competition.  
 
 ## 📚 Knowledge & Skills
-![My Skills](assets/svg/icons.svg)
 
+![My Skills](assets/svg/icons.svg)
 
 $${\color{orange}Verilog \space \color{green}FPGA \space \color{orange}Phi-3:7B \space \color{green}Gemma-2:2B \space \color{orange}Mistral \space \color{green}Ollama \space \color{orange}Crewai }$$   
 $${\color{green}Langchain \space \color{orange}Blockchain \space \color{green}Orca \space \color{orange}LAMMA \space \color{green}Stable \space Diffusion \space \color{orange}Gimp \space \color{green}Inkscape}$$
@@ -70,14 +67,6 @@ $${\color{green}Langchain \space \color{orange}Blockchain \space \color{green}Or
 |  - | - |
 
 ---
-
-<!--
-
-🤵 About me 
-
--->
-
-<!--- -- Projects Section ------------>
 
 ## ⭐ Pinned Projects & Work
 
