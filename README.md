@@ -41,7 +41,9 @@ Explore my contributions to open-source projects, read my blog posts, check out 
 ## 📚 Knowledge & Skills
 ![My Skills](assets/svg/icons.svg)
 
-`Verilog` `FPGA` `Phi-3:7B` `Gemma-2:2B` `Mistral` `Ollama` `Crewai` `Langchain` `Blockchain` `Orca` `LAMMA` `Stable diffusion` `Gimp` `Inkscape`
+
+$${\color{orange}Verilog \space \color{green}FPGA \space \color{orange}Phi-3:7B \space \color{green}Gemma-2:2B \space \color{orange}Mistral \space \color{green}Ollama \space \color{orange}Crewai }$$   
+$${\color{green}Langchain \space \color{orange}Blockchain \space \color{green}Orca \space \color{orange}LAMMA \space \color{green}Stable \space Diffusion \space \color{orange}Gimp \space \color{green}Inkscape}$$
 
 ## 📻 Blog Posts
 
