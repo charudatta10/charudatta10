@@ -39,8 +39,8 @@ Explore my contributions to open-source projects, read my blog posts, check out 
 
 ![My Skills](assets/svg/icons.svg)
 
-$${\color{orange}Verilog \space \color{green}FPGA \space \color{orange}Phi-3:7B \space \color{green}Gemma-2:2B \space \color{orange}Mistral \space \color{green}Ollama \space \color{orange}Crewai }$$   
-$${\color{green}Langchain \space \color{orange}Blockchain \space \color{green}Orca \space \color{orange}LAMMA \space \color{green}Stable \space Diffusion \space \color{orange}Gimp \space \color{green}Inkscape}$$
+$${\color{orange}Verilog \space \color{blue}FPGA \space \color{orange}Phi-3:7B \space \color{blue}Gemma-2:2B \space \color{orange}Mistral \space \color{blue}Ollama \space \color{orange}Crewai }$$   
+$${\color{blue}Langchain \space \color{orange}Blockchain \space \color{blue}Orca \space \color{orange}LAMMA \space \color{blue}Stable \space Diffusion \space \color{orange}Gimp \space \color{blue}Inkscape}$$
 
 ## 📻 Blog Posts
 
