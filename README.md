@@ -71,11 +71,10 @@ $${\color{blue}Langchain \space \color{orange}Blockchain \space \color{blue}Orca
 ## ⭐ Pinned Projects & Work
 
 - [`download-cleaner`](https://github.com/charudatta10/download-cleaner): Organizes the download folder by moving files by extension.
-- [`web3-tools`](https://github.com/charudatta10/web3-tools): Web3 technology tools aggregator project.
-- [`project-manager`](https://github.com/charudatta10/project-manager): One solution to all your project management tasks. 
+- [`web3-tools`](https://github.com/charudatta10/web3-tools): Web3 technology tools aggregator project. 
 - [`template-project`](template-project): Create boilerplate for your project.
 - [`Handwritten Devanagari Script Recognition`](https://github.com/charudatta10/devanagari-handwriting-recognizer) Completed a Bachelor’s project on the recognition of handwritten Devanagari script characters during the academic year 2014-2015.
-- [`readme-generator`](https://github.com/charudatta10/readme-generator) Generate readme for github repos.
+- [`task-runner-SDLC`](https://github.com/charudatta10/task-runner-SDLC)
 - [`link-net`](https://github.com/charudatta10/link-net) Links aggregated repository.
 - [`file-tagger`](https://github.com/charudatta10/file-tagger) Add tags to file and sort and order files by tags.
 - [`software validation Enginner`](https://intel.com) Interned as a software validation engineer at Intel, Bangalore during 2019-2020.
