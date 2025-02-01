@@ -46,7 +46,7 @@ Explore my contributions to open-source projects, read my blog posts, check out 
 
 ## 📚 Knowledge & Skills
 
-![My Skills](assets/svg/icons.svg)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,devto,django,flask,git,github,gmail,html,instagram,latex,linkedin,markdown,matlab,neovim,tensorflow,windows,vscode,vscodium,pytorch,alpinejs,c,julia,lua,octave,obsidian,raspberrypi,python,processing,powershell,postgresql,postman,sqlite,svg,scikitlearn,solidity,redis&theme=dark&perline=18)](https://skillicons.dev)
 
 $${\color{orange}Verilog \space \color{blue}FPGA \space \color{orange}Phi-3:7B \space \color{blue}Gemma-2:2B \space \color{orange}Mistral \space \color{blue}Ollama \space \color{orange}Crewai }$$   
 $${\color{blue}Langchain \space \color{orange}Blockchain \space \color{blue}Orca \space \color{orange}LAMMA \space \color{blue}Stable \space Diffusion \space \color{orange}Gimp \space \color{blue}Inkscape}$$
