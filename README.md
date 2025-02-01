@@ -28,12 +28,21 @@ Explore my contributions to open-source projects, read my blog posts, check out 
 
 ## 🏆 Achievements
 
-- Developed an open-source project for recognizing handwritten Devanagari script characters using MATLAB.  
-- Created a Python script for cleanup tasks.  
-- Built a tool to generate README files for GitHub repositories.  
-- Customized Neovim to function like an IDE with fast startup times.  
-- Participated in a poster competition presenting research work.  
-- Participated in a state-level chess competition.  
+1. **Professional Milestones**:
+   - Successfully led six students to complete their master theses as a mentor.
+
+2. **Academic Success**:
+   - Earned a Master’s degree in Microelectronics.
+
+3. **Personal Triumphs**:
+   - Completed a 5 km run in the RG Marathon 2024.
+
+4. **Community Involvement**:
+   - Volunteered with UNICEF.
+   - Participated in the Swachh Bharat Mission cleanliness drive.
+
+5. **Skill Development**:
+   - Learned Python for AI, ML, and web development.
 
 ## 📚 Knowledge & Skills
 
