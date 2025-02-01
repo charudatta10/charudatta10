@@ -1,14 +1,14 @@
 ![SVG Banners](assets/svg/profile_banner.svg)
 # Innovating at the Intersection of AI, FPGA, and Open Source  
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
-[![Github-sponsors](assets/svg/sponsors-100000.svg)](https://github.com/sponsors/charudatta10)
 [![Paytm](assets/svg/paytm-100000.svg)](assets/images/pay4.jpeg)
-[![Dev.to](assets/svg/devto.svg)](https://dev.to/charudatta10)
 [![indeed](assets/svg/indeed-100000.svg)](https://profile.indeed.com/p/charudattak-h04r448)
+[![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com)
+[![Github-sponsors](assets/svg/sponsors-100000.svg)](https://github.com/sponsors/charudatta10)
 
-# चारुदत्त's Work 🗀 [![Portfolio](assets/svg/portfolio-100000.svg)](https://charudatta10.github.io/portfolio/) [![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com) 
-| [![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf "download") | [![Curriculum Vitae](assets/svg/cv-100000.svg)](src/cv/cv.pdf "download") |  [![Blog](assets/svg/blog-100000.svg)](src/cv/cv.pdf "download") | [![Academic Publications](assets/svg/academic-publication-100000.svg)](src/resume/resume.pdf "download") | [![Project](assets/svg/project-100000.svg)](src/portfolio/portfolio.pdf "download") |
-| -- | -- | -- | -- | -- | 
+# चारुदत्त's Work 🗀
+| [`Resume`](src/resume/resume.pdf "download") | [`Curriculum Vitae`](src/cv/cv.pdf "download") |  [`Academic Publications`](src/resume/resume.pdf "download") | [`portfolio`](src/cv/portfolio.pdf "download") |
+| -- | -- | -- | -- |
 
 # ⠯⠷ Engineer (AI-ML, FPGA) | Open Source Enthusiast | Lecturer
 
@@ -86,7 +86,7 @@ Explore my contributions to open-source projects, read my blog posts, check out 
 - [`web3-tools`](https://github.com/charudatta10/web3-tools): Web3 technology tools aggregator project. 
 - [`template-project`](template-project): Create boilerplate for your project.
 - [`Handwritten Devanagari Script Recognition`](https://github.com/charudatta10/devanagari-handwriting-recognizer) Completed a Bachelor’s project on the recognition of handwritten Devanagari script characters during the academic year 2014-2015.
-- [`task-runner-SDLC`](https://github.com/charudatta10/task-runner-SDLC)
+- [`task-runner-SDLC`](https://github.com/charudatta10/task-runner-SDLC) Task Runner SDLC is a streamlined project management tool designed to automate and optimize software development lifecycle tasks. It simplifies task scheduling, tracking, and execution, ensuring efficient workflows and collaboration. Ideal for developers and teams, it enhances productivity and project management.
 - [`link-net`](https://github.com/charudatta10/link-net) Links aggregated repository.
 - [`file-tagger`](https://github.com/charudatta10/file-tagger) Add tags to file and sort and order files by tags.
 - [`software validation Enginner`](https://intel.com) Interned as a software validation engineer at Intel, Bangalore during 2019-2020.
