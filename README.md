@@ -31,11 +31,11 @@ Hi there! I'm Charudatta Korde, a PhD candidate in VLSI at NIT Goa, specializing
 
 ## 🏆 Achievements
 
-- 🏅 **Professional Milestones**: Mentored six students to complete their master theses.  
-- 🎓 **Academic Success**: Earned a Master’s degree in Microelectronics.  
+- 🏅 **Professional Milestones**: Mentored six students to complete their master theses in 2025.  
+- 🎓 **Academic Success**: Earned a Master’s degree in Microelectronics in 2017.  
 - 🏃 **Personal Triumphs**: Completed a 5 km run in the RG Marathon 2024.  
-- 🤝 **Community Involvement**: Volunteered with UNICEF and Swachh Bharat Mission.  
-- 🐍 **Skill Development**: Learned Python for AI, ML, and web development.  
+- 🤝 **Community Involvement**: Volunteered with UNICEF and Swachh Bharat Mission 2015-17.  
+- 🐍 **Skill Development**: Learned Python for AI, ML, and web development 2017 onwards.  
 
 ## 📚 Knowledge & Skills
 
@@ -80,14 +80,14 @@ Here's a snapshot of my GitHub activity and contributions:
 
 ## ⭐ Pinned Projects & Work
 
-- [download-cleaner](https://github.com/charudatta10/download-cleaner): *A Python script to organize your download folder by file type.*  
-- [web3-tools](https://github.com/charudatta10/web3-tools): *A collection of tools for Web3 development and blockchain integration.*  
-- [template-project](template-project): *A versatile boilerplate generator to kickstart your projects with pre-configured templates, saving time and ensuring consistency.*
-- [Handwritten Devanagari Script Recognition](https://github.com/charudatta10/devanagari-handwriting-recognizer) *A Bachelor’s project (2014-2015) focused on developing a system for recognizing handwritten Devanagari script characters using machine learning techniques.*
-- [task-runner-SDLC](https://github.com/charudatta10/task-runner-SDLC) *A project management tool that automates and optimizes software development lifecycle tasks, streamlining scheduling, tracking, and execution for enhanced team productivity and collaboration.*
-- [link-net](https://github.com/charudatta10/link-net) *A centralized repository for aggregating and organizing useful links, making resource sharing and access more efficient.*
-- [file-tagger](https://github.com/charudatta10/file-tagger) *A utility to add tags to files, enabling easy sorting, organizing, and retrieval based on custom metadata.*
-- [software validation Enginner](https://intel.com) *Interned at Intel, Bangalore (2019-2020), gaining hands-on experience in software validation and quality assurance processes.*  
+- [download-cleaner](https://github.com/charudatta10/download-cleaner): *A Python script to organize your download folder by file type.*  `python`: `os`, `shutil`
+- [web3-tools](https://github.com/charudatta10/web3-tools): *A collection of tools for Web3 development and blockchain integration.*  `python`: `flask`, `requests`
+- [template-project](template-project): *A versatile boilerplate generator to kickstart your projects with pre-configured templates, saving time and ensuring consistency.* `python`: `jinja2`
+- [Handwritten Devanagari Script Recognition](https://github.com/charudatta10/devanagari-handwriting-recognizer) *A Bachelor’s project (2014-2015) focused on developing a system for recognizing handwritten Devanagari script characters using machine learning techniques.* `python`: `numpy`, `tensorflow/keras`
+- [task-runner-SDLC](https://github.com/charudatta10/task-runner-SDLC) *A project management tool that automates and optimizes software development lifecycle tasks, streamlining scheduling, tracking, and execution for enhanced team productivity and collaboration.* `python`: `invoke`
+- [link-net](https://github.com/charudatta10/link-net) *A centralized repository for aggregating and organizing useful links, making resource sharing and access more efficient.*  `python`: `flask`
+- [file-tagger](https://github.com/charudatta10/file-tagger) *A utility to add tags to files, enabling easy sorting, organizing, and retrieval based on custom metadata.* `python`: `os`, `json`
+- [software validation Enginner](https://intel.com) *Interned at Intel, Bangalore (2019-2020), gaining hands-on experience in software validation and quality assurance processes.* `verilog`: `quartus`
 
 --- 
 
