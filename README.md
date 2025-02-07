@@ -91,14 +91,5 @@ Here's a snapshot of my GitHub activity and contributions:
 
 --- 
 
-> [!Note]
-> 🌟 I Value Your Time and Input!  
-> Your ideas matter to me—let’s create something extraordinary together!
-
-> [!Important]
-> 👉 Reach out now!  
-> Got ideas, feedback, or just want to say hi?
-
-> [!Tip]
-> 🚀 Let’s connect!  
-> The best collaborations start with a simple “Hello!” 😄
+>[!Note]
+> Have ideas or feedback? Let's connect! [email](mailto:152109007c@gmail.com)
