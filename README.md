@@ -1,21 +1,21 @@
-![SVG Banners](assets/svg/profile_banner.svg)
-# Building the Future with AI, FPGA, and Open Source Innovation 
+![SVG Banners](assets/profile_banner.svg)
+
+# Building the Future with AI, FPGA, and Open Source Innovation
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
 
 ## Connect with Me
 
-<!-- payapl or paetreon  --> 
-[![indeed](assets/svg/indeed-100000.svg)](https://profile.indeed.com/p/charudattak-h04r448) <!-- Linkdin  --> 
-[![Gmail](assets/svg/gmail-100000.svg)](mailto:152109007c@gmail.com)
-[![Github-sponsors](assets/svg/sponsors-100000.svg)](https://github.com/sponsors/charudatta10) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://profile.indeed.com/p/charudattak-h04r448)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/charudatta10)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:152109007c@gmail.com)
 
-##  चारुदत्त's Work 🗀 ⠯⠷ 
+##  चारुदत्त's Work 🗀 ⠯⠷
 
-[![Resume](assets/svg/resume-100000.svg)](src/resume/resume.pdf)
-[![CV](assets/svg/cv-100000.svg)](src/cv/cv.pdf)
-[![Project](assets/svg/project-100000.svg)](src/resume/resume.pdf)
-[![Portfolio](assets/svg/portfolio-100000.svg)](src/cv/portfolio.pdf)  
+[![Resume](assets/resume-100000.svg)](src/resume/resume.pdf)
+[![CV](assets/cv-100000.svg)](src/cv/cv.pdf)
+[![Project](assets/project-100000.svg)](src/resume/resume.pdf)
+[![Portfolio](assets/portfolio-100000.svg)](src/cv/portfolio.pdf)  
 
 ## AI & FPGA Engineer | Open Source Contributor | Lifelong Learner
 
@@ -60,15 +60,16 @@ Hi there! I'm Charudatta Korde, a PhD candidate in VLSI at NIT Goa, specializing
 - [Why Obsidian Falls Short as a Note-Taking Tool](https://dev.to/charudatta10/why-obsidian-falls-short-as-a-note-taking-tool-3ef2) *A critical analysis of Obsidian's limitations and alternative approaches for effective note-taking.*
 - [Customizing AI Prompts for Note-Taking: Tips for Tailoring Your AI-Generated Prompts](https://charudatta10.github.io/myblog/blog/index.html) *Practical tips to customize AI prompts for personalized and effective note-taking experiences.*
 
-##  📊 GitHub Stats
+## 📊 GitHub Stats
+
 Here's a snapshot of my GitHub activity and contributions: 
 
 ![Charudatta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charudatta10&theme=onedark)
 
 <details>
-   
+
 <summary>My GitHub activity and contributions Details</summary>
-   
+
 | ![Charudatta Korde trophies](https://github-profile-trophy.vercel.app/?username=charudatta10&row=2&column=3&theme=onedark)| ![Charudatta Korde readme status](https://github-readme-stats.vercel.app/api?username=charudatta10&locale=en&theme=onedark&include_all_commits=true&rank_icon=github) |
 | -- | -- |
 | ![Charudatta Korde languages used](https://github-readme-stats.vercel.app/api/top-langs?username=charudatta10&show_icons=true&locale=en&layout=compact&theme=onedark) | ![Charudatta Korde GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charudatta10&theme=onedark&border_radius=10) |
@@ -89,7 +90,7 @@ Here's a snapshot of my GitHub activity and contributions:
 - [file-tagger](https://github.com/charudatta10/file-tagger) *A utility to add tags to files, enabling easy sorting, organizing, and retrieval based on custom metadata.* `python`: `os`, `json`
 - [software validation Enginner](https://intel.com) *Interned at Intel, Bangalore (2019-2020), gaining hands-on experience in software validation and quality assurance processes.* `verilog`: `quartus`
 
---- 
+---
 
->[!Note]
-> Have ideas or feedback? Let's connect! [email](mailto:152109007c@gmail.com)
+>[!Note]  
+> Have ideas or feedback? Let's connect! [email me](mailto:152109007c@gmail.com)
