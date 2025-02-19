@@ -61,6 +61,9 @@ Hi there! I'm Charudatta Korde, a PhD candidate in VLSI at NIT Goa, specializing
 
 ## 📻 Blog Posts
 
+<details>
+
+<summary>Leveraging VS Code for customizable note-taking, organizing notes, setting up VS Code with Foam and Logseq, exploring AI tools for collaboration, using visual note-taking apps, guiding beginners, analyzing Obsidian's limitations, and customizing AI prompts for effective note-taking.</summary>
 - [VS Code for Note-Taking](https://dev.to/charudatta10/vs-code-for-note-taking-324b)*Leveraging VS Code as a versatile tool for efficient and customizable digital note-taking.*
 - [Organization schemes for note taking](https://dev.to/charudatta10/organization-schemes-for-note-taking-j18) *Effective strategies and frameworks to organize your notes for better productivity and knowledge management.*
 - [Vscode setup with Foam and Logseq for Digital Note Taking](https://dev.to/charudatta10/vscode-setup-with-foam-and-logseq-for-digital-note-taking-2953) *A guide to setting up VS Code with Foam and Logseq for seamless and interconnected digital note-taking.*
@@ -70,6 +73,8 @@ Hi there! I'm Charudatta Korde, a PhD candidate in VLSI at NIT Goa, specializing
 - [Why Obsidian Falls Short as a Note-Taking Tool](https://dev.to/charudatta10/why-obsidian-falls-short-as-a-note-taking-tool-3ef2) *A critical analysis of Obsidian's limitations and alternative approaches for effective note-taking.*
 - [Customizing AI Prompts for Note-Taking: Tips for Tailoring Your AI-Generated Prompts](https://charudatta10.github.io/myblog/blog/index.html) *Practical tips to customize AI prompts for personalized and effective note-taking experiences.*
 
+</details>
+  
 ## 📊 GitHub Stats
 
 Here's a snapshot of my GitHub activity and contributions: 
