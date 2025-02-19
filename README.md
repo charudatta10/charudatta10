@@ -31,12 +31,18 @@ Hi there! I'm Charudatta Korde, a PhD candidate in VLSI at NIT Goa, specializing
 
 ## 🏆 Achievements
 
+<details>
+
+<summary>Mentored students, earned a Master’s, completed a marathon, volunteered, and learned Python for AI, ML, and web development.</summary>
+
 - 🏅 **Professional Milestones**: Mentored six students to complete their master theses in 2025.  
 - 🎓 **Academic Success**: Earned a Master’s degree in Microelectronics in 2017.  
 - 🏃 **Personal Triumphs**: Completed a 5 km run in the RG Marathon 2024.  
 - 🤝 **Community Involvement**: Volunteered with UNICEF and Swachh Bharat Mission 2015-17.  
 - 🐍 **Skill Development**: Learned Python for AI, ML, and web development 2017 onwards.  
 
+</details>
+  
 ## 📚 Knowledge & Skills
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,devto,django,flask,git,github,gmail,html,instagram,latex,linkedin,markdown,matlab,neovim,tensorflow,windows,vscode,vscodium,pytorch,alpinejs,c,julia,lua,octave,obsidian,raspberrypi,python,processing,powershell,postgresql,postman,sqlite,svg,scikitlearn,solidity,redis&theme=dark&perline=18)](https://skillicons.dev)
