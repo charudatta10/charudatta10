@@ -23,11 +23,15 @@ Hi there! I'm Charudatta Korde, a PhD candidate in VLSI at NIT Goa, specializing
 
 ## 🕮 Learning & Interests
 
+<details>
+
+<summary>Expanding skills in FPGA Technologies, exploring GANs, working on NNGEN for neural networks, delving into MFDFA for data analysis, and investigating blockchain technology and smart contracts.</summary>
 - **FPGA Technologies**: Expanding my knowledge and skills in Field-Programmable Gate Arrays.  
 - **GANs**: Exploring advanced AI models and their applications.  
 - **NNGEN**: Working on Python-to-edge flow for deploying neural networks.  
 - **MFDFA**: Delving into complex data analysis techniques.  
 - **Blockchain**: Investigating blockchain technology and smart contracts.  
+</details>
 
 ## 🏆 Achievements
 
