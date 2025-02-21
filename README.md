@@ -10,7 +10,7 @@
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/charudatta10)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:152109007c@gmail.com)
 
-##  चारुदत्त's 作業 🗀 ⠯⠷
+##  चारुदत्त's 作業 ⠯⠷ 🗀
 
 [![Resume](assets/resume-100000.svg)](src/resume/resume.pdf)
 [![CV](assets/cv-100000.svg)](src/cv/cv.pdf)
