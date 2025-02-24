@@ -105,6 +105,7 @@ Here's a snapshot of my GitHub activity and contributions:
 - [link-net](https://github.com/charudatta10/link-net) *A centralized repository for aggregating and organizing useful links, making resource sharing and access more efficient.*  `python`: `flask`
 - [file-tagger](https://github.com/charudatta10/file-tagger) *A utility to add tags to files, enabling easy sorting, organizing, and retrieval based on custom metadata.* `python`: `os`, `json`
 - [software validation Enginner](https://intel.com) *Interned at Intel, Bangalore (2019-2020), gaining hands-on experience in software validation and quality assurance processes.* `verilog`: `quartus`
+- [AI Chat](https://github.com/charudatta10/ai_chat) *This lightweight, scalable solution delivers seamless conversational AI experiences. With robust backend performance and intuitive integration, it’s designed to elevate user interactions.* `python`: `ollama`: `fastapi`: `uvicorn`: `pytest`
 
 ---
 
