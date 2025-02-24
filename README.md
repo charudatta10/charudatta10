@@ -19,7 +19,7 @@
 
 ## AI & FPGA Engineer | Open Source Contributor | Lifelong Learner
 
-Hi there! I'm Charudatta Korde, a PhD candidate in VLSI at NIT Goa, specializing in AI/ML, FPGA development, and blockchain technology. I design optimized FPGA/Edge device accelerators for AI models and contribute to open-source projects. Let's connect and collaborate on innovative solutions!  
+Hi there! I'm Charudatta Korde, a Lecturer at  NFSU Goa, specializing in AI/ML, FPGA development, and blockchain technology. I design optimized FPGA/Edge device accelerators for AI models and contribute to open-source projects. Let's connect and collaborate on innovative solutions!  
 
 ## 🕮 Learning & Interests
 
@@ -97,6 +97,7 @@ Here's a snapshot of my GitHub activity and contributions:
 
 ## ⭐ Pinned Projects & Work
 
+- [AI Chat](https://github.com/charudatta10/ai_chat) *This lightweight, scalable solution delivers seamless conversational AI experiences. With robust backend performance and intuitive integration, it’s designed to elevate user interactions.* `python`: `ollama`, `fastapi`, `uvicorn`, `pytest`
 - [download-cleaner](https://github.com/charudatta10/download-cleaner): *A Python script to organize your download folder by file type.*  `python`: `os`, `shutil`
 - [web3-tools](https://github.com/charudatta10/web3-tools): *A collection of tools for Web3 development and blockchain integration.*  `python`: `flask`, `requests`
 - [template-project](template-project): *A versatile boilerplate generator to kickstart your projects with pre-configured templates, saving time and ensuring consistency.* `python`: `jinja2`
@@ -105,7 +106,7 @@ Here's a snapshot of my GitHub activity and contributions:
 - [link-net](https://github.com/charudatta10/link-net) *A centralized repository for aggregating and organizing useful links, making resource sharing and access more efficient.*  `python`: `flask`
 - [file-tagger](https://github.com/charudatta10/file-tagger) *A utility to add tags to files, enabling easy sorting, organizing, and retrieval based on custom metadata.* `python`: `os`, `json`
 - [software validation Enginner](https://intel.com) *Interned at Intel, Bangalore (2019-2020), gaining hands-on experience in software validation and quality assurance processes.* `verilog`: `quartus`
-- [AI Chat](https://github.com/charudatta10/ai_chat) *This lightweight, scalable solution delivers seamless conversational AI experiences. With robust backend performance and intuitive integration, it’s designed to elevate user interactions.* `python`: `ollama`, `fastapi`, `uvicorn`, `pytest`
+
 
 ---
 
