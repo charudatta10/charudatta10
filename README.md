@@ -55,11 +55,11 @@ Hi there! I'm Charudatta Korde, a Lecturer at  NFSU Goa, specializing in AI/ML, 
 
 | **Programming** | **AI/ML**          | **FPGA**      | **Tools**      | **Databases**    | **Web Dev**      |
 |-------------|----------------|-----------|------------|--------------|--------------|
-| Python 🔵    | TensorFlow 🟡   | Verilog 🟢 | Git 🟢      | SQL 🟢        | HTML/CSS 🟢   |
-| C 🟢         | PyTorch 🔵      | FPGA 🟡    | VS Code 🟢  | MySQL 🟡      | JavaScript 🟡 |
-| Julia 🟠     | Scikit-learn 🔴 | NNGEN 🔵   | Obsidian 🟢 | PostgreSQL 🟡 | React 🟠      |
-| Lua 🟡      | Keras 🟠        | VHDL 🟠    | Docker 🟢   | MongoDB 🟠    | Node.js🟡     |
-| R 🟠         | OpenCV 🟢       | MATLAB 🔴  | Jupyter 🟢  | SQLite 🔵     | Angular 🟠    |
+| Python 🔵    | TensorFlow 🟡   | Verilog 🟢 | Git 🟢      | SQL 🟡        | HTML/CSS 🔵   |
+| C 🟢         | PyTorch 🔵      | FPGA 🟢    | VS Code 🔵  | MySQL 🟡      | JavaScript 🟡 |
+| Julia 🟠     | Scikit-learn 🔴 | NNGEN 🔵   | Obsidian 🟢 | PostgreSQL 🟡 | React 🔴      |
+| Lua 🟡      | Keras 🟢        | VHDL 🟡    | Docker 🟡   | MongoDB 🔴    | Node.js🟠     |
+| R 🟠         | OpenCV 🟠       | MATLAB 🟢  | Jupyter 🟢  | SQLite 🟢     | Angular 🟠    |
 
 <!-- $${\color{orange}Verilog \space \color{blue}FPGA \space \color{orange}Phi-3:7B \space \color{blue}Gemma-2:2B \space \color{orange}Mistral \space \color{blue}Ollama \space \color{orange}Crewai }$$   -->
 
