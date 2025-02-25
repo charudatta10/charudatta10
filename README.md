@@ -6,7 +6,7 @@
 ## Charudatta Korde | AI & FPGA Specialist
 > *Optimizing neural networks for edge devices, building open-source AI solutions, mentoring the next generation*
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://profile.indeed.com/p/charudattak-h04r448)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charudatta-korde/)
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/charudatta10)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:152109007c@gmail.com)
 
@@ -44,7 +44,7 @@
 
 ## 📚 Recent Publications & Blog Posts
 - [VS Code for AI-Enhanced Note-Taking](https://dev.to/charudatta10/vs-code-for-note-taking-324b)
-- [AI-Optimized FPGA Deployments: Challenges & Solutions](https://charudatta10.github.io/myblog/blog/index.html)
+- [AI-Optimized FPGA Deployments: Challenges & Solutions](https://dev.to/charudatta10/ai-optimized-fpga-deployments-challenges-solutions-2mij)
 
 ## 🏆 Recent Achievements
 - Mentored six students to complete their master theses (2025)
