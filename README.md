@@ -30,15 +30,19 @@
 ![Charudatta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charudatta10&theme=onedark)
 
 ## ⭐ Featured Projects
-1. **[AI Chat](https://github.com/charudatta10/ai_chat)** - Lightweight conversational AI platform
+2. **[AI Trade](https://github.com/charudatta10/ai_trade)** - AI tade bot 
+   - *Tech: Python, Ollama, FastAPI, YFianance, Nesw API, Text Blob*
+   - *Impact: trade margins improved by 50%*
+   
+2. **[AI Chat](https://github.com/charudatta10/ai_chat)** - Lightweight conversational AI platform
    - *Tech: Python, Ollama, FastAPI*
    - *Impact: Reduced response latency by 30% compared to alternatives*
 
-2. **[Handwritten Devanagari Recognition](https://github.com/charudatta10/devanagari-handwriting-recognizer)**
+3. **[Handwritten Devanagari Recognition](https://github.com/charudatta10/devanagari-handwriting-recognizer)**
    - *Tech: TensorFlow, Keras, NumPy*
    - *Result: 94% accuracy on real-world handwritten samples*
 
-3. **[Web3 Tools](https://github.com/charudatta10/web3-tools)**
+4. **[Web3 Tools](https://github.com/charudatta10/web3-tools)**
    - *Tech: Python, Flask, Web3.py*
    - *Features: Smart contract deployment, wallet management, transaction analysis*
 
