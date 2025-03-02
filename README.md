@@ -30,7 +30,7 @@
 ![Charudatta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charudatta10&theme=onedark)
 
 ## ⭐ Featured Projects
-2. **[AI Trade](https://github.com/charudatta10/ai_trade)** - AI tade bot 
+1. **[AI Trade](https://github.com/charudatta10/ai_trade)** - AI tade bot 
    - *Tech: Python, Ollama, FastAPI, YFianance, Nesw API, Text Blob*
    - *Impact: trade margins improved by 50%*
    
