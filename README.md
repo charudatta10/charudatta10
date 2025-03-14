@@ -60,8 +60,9 @@
 
 [GitHub statistics](assets/github_stats.md)
 
->[!NOTE]
-> 
+> [!NOTE]
+>
 > COPYRIGHT NOTICE  
 > Some Rights Reserved © 2025 Charudatta Korde.  
-> This work may be used with full attribution, but no alterations are permitted.
+> This work and its derivatives may only be used with full attribution.
+
