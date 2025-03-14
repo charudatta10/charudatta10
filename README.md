@@ -25,19 +25,19 @@
 | Python      | FPGA Design    | Web Development|
 | PyTorch     | C Programming  | Julia          |
 | NNGEN       | Git/GitHub     | Scikit-learn   |
-| HTML/CSS    | Verilog        | sqlite        |
+| HTML/CSS    | Verilog        | SQLite        |
 
 ## 📊 GitHub Activity
 ![Charudatta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charudatta10&theme=onedark)
 
 ## ⭐ Featured Projects
-1. **[AI Trade](https://github.com/charudatta10/ai-trade)** - AI tade bot 
-   - *Tech: Python, Ollama, FastAPI, YFianance, Nesw API, Text Blob*
+1. **[AI Trade](https://github.com/charudatta10/ai-trade)** - AI trade bot 
+   - *Tech: Python, Ollama, FastAPI, YFinance, News API, Text Blob*
    - *Impact: trade margins improved by 50%*
    
 2. **[AI Chat](https://github.com/charudatta10/ai_chat)** - Lightweight conversational AI platform
    - *Tech: Python, Ollama, FastAPI*
-   - *Impact: Reduced response latency by 30% compared to alternatives*
+   - *Impact: Reduced response latency by 30% compared to alternatives by utilizing asynchronous routines with FastAPI*
 
 3. **[Handwritten Devanagari Recognition](https://github.com/charudatta10/devanagari-handwriting-recognizer)**
    - *Tech: TensorFlow, Keras, NumPy*
@@ -52,48 +52,14 @@
 - [AI-Optimized FPGA Deployments: Challenges & Solutions](https://dev.to/charudatta10/ai-optimized-fpga-deployments-challenges-solutions-2mij)
 
 ## 🏆 Recent Achievements
-- Mentored six students to complete their master theses (2025)
+- Mentored six students through their master's theses (2025)
 - Completed RG Marathon 5K (2024)
 - [View Full CV](src/cv/cv.pdf)
 
 ---
-
+[GitHub stastics](github_stasts.md)
 >[!NOTE]
 > 
 > COPYRIGHT NOTICE  
 > Some Rights Reserved © 2076 Charudatta Korde.  
 > This work may be used with full attribution, but no alterations are permitted.
-
-<Details>
-<summary> Show Detailed GitHub Stats</summary>
-
-## GitHub Stats
-
-<img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=charudatta10&show=reviews,discussions_started,prs_merged,prs_merged_percentage&hide_rank=true&show_icons=true&include_all_commits=true&theme=onedark#gh-dark-mode-only&bg_color=30,e96443,904e95)" />
-<img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charudatta10&layout=pie&hide=html&theme=onedark" />
-<img height=300 align="center" src="https://github-profile-trophy.vercel.app/?username=charudatta10&theme=onedark&rows=2&column=3" />
-
-## Pinned Gists
-
-<img height=100 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=8b50e8260808cdebe4c08d2b00ba05d3&theme=onedark" />
-<img height=100 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=544d754641c3fa2b22fb84b7e62edf8c&theme=dark" />
-<img height=100 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=d44f375ef894ede4d5302eb4a003b27a&theme=merko" />
-<img height=100 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=6efb146deb50a1b2af20d6864e877cc7&theme=gruvbox" />
-<img height=100 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=d44f375ef894ede4d5302eb4a003b27a&theme=tokyonight" />
-<img height=100 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=fc433968b5108f39236c97944273b685&theme=cobalt" />
-
-## Pinned Repos 
-
-<img height=100  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charudatta10&repo=charudatta10&theme=onedark" />
-<img height=100  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charudatta10&repo=ai-trade&theme=dark" />
-<img height=100  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charudatta10&repo=ai_chat&theme=merko" />
-<hr></hr>
-<img height=100  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charudatta10&repo=devanagari-handwriting-recognizer&theme=gruvbox" />
-<img height=100  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charudatta10&repo=web3-tools&theme=tokyonight" />
-<img height=100  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charudatta10&repo=ai-orb&theme=cobalt" />  <hr></hr>
-<img height=100  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charudatta10&repo=project-tile&theme=synthwave" />
-<img height=100  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charudatta10&repo=task-runner-SDLC&theme=dracula" />
-<img height=100  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charudatta10&repo=note-flow&theme=dark" />
-
-
-</Details>
