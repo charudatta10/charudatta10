@@ -1,6 +1,7 @@
 ![SVG Banners](assets/profile_banner.svg)
 # Building the Future with AI, FPGA, and Open Source Innovation
 
+[![Let's connect!](https://img.shields.io/badge/Let's_connect!-8A2BE2?style=for-the-badge)](mailto:152109007c@gmail.com)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
 
 ## Charudatta Korde | AI & FPGA Specialist
@@ -58,8 +59,12 @@
 ---
 
 >[!NOTE]
-> Interested in collaboration? [Let's connect!](mailto:152109007c@gmail.com)
->
+> 
+> COPYRIGHT NOTICE  
+> Some Rights Reserved © 2076 Charudatta Korde.  
+> This work may be used with full attribution, but no alterations are permitted.
+
+
 
 
 <Details>
