@@ -61,5 +61,5 @@
 >[!NOTE]
 > 
 > COPYRIGHT NOTICE  
-> Some Rights Reserved © 2076 Charudatta Korde.  
+> Some Rights Reserved © 2025 Charudatta Korde.  
 > This work may be used with full attribution, but no alterations are permitted.
