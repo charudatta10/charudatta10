@@ -57,7 +57,7 @@
 - [View Full CV](src/cv/cv.pdf)
 
 ---
-[GitHub stastics](github_stasts.md)
+[GitHub stastics](assets/github_stats.md)
 >[!NOTE]
 > 
 > COPYRIGHT NOTICE  
