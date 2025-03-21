@@ -58,11 +58,13 @@
 
 ---
 
-[GitHub statistics](assets/github_stats.md)
+[![GitHub statistics](https://img.shields.io/badge/GitHub_statistics-8A2BE2?style=for-the-badge)](assets/github_stats.md) 
+
+![image](https://github.com/user-attachments/assets/86771f8d-bf71-47bf-875e-a523b3193ad2)  
 
 > [!NOTE]
 >
-> COPYRIGHT NOTICE  
+> COPYRIGHT NOTICE
 > Some Rights Reserved © 2025 Charudatta Korde.  
 > This work and its derivatives may only be used with full attribution.
 
