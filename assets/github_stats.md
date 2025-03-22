@@ -1,14 +1,12 @@
 ## Hi there 👋
-I'm Charudatta, a passionate developer with a focus on AI, web development, and open-source projects. Welcome to my GitHub profile!
+I'm Charudatta, a passionate developer with a focus on AI, web development, and open-source projects.  
+Welcome back to my GitHub profile's Additional info page.
 
-## 📊 GitHub Stats
-Here's an overview of my GitHub activity, including contributions, top languages, and achievements.
+## 🛠️ Technologies & Tools
+Here are some of the technologies and tools I work with:
 
-<div align="center">
-  <img height=300 src="https://github-readme-stats.vercel.app/api?username=charudatta10&show=reviews,discussions_started,prs_merged,prs_merged_percentage&hide_rank=true&show_icons=true&include_all_commits=true&theme=onedark#gh-dark-mode-only&bg_color=30,e96443,904e95)" />
-  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=charudatta10&layout=pie&hide=html&theme=onedark" />
-  <img height=300 src="https://github-profile-trophy.vercel.app/?username=charudatta10&theme=onedark&rows=2&column=3" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📌 Pinned Gists
 Here are some of my most useful code snippets and gists.
@@ -30,8 +28,3 @@ Here are some of my favorite projects I've worked on.
   
 </div>
 
-## 🛠️ Technologies & Tools
-Here are some of the technologies and tools I work with:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
