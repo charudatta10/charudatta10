@@ -2,6 +2,8 @@
 # Building the Future with AI, FPGA, and Open Source Innovation
 
 [![Let's connect!](https://img.shields.io/badge/Let's_connect!-8A2BE2?style=for-the-badge)](mailto:152109007c@gmail.com)
+[![Download CV](https://img.shields.io/badge/Download_CV-555555?style=for-the-badge)](src/cv/cv.pdf)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-263759?style=for-the-badge)](https://charudatta10.github.io/portfolio/)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
 
 ## Charudatta Korde | AI & FPGA Specialist
@@ -28,7 +30,12 @@
 | HTML/CSS    | Verilog        | SQLite        |
 
 ## 📊 GitHub Activity
-![Charudatta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charudatta10&theme=onedark)
+Here's an overview of my GitHub activity, including contributions, top languages, and achievements.
+ <div align="center">
+  <img height=300 src="https://github-readme-stats.vercel.app/api?username=charudatta10&show=reviews,discussions_started,prs_merged,prs_merged_percentage&hide_rank=true&show_icons=true&include_all_commits=true&theme=onedark#gh-dark-mode-only&bg_color=30,e96443,904e95)" />
+  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=charudatta10&layout=pie&hide=html&theme=onedark" />
+  <img height=300 src="https://github-profile-trophy.vercel.app/?username=charudatta10&theme=onedark&rows=2&column=3" />
+</div>
 
 ## ⭐ Featured Projects
 1. **[AI Trade](https://github.com/charudatta10/ai-trade)** - AI trade bot 
@@ -54,17 +61,16 @@
 ## 🏆 Recent Achievements
 - Mentored six students through their master's theses (2025)
 - Completed RG Marathon 5K (2024)
-- [View Full CV](src/cv/cv.pdf)
 
 ---
 
-[![GitHub statistics](https://img.shields.io/badge/GitHub_statistics-8A2BE2?style=for-the-badge)](assets/github_stats.md) 
-
-![image](https://github.com/user-attachments/assets/86771f8d-bf71-47bf-875e-a523b3193ad2)  
 
 > [!NOTE]
+> ![image](https://github.com/user-attachments/assets/86771f8d-bf71-47bf-875e-a523b3193ad2)  
 >
 > COPYRIGHT NOTICE  
 > Some Rights Reserved © 2025 Charudatta Korde.  
 > This work and its derivatives may only be used with full attribution.
 
+
+[![More info](https://img.shields.io/badge/More_info-0d1117?style=for-the-badge)](assets/github_stats.md) 
