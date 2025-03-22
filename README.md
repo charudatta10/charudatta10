@@ -31,11 +31,10 @@
 
 ## 📊 GitHub Activity
 Here's an overview of my GitHub activity, including contributions, top languages, and achievements.
- <div align="center">
-  <img height=300 src="https://github-readme-stats.vercel.app/api?username=charudatta10&show=reviews,discussions_started,prs_merged,prs_merged_percentage&hide_rank=true&show_icons=true&include_all_commits=true&theme=onedark#gh-dark-mode-only&bg_color=30,e96443,904e95)" />
-  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=charudatta10&layout=pie&hide=html&theme=onedark" />
-  <img height=300 src="https://github-profile-trophy.vercel.app/?username=charudatta10&theme=onedark&rows=2&column=3" />
-</div>
+<img height=300 src="https://github-readme-stats.vercel.app/api?username=charudatta10&show=reviews,discussions_started,prs_merged,prs_merged_percentage&hide_rank=true&show_icons=true&include_all_commits=true&theme=onedark#gh-dark-mode-only&bg_color=30,e96443,904e95)" />
+<img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=charudatta10&layout=pie&hide=html&theme=onedark" />
+<img height=300 src="https://github-profile-trophy.vercel.app/?username=charudatta10&theme=onedark&rows=2&column=3" />
+
 
 ## ⭐ Featured Projects
 1. **[AI Trade](https://github.com/charudatta10/ai-trade)** - AI trade bot 
