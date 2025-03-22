@@ -1,7 +1,7 @@
 ![SVG Banners](assets/profile_banner.svg)
 # Building the Future with AI, FPGA, and Open Source Innovation
 
-[![Let's connect!](https://img.shields.io/badge/Let's_connect!-8A2BE2?style=for-the-badge)](mailto:152109007c@gmail.com)
+[![Let's connect!](https://img.shields.io/badge/&#x1F91D;_Let's_connect!-8A2BE2?style=for-the-badge)](mailto:152109007c@gmail.com)
 [![Download CV](https://img.shields.io/badge/Download_CV-555555?style=for-the-badge)](src/cv/cv.pdf)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-263759?style=for-the-badge)](https://charudatta10.github.io/portfolio/)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charudatta-korde/)
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/charudatta10)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:152109007c@gmail.com)
-
+[![Open to AI/FPGA collaborations and consulting](https://img.shields.io/badge/Open_to_AI/FPGA_collaborations_and_consulting-2EA44F?style=for-the-badge)](mailto:152109007c@gmail.com)
 ## Current Focus
 - 🧠 Optimizing AI models for FPGA deployment
 - 🏗️ Contributing to NNGEN for neural network acceleration
