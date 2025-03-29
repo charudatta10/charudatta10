@@ -30,7 +30,7 @@
 | HTML/CSS    | Verilog        | SQLite        |
 
 ## 📊 GitHub Activity
-Here's an overview of my GitHub activity, including contributions, top languages, and achievements.
+Here's an overview of my GitHub activity, including contributions, top languages, and achievements.  
 <img height=280 src="https://github-readme-stats.vercel.app/api?username=charudatta10&show=reviews,discussions_started,prs_merged,prs_merged_percentage&hide_rank=true&show_icons=true&include_all_commits=true&theme=onedark#gh-dark-mode-only&bg_color=30,e96443,904e95)" />
 <img height=280 src="https://github-readme-stats.vercel.app/api/top-langs/?username=charudatta10&layout=pie&hide=html&theme=onedark" />
 <img height=280 src="https://github-profile-trophy.vercel.app/?username=charudatta10&theme=onedark&rows=2&column=3" />
@@ -65,11 +65,11 @@ Here's an overview of my GitHub activity, including contributions, top languages
 
 
 > [!NOTE]
-> ![image](https://github.com/user-attachments/assets/86771f8d-bf71-47bf-875e-a523b3193ad2)  
->
 > COPYRIGHT NOTICE  
 > Some Rights Reserved © 2025 Charudatta Korde.  
-> This work and its derivatives may only be used with full attribution.
+> This work and its derivatives may only be used with full attribution to the original author.  
+> Any unauthorized commercial use is strictly prohibited.  
+> For complete details, refer to the accompanying License Agreement.  
 
 
 [![More info](https://img.shields.io/badge/More_info-0d1117?style=for-the-badge)](assets/github_stats.md) 
