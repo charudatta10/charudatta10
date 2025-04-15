@@ -1,6 +1,6 @@
 ![SVG Banners](assets/profile_banner.svg)
 
-# <img src="assets/logo.svg" alt="logo" height="60" width="60"/> Building the Future with AI, FPGA, and Open Source Innovation
+# <img src="assets/logo.svg" alt="logo" height="40" width="40"/> Building the Future with AI, FPGA, and Open Source Innovation
 
 [![Let's connect!](https://img.shields.io/badge/&#x1F91D;_Let's_connect!-8A2BE2?style=for-the-badge)](mailto:152109007c@gmail.com)
 [![Download CV](https://img.shields.io/badge/Download_CV-555555?style=for-the-badge)](src/cv/cv.pdf)
