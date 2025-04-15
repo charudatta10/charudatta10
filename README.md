@@ -1,14 +1,13 @@
 ![SVG Banners](assets/profile_banner.svg)
 
-# Building the Future with AI, FPGA, and Open Source Innovation
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=720&lines=Building+the+Future+with+AI+FPGA+and+Open+Source+Innovation) <img src="assets/logo.svg" alt="logo" height="60" width="60"/>
 
- 
 [![Let's connect!](https://img.shields.io/badge/&#x1F91D;_Let's_connect!-8A2BE2?style=for-the-badge)](mailto:152109007c@gmail.com)
 [![Download CV](https://img.shields.io/badge/Download_CV-555555?style=for-the-badge)](src/cv/cv.pdf)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-263759?style=for-the-badge)](https://charudatta10.github.io/portfolio/)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
 
-## <img src="assets/logo.svg" alt="logo" height="40" width="40"/> Charudatta Korde | AI & FPGA Specialist
+## Charudatta Korde | AI & FPGA Specialist
 
 >
 > *Optimizing neural networks for edge devices, building open-source AI solutions, mentoring the next generation*
