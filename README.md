@@ -1,6 +1,6 @@
 ![SVG Banners](assets/profile_banner.svg)
 
-# Building the Future with AI, FPGA, and Open Source Innovation
+# <img src="assets/logo.svg" alt="logo" height="60" width="60"/> Building the Future with AI, FPGA, and Open Source Innovation
 
 [![Let's connect!](https://img.shields.io/badge/&#x1F91D;_Let's_connect!-8A2BE2?style=for-the-badge)](mailto:152109007c@gmail.com)
 [![Download CV](https://img.shields.io/badge/Download_CV-555555?style=for-the-badge)](src/cv/cv.pdf)
@@ -69,11 +69,8 @@ Here's an overview of my GitHub activity, including contributions, top languages
 - Mentored six students through their master's theses (2025)
 - Completed RG Marathon 5K (2024)
 
-## ©️ **COPYRIGHT NOTICE**  
+## ©️ COPYRIGHT NOTICE
 
-**Some Rights Reserved © 2025 Charudatta Korde.**  
-This work and its derivatives may only be used with full attribution to the original author.  
-Any unauthorized commercial use is strictly prohibited.  
-For complete details, refer to the accompanying License Agreement.  
+© 2025 Charudatta Korde. Some Rights Reserved. Attribution Required. Non-Commercial Use & Share-Alike. 
 
 [![More info](https://img.shields.io/badge/More_info-0d1117?style=for-the-badge)](assets/github_stats.md)
