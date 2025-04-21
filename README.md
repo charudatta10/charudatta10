@@ -74,4 +74,4 @@ Here's an overview of my GitHub activity, including contributions, top languages
 
 © 2025 Charudatta Korde. Some Rights Reserved. Attribution Required. Non-Commercial Use & Share-Alike. 
 
-[![More info](https://img.shields.io/badge/More_info-0d1117?style=for-the-badge)](assets/github_stats.md)
+[![More info](https://img.shields.io/badge/More_info-0d9999?style=for-the-badge)](assets/github_stats.md)
