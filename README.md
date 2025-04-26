@@ -1,23 +1,19 @@
 ![SVG Banners](assets/profile_banner.svg)
 
-
-
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=720&lines=Building+the+Future+with+AI+FPGA+and+Open+Source+Innovation) <img src="assets/logo.png" alt="logo" height="60" width="60"/>
-
-[![Let's connect!](https://img.shields.io/badge/&#x1F91D;_Let's_connect!-8A2BE2?style=for-the-badge)](mailto:152109007c@gmail.com)
 [![Download CV](https://img.shields.io/badge/Download_CV-555555?style=for-the-badge)](src/cv/cv.pdf)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-263759?style=for-the-badge)](https://charudatta10.github.io/portfolio/)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charudatta-korde/)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/charudatta10)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:152109007c@gmail.com)
+
 
 ## Charudatta Korde | AI & FPGA Specialist
 
 >
 > *Optimising neural networks for edge devices, building open-source AI solutions, mentoring the next generation*
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charudatta-korde/)
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/charudatta10)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:152109007c@gmail.com)
-[![Open to AI/FPGA collaborations and consulting](https://img.shields.io/badge/Open_to_AI/FPGA_collaborations_and_consulting-2EA44F?style=for-the-badge)](mailto:152109007c@gmail.com)
+
 
 ## Current Focus
 
@@ -26,7 +22,7 @@
 - 🔗 Exploring blockchain applications in edge computing
 - 👨‍🏫 Mentoring students at NFSU Goa
 
-## 🔥 Top Skills
+## 🔥 Skills
 
 ![My Skills](https://skillicons.dev/icons?i=python,pytorch,html,git,c,flask,latex,markdown,vscode,powershell&theme=dark&perline=10)
 
@@ -72,10 +68,17 @@ Here's an overview of my GitHub activity, including contributions, top languages
 - Mentored six students through their master's theses (2025)
 - Completed RG Marathon 5K (2024)
 
+## **🌐 Call-to-Action**
+
+Looking for **collaborators or consulting opportunities** in AI and FPGA? Let’s connect!  
+
+[![Contact Me](https://img.shields.io/badge/Contact_me-0A9396?style=for-the-badge)](mailto:152109007c@gmail.com)
+
 ## ©️ COPYRIGHT NOTICE
 
 © 2025 Charudatta Korde. Some Rights Reserved. Attribution Required. Non-Commercial Use & Share-Alike. 
 
-[![More info](https://img.shields.io/badge/More_info-0d9999?style=for-the-badge)](assets/github_stats.md)
 
-![](assets/logoV.png)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=720&lines=Building+the+Future+with+AI+FPGA+and+Open+Source+Innovation) <img src="assets/logo.png" alt="logo" height="60" width="60"/> <img src="assets/logoV.png" alt="logo" height="60" width="60"/> 
+
+
