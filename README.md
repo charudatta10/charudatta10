@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:152109007c@gmail.com)
 
 
-## Charudatta Korde | AI & FPGA Specialist
+## **Charudatta Korde | AI-ML, Cybersecurity & FPGA Specialist**
 
 >
 > *Optimising neural networks for edge devices, building open-source AI solutions, mentoring the next generation*
