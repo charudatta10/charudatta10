@@ -1,5 +1,7 @@
 ![SVG Banners](assets/profile_banner.svg)
 
+
+
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=720&lines=Building+the+Future+with+AI+FPGA+and+Open+Source+Innovation) <img src="assets/logo.png" alt="logo" height="60" width="60"/>
 
 [![Let's connect!](https://img.shields.io/badge/&#x1F91D;_Let's_connect!-8A2BE2?style=for-the-badge)](mailto:152109007c@gmail.com)
@@ -10,7 +12,7 @@
 ## Charudatta Korde | AI & FPGA Specialist
 
 >
-> *Optimizing neural networks for edge devices, building open-source AI solutions, mentoring the next generation*
+> *Optimising neural networks for edge devices, building open-source AI solutions, mentoring the next generation*
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charudatta-korde/)
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/charudatta10)
@@ -19,7 +21,7 @@
 
 ## Current Focus
 
-- 🧠 Optimizing AI models for FPGA deployment
+- 🧠 Optimising AI models for FPGA deployment
 - 🏗️ Contributing to NNGEN for neural network acceleration
 - 🔗 Exploring blockchain applications in edge computing
 - 👨‍🏫 Mentoring students at NFSU Goa
@@ -45,12 +47,12 @@ Here's an overview of my GitHub activity, including contributions, top languages
 ## ⭐ Featured Projects
 
 1. **[AI Trade](https://github.com/charudatta10/ai-trade)** - AI trade bot
-   - *Tech: Python, Ollama, FastAPI, YFinance, News API, Text Blob*
+   - *Tech: Python, Ollama, Fastapi, YFinance, News API, Text Blob*
    - *Impact: trade margins improved by 50%*
 
 2. **[AI Chat](https://github.com/charudatta10/ai_chat)** - Lightweight conversational AI platform
    - *Tech: Python, Ollama, FastAPI*
-   - *Impact: Reduced response latency by 30% compared to alternatives by utilizing asynchronous routines with FastAPI*
+   - *Impact: Reduced response latency by 30% compared to alternatives by utilising asynchronous routines with Fastapi*
 
 3. **[Handwritten Devanagari Recognition](https://github.com/charudatta10/devanagari-handwriting-recognizer)**
    - *Tech: TensorFlow, Keras, NumPy*
@@ -63,7 +65,7 @@ Here's an overview of my GitHub activity, including contributions, top languages
 ## 📚 Recent Publications & Blog Posts
 
 - [VS Code for AI-Enhanced Note-Taking](https://dev.to/charudatta10/vs-code-for-note-taking-324b)
-- [AI-Optimized FPGA Deployments: Challenges & Solutions](https://dev.to/charudatta10/ai-optimized-fpga-deployments-challenges-solutions-2mij)
+- [AI-Optimised FPGA Deployments: Challenges & Solutions](https://dev.to/charudatta10/ai-optimized-fpga-deployments-challenges-solutions-2mij)
 
 ## 🏆 Recent Achievements
 
@@ -75,3 +77,5 @@ Here's an overview of my GitHub activity, including contributions, top languages
 © 2025 Charudatta Korde. Some Rights Reserved. Attribution Required. Non-Commercial Use & Share-Alike. 
 
 [![More info](https://img.shields.io/badge/More_info-0d9999?style=for-the-badge)](assets/github_stats.md)
+
+![](assets/logoV.png)
