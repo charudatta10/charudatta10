@@ -10,17 +10,15 @@
 
 ## **Charudatta Korde | AI-ML, Cybersecurity & FPGA Specialist**
 
->
-> *Optimising neural networks for edge devices, building open-source AI solutions, mentoring the next generation*
+🚀 *Optimising neural networks for edge devices, building open-source AI solutions, mentoring the next generation*
 
 
+## Ꙫ Current Focus
 
-## Current Focus
-
-- 🧠 Optimising AI models for FPGA deployment
-- 🏗️ Contributing to NNGEN for neural network acceleration
-- 🔗 Exploring blockchain applications in edge computing
-- 👨‍🏫 Mentoring students at NFSU Goa
+🧠 Optimising AI models for FPGA deployment  
+🏗️ Contributing to NNGEN for neural network acceleration  
+🔗 Exploring blockchain applications in edge computing  
+👨‍🏫 Mentoring students at NFSU Goa  
 
 ## 🔥 Skills
 
