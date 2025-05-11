@@ -24,14 +24,18 @@
 
 ## 🔥 Skills
 
-![My Skills](https://skillicons.dev/icons?i=python,pytorch,html,git,c,flask,latex,markdown,vscode,powershell&theme=dark&perline=10)
+| **Level** | **Skill** |
+|-------------|----------------|
+|🔵  **Expert** | ![My Skills](https://skillicons.dev/icons?i=python,pytorch,html,git,flask,markdown,vscode,powershell,redis,windows&theme=dark&perline=10)  |
+|🟢 **Proficient** | ![My Skills](https://skillicons.dev/icons?i=kali,c,github,lua,fastapi,latex,tensorflow,githubactions,css,neovim&theme=dark&perline=10)  |
+|🟡 **Intermediate** | ![My Skills](https://skillicons.dev/icons?i=julia,javascript,sqlite,docker,django,devto,linkedin,ubuntu,postgres,regex&theme=dark&perline=10)  |
 
-| 🔵 **Expert** | 🟢 **Proficient** | 🟡 **Intermediate** |
-|-------------|----------------|----------------|
-| Python      | FPGA Design    | Web Development|
-| PyTorch     | C Programming  | Julia          |
-| NNGEN       | Git/GitHub     | Scikit-learn   |
-| HTML/CSS    | Verilog        | SQLite        |
+![Verilog](https://img.shields.io/badge/Verilog-555555?style=for-the-badge)
+![NNGEN](https://img.shields.io/badge/NNGEN-263759?style=for-the-badge)
+![HDL](https://img.shields.io/badge/HDL-555555?style=for-the-badge)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-263759?style=for-the-badge)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-555555?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-263759?style=for-the-badge)
 
 ## 📊 GitHub Activity
 
