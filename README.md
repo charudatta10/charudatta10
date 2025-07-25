@@ -1,86 +1,106 @@
-![SVG Banners](assets/profile_banner.svg)
+![Profile Banner](assets/profile_banner.svg)
 
-[![Download CV](https://img.shields.io/badge/Download_CV-555555?style=for-the-badge)](src/cv/cv.pdf)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=720&lines=Building+AI%2C+FPGA+%26+Cybersecurity+Solutions" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acceleration**, and **cybersecurity** to solve real-world problems.
+
+🎓 Currently mentoring students at NFSU Goa  
+🛠 Building open-source tooling in automation, edge computing & education  
+🧠 Enabling neural networks on hardware through NNGEN & HDL workflows
+
+---
+
+## 🔗 Links
+
 [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-263759?style=for-the-badge)](https://charudatta10.github.io/portfolio/)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
+[![Download CV](https://img.shields.io/badge/Download_CV-555555?style=for-the-badge)](src/cv/cv.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charudatta-korde/)
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/charudatta10)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:152109007c@gmail.com)
+[![Sponsor](https://img.shields.io/badge/Sponsor_Efforts-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/charudatta10)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
 
+---
 
-## **Charudatta Korde | AI-ML, Cybersecurity & FPGA Specialist**
+## ⚡ Skills
 
-🚀 *Optimising neural networks for edge devices, building open-source AI solutions, mentoring the next generation*
+| Level         | Key Areas                                                                 |
+|---------------|---------------------------------------------------------------------------|
+| 🔵 **Expert**     | Python automation, PyTorch workflows, FastAPI, Redis, PowerShell, Flask |
+| 🟢 **Proficient** | Malware analysis (Wireshark, Cuckoo), GitHub Actions, LaTeX, Lua         |
+| 🟡 **Intermediate** | Julia, Docker, DevTools integration, semantic parsing, regex mastery    |
 
+![Skillicons](https://skillicons.dev/icons?i=python,pytorch,flask,powershell,redis,kali,c,github,lua,fastapi,docker,julia,latex&theme=dark)
 
-## Ꙫ Current Focus
+---
 
-🧠 Optimising AI models for FPGA deployment  
-🏗️ Contributing to NNGEN for neural network acceleration  
-🔗 Exploring blockchain applications in edge computing  
-👨‍🏫 Mentoring students at NFSU Goa  
+## 🔭 Current Focus
 
-## 🔥 Skills
+- 🧠 FPGA-Optimised Neural Networks  
+- 🚀 Contributions to [NNGEN](https://github.com/charudatta10/nngen)  
+- 🔗 Blockchain applications in edge computing  
+- 👨‍🏫 Instructional design and mentoring at NFSU Goa  
 
-| **Level** | **Skill** |
-|-------------|----------------|
-|🔵  **Expert** | ![My Skills](https://skillicons.dev/icons?i=python,pytorch,html,git,flask,markdown,vscode,powershell,redis,windows&theme=dark&perline=10)  |
-|🟢 **Proficient** | ![My Skills](https://skillicons.dev/icons?i=kali,c,github,lua,fastapi,latex,tensorflow,githubactions,css,neovim&theme=dark&perline=10)  |
-|🟡 **Intermediate** | ![My Skills](https://skillicons.dev/icons?i=julia,javascript,sqlite,docker,django,devto,linkedin,ubuntu,postgres,regex&theme=dark&perline=10)  |
-
-![Verilog](https://img.shields.io/badge/Verilog-555555?style=for-the-badge)
-![NNGEN](https://img.shields.io/badge/NNGEN-263759?style=for-the-badge)
-![HDL](https://img.shields.io/badge/HDL-555555?style=for-the-badge)
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-263759?style=for-the-badge)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-555555?style=for-the-badge)
-![Incident Response](https://img.shields.io/badge/Incident_Response-263759?style=for-the-badge)
-
-## 📊 GitHub Activity
-
-Here's an overview of my GitHub activity, including contributions, top languages, and achievements.  
-<img height=280 src="https://github-readme-stats.vercel.app/api?username=charudatta10&show=reviews,discussions_started,prs_merged,prs_merged_percentage&hide_rank=true&show_icons=true&include_all_commits=true&theme=onedark#gh-dark-mode-only&bg_color=30,e96443,904e95)" />
-<img height=280 src="https://github-readme-stats.vercel.app/api/top-langs/?username=charudatta10&layout=pie&hide=html&theme=onedark" />
-<img height=280 src="https://github-profile-trophy.vercel.app/?username=charudatta10&theme=onedark&rows=2&column=3" />
+---
 
 ## ⭐ Featured Projects
 
-1. **[AI Trade](https://github.com/charudatta10/ai-trade)** - AI trade bot
-   - *Tech: Python, Ollama, Fastapi, YFinance, News API, Text Blob*
-   - *Impact: trade margins improved by 50%*
+### 📈 [AI Trade](https://github.com/charudatta10/ai-trade)
+> Trade bot powered by Python, Ollama, FastAPI  
+🔧 *Technologies:* YFinance, TextBlob, News API  
+📊 *Impact:* Improved trade margins by 50%
 
-2. **[AI Chat](https://github.com/charudatta10/ai_chat)** - Lightweight conversational AI platform
-   - *Tech: Python, Ollama, FastAPI*
-   - *Impact: Reduced response latency by 30% compared to alternatives by utilising asynchronous routines with Fastapi*
+### 💬 [AI Chat](https://github.com/charudatta10/ai_chat)
+> Lightweight conversational platform  
+⚙️ *Features:* Async routines, low-latency replies  
+⏱️ *Impact:* 30% faster responses than standard frameworks
 
-3. **[Handwritten Devanagari Recognition](https://github.com/charudatta10/devanagari-handwriting-recognizer)**
-   - *Tech: TensorFlow, Keras, NumPy*
-   - *Result: 94% accuracy on real-world handwritten samples*
+### ✍️ [Devanagari Recognizer](https://github.com/charudatta10/devanagari-handwriting-recognizer)
+> OCR for handwritten Devanagari  
+📊 *Accuracy:* 94% on real-world samples  
+🔧 *Built With:* TensorFlow, Keras, NumPy
 
-4. **[Web3 Tools](https://github.com/charudatta10/web3-tools)**
-   - *Tech: Python, Flask, Web3.py*
-   - *Features: Smart contract deployment, wallet management, transaction analysis*
+---
 
-## 📚 Recent Publications & Blog Posts
+## 📚 Blogs & Publications
 
-- [VS Code for AI-Enhanced Note-Taking](https://dev.to/charudatta10/vs-code-for-note-taking-324b)
-- [AI-Optimised FPGA Deployments: Challenges & Solutions](https://dev.to/charudatta10/ai-optimized-fpga-deployments-challenges-solutions-2mij)
+- ✨ [VS Code for AI-Enhanced Note-Taking](https://dev.to/charudatta10/vs-code-for-note-taking-324b)  
+  _Tips for integrating snippets, workflows, and semantic indexing into VS Code._
 
-## 🏆 Recent Achievements
+- ⚙️ [AI-Optimised FPGA Deployments](https://dev.to/charudatta10/ai-optimized-fpga-deployments-challenges-solutions-2mij)  
+  _Challenges with NNGEN, HDL integration and performance trade-offs._
 
-- Mentored six students through their master's theses (2025)
-- Completed RG Marathon 5K (2024)
+---
 
-## **🌐 Call-to-Action**
+## 📊 GitHub Activity
 
-Looking for **collaborators or consulting opportunities** in AI and FPGA? Let’s connect!  
+![Stats](https://github-readme-stats.vercel.app/api?username=charudatta10&show_icons=true&include_all_commits=true&theme=onedark)   
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charudatta10&layout=pie&hide=html&theme=onedark)   
+![Trophies](https://github-profile-trophy.vercel.app/?username=charudatta10&theme=onedark&rows=2&column=3)  
 
-[![Contact Me](https://img.shields.io/badge/Contact_me-0A9396?style=for-the-badge)](mailto:152109007c@gmail.com)
+---
 
-## ©️ COPYRIGHT NOTICE
+## 🏆 Achievements
 
-© 2025 Charudatta Korde. Some Rights Reserved. Attribution Required. Non-Commercial Use & Share-Alike. 
+- 📜 Mentored 6 postgraduate theses (2025)  
+- 🏃 Completed RG Marathon 5K (2024)
 
+---
 
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=720&lines=Building+the+Future+with+AI+FPGA+and+Open+Source+Innovation) <img src="assets/logo.png" alt="logo" height="60" width="60"/> <img src="assets/logoV.png" alt="logo" height="60" width="60"/> 
+## 💼 Collaborate With Me!
 
+🚀 If you're exploring AI x FPGA solutions, instructional design, or cybersecurity tooling—let’s connect.
 
+[![Contact Me](https://img.shields.io/badge/Contact_Me-0A9396?style=for-the-badge)](mailto:152109007c@gmail.com)
+
+---
+
+## 📜 License & Copyright
+
+© 2025 Charudatta Korde  
+🔒 Some rights reserved — Attribution required, Non-commercial use & Share-Alike.
