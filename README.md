@@ -79,9 +79,11 @@ I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acc
 
 ## 📊 GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=charudatta10&show_icons=true&include_all_commits=true&theme=onedark)   
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charudatta10&layout=pie&hide=html&theme=onedark)   
-![Trophies](https://github-profile-trophy.vercel.app/?username=charudatta10&theme=onedark&rows=2&column=3)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=charudatta10&show_icons=true&include_all_commits=true&theme=onedark" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charudatta10&layout=pie&hide=html&theme=onedark" height="180">
+  <img src="https://github-profile-trophy.vercel.app/?username=charudatta10&theme=onedark&rows=2&column=3" height="180">
+</div>
 
 ---
 
@@ -101,6 +103,7 @@ I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acc
 ---
 
 ## 📜 License & Copyright
+<img src=assets/eula.png width=10% >
+© 2025 Charudatta Korde 🔒 Some rights reserved — Attribution required, Non-commercial use only, No Liability & Share-Alike.
 
-© 2025 Charudatta Korde  
-🔒 Some rights reserved — Attribution required, Non-commercial use & Share-Alike.
+
