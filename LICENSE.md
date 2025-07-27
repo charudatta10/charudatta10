@@ -1,6 +1,8 @@
 ### **License Agreement**
 
-© 2025 Charudatta Korde. Some Rights Reserved. Full attribution required.
+<img src=assets/eula.png width=21% >
+
+© 2025 Charudatta Korde. Some Rights Reserved. Full attribution required. Non-commercial use only. No Liability. Share-Alike.
 
 #### 1. **Definitions**
    - **Original Work:** The software code and all related files provided under this license.
