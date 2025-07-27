@@ -103,7 +103,10 @@ I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acc
 ---
 
 ## 📜 License & Copyright
-<img src=assets/eula.png width=10% >
-© 2025 Charudatta Korde 🔒 Some rights reserved — Attribution required, Non-commercial use only, No Liability & Share-Alike.
+
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+
+© 2025 Charudatta · Licensed under CC BY-NC-SA 4.0   
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
