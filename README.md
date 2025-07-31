@@ -20,9 +20,9 @@ I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acc
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-263759?style=for-the-badge)](https://charudatta10.github.io/portfolio/)
 [![Download CV](https://img.shields.io/badge/Download_CV-555555?style=for-the-badge)](src/cv/cv.pdf)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charudatta-korde/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:152109007c@gmail.com)
-[![Sponsor](https://img.shields.io/badge/Sponsor_Efforts-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/charudatta10)
+[![LinkedIn](https://img.shields.io/badge/linkedin-263759.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charudatta-korde/)
+[![Gmail](https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:152109007c@gmail.com)
+[![Sponsor](https://img.shields.io/badge/Sponsor_Efforts-263759?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/charudatta10)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
 
 ---
@@ -98,7 +98,7 @@ I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acc
 
 🚀 If you're exploring AI x FPGA solutions, instructional design, or cybersecurity tooling—let’s connect.
 
-[![Contact Me](https://img.shields.io/badge/Contact_Me-0A9396?style=for-the-badge)](mailto:152109007c@gmail.com)
+[![Contact Me](https://img.shields.io/badge/Contact_Me-f1950d?style=for-the-badge)](mailto:152109007c@gmail.com)
 
 ---
 
