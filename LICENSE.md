@@ -1,114 +1,115 @@
-# **📜 Dual-License Agreement — Custom EULA + CC BY-NC-SA 4.0**
+# 📜 End-User License Agreement (EULA) — Personal Use Only
 
 **Effective Date:** 2025-08-10  
-**Software Title:** charudatta10  
+**Software Title:** charudatta10   
 **Author/Owner:** Charudatta Gurudas Korde  
 **Jurisdiction:** Goa, India  
 
 ---
 
-## **0. Overview**
+## 0. Overview
 
-This Software is available under a **Dual-License** model. You may choose **either**:
-1. **Custom EULA — NonCommercial-Attribution-ShareAlike (NC-AS)**
-2. **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** (CC BY-NC-SA 4.0)
-
-Your choice of license governs your use of the Software.
+This Agreement governs the use of the software project **"charudatta10"**.
+You are granted rights **only** for **Personal Use** as defined herein.
+**All commercial, institutional, and professional use is strictly prohibited** without a separate, paid commercial license from the Author.
 
 ---
 
-## **1. Definitions**
+## 1. Definitions
 
-**"Commercial Use"** means **ANY** use that:
-* Generates revenue, profit, or monetary compensation (direct or indirect)
-* Is conducted by for-profit entities, regardless of purpose
-* Is performed by educational institutions that charge fees or tuition
-* Involves integration into any product, service, or platform that generates income
-* Is used in employment, consulting, or professional services
-* **Includes ALL business, institutional, educational, and professional use**
+* **"Personal Use"** — Use by an individual for private, non-professional, non-institutional purposes such as hobby projects, learning, or personal experimentation. It **does not** include use for any organization, educational institution, business, government, or commercial purpose.
 
-**"Personal Use"** means use by individuals for private, non-professional purposes only (hobby projects, learning, personal experimentation).
+* **"Commercial Use"** — Any use that:
 
-**"Derivative Work"** means any work based upon or incorporating the Software.
+  * Generates revenue, profit, or monetary benefit (direct or indirect)
+  * Is carried out by or on behalf of a company, business, institution, or organization (including non-profits if they receive funding tied to the use)
+  * Is used in the course of employment, consulting, or professional work
+  * Involves integration into a product, service, or system offered to others (free or paid)
 
-**"Attribution"** means acknowledgement as specified in Section 3.
+* **"Derivative Work"** — Any software, product, or content that incorporates, modifies, or is based on the Software.
 
----
-
-## **2. License Terms**
-
-### **Custom EULA (NC-AS):**
-You are granted rights to use, copy, modify, and distribute the Software for **Personal Use only**.
-
-**Derivative works** must be licensed under this Custom EULA or CC BY-NC-SA 4.0 and include proper attribution.
-
-### **CC BY-NC-SA 4.0 Alternative:**
-Use under Creative Commons Attribution-NonCommercial-ShareAlike 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+* **"Attribution"** — Clear acknowledgment of the Author and source repository, as detailed in Section 3.
 
 ---
 
-## **3. Attribution Requirements**
+## 2. Grant of License
 
-Include this attribution in source code, documentation, or credits:
+You are granted a **revocable, non-exclusive, non-transferable, royalty-free** license to:
+
+* Download, copy, and run the Software **for Personal Use only**
+* Modify the Software for Personal Use
+* Share the Software **only** in its original or modified form, **with required attribution** (Section 3)
+
+**All other rights are reserved.** Commercial Use requires a separate commercial license (Section 5).
+
+---
+
+## 3. Attribution Requirements
+
+Any copy or derivative of the Software **must** include the following attribution, clearly visible in the source code, documentation, or credit section of any interface:
+
 ```
-Based on 'charudatta10' by Charudatta Gurudas Korde, available at https://github.com/charudatta10/charudatta10. [Modified by <Your Name>]
+Based on 'charudatta10' by Charudatta Gurudas Korde — https://github.com/charudatta10/charudatta10
 ```
 
----
+If modifications are made, append:
 
-## **4. Prohibited Uses**
-
-**STRICTLY PROHIBITED** without written permission:
-* Any Commercial Use as defined above
-* Use by businesses, corporations, LLCs, or any commercial entity
-* Use by educational institutions (schools, universities, training centers)
-* Use in employment, consulting, or professional capacity
-* Use in government or institutional projects
-* Removal of copyright or attribution notices
+```
+Modified by <Your Name>
+```
 
 ---
 
-## **5. Commercial Licensing**
+## 4. Prohibited Uses
 
-**ALL Commercial Use requires paid licensing.**  
-Contact: 📧 **152109007c@gmail.com**
+Without prior **written** consent from the Author, you **may not**:
 
----
-
-## **6. Termination**
-
-License terminates immediately upon violation. Upon termination:
-* All use must cease immediately
-* Software must be removed from all systems
-* Violators may face legal action for damages
-
-Rights may be reinstated only with written Author consent and potential penalties.
+* Use the Software for any **Commercial Use** as defined in Section 1
+* Use the Software for or within any organization, company, educational institution, or government entity
+* Provide the Software as part of a service to others
+* Remove or obscure copyright or attribution notices
+* Misrepresent authorship or source
 
 ---
 
-## **7. No Warranty & Liability**
+## 5. Commercial Licensing
 
-**THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTIES.**
-
-**THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES WHATSOEVER ARISING FROM USE OF THIS SOFTWARE.**
-
----
-
-## **8. Governing Law**
-
-This Agreement is governed by the laws of **Goa, India**. All disputes shall be resolved exclusively in Goa courts.
+For **all** Commercial Use, you must obtain a paid license directly from the Author.
+📧 Contact: **[152109007c@gmail.com](mailto:152109007c@gmail.com)**
 
 ---
 
-## **9. Modifications**
+## 6. Termination
 
-Only the Author may modify this Agreement. No implied modifications are valid.
+This license terminates automatically if you violate any term. Upon termination:
+
+* All rights granted are revoked
+* You must immediately stop using and delete all copies of the Software
+* You may be subject to legal action for damages
+
+The Author may reinstate rights only with written consent.
 
 ---
 
-**By using this Software, you agree to these terms and confirm your use is strictly Personal Use only.**
+## 7. No Warranty & Liability
+
+**THE SOFTWARE IS PROVIDED “AS IS” WITHOUT ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.**
+**THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES OR LOSSES ARISING FROM USE OF THE SOFTWARE.**
 
 ---
 
-**© 2025 Charudatta Gurudas Korde**  
-**All Rights Reserved — Licensed under Custom EULA (NC-AS) or CC BY-NC-SA 4.0**
+## 8. Governing Law
+
+This Agreement shall be governed by and construed under the laws of **Goa, India**, and any disputes shall be resolved exclusively in the courts of Goa, India.
+
+---
+
+## 9. Entire Agreement
+
+This Agreement is the complete and exclusive statement of the agreement between you and the Author regarding the Software.
+No oral or written information or advice given by the Author shall create any additional rights or obligations.
+
+---
+
+**© 2025 Charudatta Gurudas Korde.**
+All rights are reserved for commercial use. Personal Use is governed by this EULA.
