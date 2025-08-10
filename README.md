@@ -104,9 +104,9 @@ I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acc
 
 ## 📜 License & Copyright
 
-[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)<img src="assets/Custom_EULA__NC-AS.png" height="100" width="60">
 
-© 2025 Charudatta · Licensed under CC BY-NC-SA 4.0   
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+© 2025 Charudatta Gurudas Korde — Licensed under a Dual-License model: Custom EULA (NC-AS) or CC BY-NC-SA 4.0
 
 
