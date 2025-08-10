@@ -102,11 +102,15 @@ I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acc
 
 ---
 
-## 📜 License & Copyright
+[![License: Personal Use Only - Copyleft](https://img.shields.io/badge/License-PUCL--1.0-blue.svg)](LICENSE.md)
 
-[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)<img src="assets/Custom_EULA__NC-AS.png" height="100" width="60">
+> **⚠️ License Notice:**  
+> This software is licensed under the **Charudatta10 Personal Use Copyleft License (PUCL-1.0)**.  
+> - **Personal Use only** — No commercial, institutional, or professional use without a paid license.  
+> - **Strong copyleft** — Any distribution or modification must use the **same license** and include **attribution**.  
+> - **For commercial licensing**, contact: [152109007c@gmail.com](mailto:152109007c@gmail.com)  
+>  
+> 📜 See [LICENSE.md](LICENSE.md) and [NOTICE](NOTICE) for full terms.
 
-
-© 2025 Charudatta Gurudas Korde — Licensed under a Dual-License model: Custom EULA (NC-AS) or CC BY-NC-SA 4.0
 
 
