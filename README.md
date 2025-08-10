@@ -102,15 +102,12 @@ I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acc
 
 ---
 
-[![License: Personal Use Only - Copyleft](https://img.shields.io/badge/License-PUCL--1.0-blue.svg)](LICENSE.md)
+[![License: Charudatta10 PUCL-1.0](https://img.shields.io/badge/license-PUCL--1.0-blue.svg)](LICENSE.md)
 
-> **⚠️ License Notice:**  
-> This software is licensed under the **Charudatta10 Personal Use Copyleft License (PUCL-1.0)**.  
-> - **Personal Use only** — No commercial, institutional, or professional use without a paid license.  
-> - **Strong copyleft** — Any distribution or modification must use the **same license** and include **attribution**.  
-> - **For commercial licensing**, contact: [152109007c@gmail.com](mailto:152109007c@gmail.com)  
->  
-> 📜 See [LICENSE.md](LICENSE.md) and [NOTICE](NOTICE) for full terms.
+**SPDX-License-Identifier:** LicenseRef-Charudatta10-Personal-Use-Copyleft-1.0  
+**Summary:** Personal Use only. No commercial, institutional, or professional use permitted without a separate paid license.  
+Strong copyleft — all derivatives must use identical license terms and include attribution to:  
+Charudatta Gurudas Korde — https://github.com/charudatta10/charudatta10
 
 
 
