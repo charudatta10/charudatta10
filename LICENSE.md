@@ -1,127 +1,78 @@
-# 📜 End-User License Agreement (EULA) — Personal Use Only
+# Charudatta10 Personal Use Copyleft License (PUCL-1.0)
 
 **Effective Date:** 2025-08-10  
-**Software Title:** charudatta10   
+**Software Title:** charudatta10  
 **Author/Owner:** Charudatta Gurudas Korde  
 **Jurisdiction:** Goa, India  
+**Contact:** 152109007c@gmail.com  
 
 ---
 
 ## 0. Overview
-
-This Agreement governs the use of the software project **"charudatta10"**.
-You are granted rights **only** for **Personal Use** as defined herein.
-**All commercial, institutional, and professional use is strictly prohibited** without a separate, paid commercial license from the Author.
+This license allows **Personal Use only**.  
+All commercial, institutional, or professional use requires a separate paid license.  
+This is a **strong copyleft** license: any distribution or derivative must be licensed under these same terms.
 
 ---
 
 ## 1. Definitions
-
-* **"Personal Use"** — Use by an individual for private, non-professional, non-institutional purposes such as hobby projects, learning, or personal experimentation. It **does not** include use for any organization, educational institution, business, government, or commercial purpose.
-
-* **"Commercial Use"** — Any use that:
-
-  * Generates revenue, profit, or monetary benefit (direct or indirect)
-  * Is carried out by or on behalf of a company, business, institution, or organization (including non-profits if they receive funding tied to the use)
-  * Is used in the course of employment, consulting, or professional work
-  * Involves integration into a product, service, or system offered to others (free or paid)
-
-* **"Derivative Work"** — Any software, product, or content that incorporates, modifies, or is based on the Software.
-
-* **"Attribution"** — Clear acknowledgment of the Author and source repository, as detailed in Section 3.
+- **Personal Use** — Use by an individual for private, non-professional, non-institutional purposes, such as hobby projects, learning, or personal experimentation.  
+- **Commercial Use** — Any use that generates revenue, is part of a business or organization, is for educational institutions that charge tuition, or is used in employment, consulting, or government projects.  
+- **Derivative Work** — Any work based on, incorporating, or modifying this software.  
+- **Attribution** — Clear acknowledgment of the Author and the original repository.
 
 ---
 
-## 2. Grant of License
-
-You are granted a **revocable, non-exclusive, non-transferable, royalty-free** license to:
-
-* Download, copy, and run the Software **for Personal Use only**
-* Modify the Software for Personal Use
-* Share the Software **only** in its original or modified form, **with required attribution** (Section 3)
-
-**All other rights are reserved.** Commercial Use requires a separate commercial license (Section 5).
+## 2. Granted Rights
+You may:
+1. Download, copy, and run the Software for **Personal Use**.
+2. Modify the Software for **Personal Use**.
+3. Share unmodified or modified versions only under the exact same license and with attribution.
 
 ---
 
-## 3. Attribution Requirements
-
-Any copy or derivative of the Software **must** include the following attribution, clearly visible in the source code, documentation, or credit section of any interface:
-
-```
-Based on 'charudatta10' by Charudatta Gurudas Korde — https://github.com/charudatta10/charudatta10
-```
-
-If modifications are made, append:
-
-```
-Modified by <Your Name>
-```
+## 3. Copyleft Requirement
+Any distribution of the Software or a Derivative Work must:
+1. Be licensed **only** under this exact license.
+2. Retain all copyright, license, and attribution notices.
+3. Include a copy of this license.
 
 ---
 
 ## 4. Prohibited Uses
-
-Without prior **written** consent from the Author, you **may not**:
-
-* Use the Software for any **Commercial Use** as defined in Section 1
-* Use the Software for or within any organization, company, educational institution, or government entity
-* Provide the Software as part of a service to others
-* Remove or obscure copyright or attribution notices
-* Misrepresent authorship or source
+Without prior written permission, you **may not**:
+- Use for **Commercial Use**.
+- Use in or for any company, institution, or government.
+- Provide as part of a paid or unpaid service.
+- Remove or alter attribution.
+- Re-license under different terms.
 
 ---
 
 ## 5. Commercial Licensing
-
-For **all** Commercial Use, you must obtain a paid license directly from the Author.  
-📧 Contact: **[152109007c@gmail.com](mailto:152109007c@gmail.com)**
+For Commercial Use, email: **152109007c@gmail.com**
 
 ---
 
-## 6. Copyleft Requirement for Derivative Works
-
-Any **distribution** of the Software or a Derivative Work — whether modified or unmodified — **must**:
-
-1. Be licensed **only** under this exact EULA, with no changes to its terms.
-2. Retain all copyright, license, and attribution notices from the original.
-3. Include a full copy of this EULA with the distribution.
-
-No other licensing terms are permitted without prior written consent from the Author.
+## 6. Termination
+This license terminates automatically upon violation. You must delete all copies immediately.
 
 ---
 
-## 7. Termination
-
-This license terminates automatically if you violate any term. Upon termination:
-
-* All rights granted are revoked
-* You must immediately stop using and delete all copies of the Software
-* You may be subject to legal action for damages
-
-The Author may reinstate rights only with written consent.
+## 7. No Warranty & Liability
+THE SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTIES.  
+THE AUTHOR IS NOT LIABLE FOR DAMAGES ARISING FROM USE.
 
 ---
 
-## 8. No Warranty & Liability
-
-**THE SOFTWARE IS PROVIDED “AS IS” WITHOUT ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.**
-**THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES OR LOSSES ARISING FROM USE OF THE SOFTWARE.**
+## 8. Governing Law
+This license is governed by the laws of Goa, India, with exclusive jurisdiction in Goa courts.
 
 ---
 
-## 9. Governing Law
-
-This Agreement shall be governed by and construed under the laws of **Goa, India**, and any disputes shall be resolved exclusively in the courts of Goa, India.
-
----
-
-## 10. Entire Agreement
-
-This Agreement is the complete and exclusive statement of the agreement between you and the Author regarding the Software.
-No oral or written information or advice given by the Author shall create any additional rights or obligations.
+© 2025 Charudatta Gurudas Korde. **All rights reserved for commercial use.**  
+Personal Use is granted under this license.
 
 ---
 
-**© 2025 Charudatta Gurudas Korde.**
-All rights are reserved for commercial use. Personal Use is governed by this EULA.
+**SPDX-License-Identifier:** `LicenseRef-Charudatta10-Personal-Use-Copyleft`
