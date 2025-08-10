@@ -74,12 +74,24 @@ Without prior **written** consent from the Author, you **may not**:
 
 ## 5. Commercial Licensing
 
-For **all** Commercial Use, you must obtain a paid license directly from the Author.
+For **all** Commercial Use, you must obtain a paid license directly from the Author.  
 📧 Contact: **[152109007c@gmail.com](mailto:152109007c@gmail.com)**
 
 ---
 
-## 6. Termination
+## 6. Copyleft Requirement for Derivative Works
+
+Any **distribution** of the Software or a Derivative Work — whether modified or unmodified — **must**:
+
+1. Be licensed **only** under this exact EULA, with no changes to its terms.
+2. Retain all copyright, license, and attribution notices from the original.
+3. Include a full copy of this EULA with the distribution.
+
+No other licensing terms are permitted without prior written consent from the Author.
+
+---
+
+## 7. Termination
 
 This license terminates automatically if you violate any term. Upon termination:
 
@@ -91,20 +103,20 @@ The Author may reinstate rights only with written consent.
 
 ---
 
-## 7. No Warranty & Liability
+## 8. No Warranty & Liability
 
 **THE SOFTWARE IS PROVIDED “AS IS” WITHOUT ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.**
 **THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES OR LOSSES ARISING FROM USE OF THE SOFTWARE.**
 
 ---
 
-## 8. Governing Law
+## 9. Governing Law
 
 This Agreement shall be governed by and construed under the laws of **Goa, India**, and any disputes shall be resolved exclusively in the courts of Goa, India.
 
 ---
 
-## 9. Entire Agreement
+## 10. Entire Agreement
 
 This Agreement is the complete and exclusive statement of the agreement between you and the Author regarding the Software.
 No oral or written information or advice given by the Author shall create any additional rights or obligations.
