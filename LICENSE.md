@@ -9,163 +9,106 @@
 
 ## **0. Overview**
 
-This Software is made available under a **Dual-License** model:
-
+This Software is available under a **Dual-License** model. You may choose **either**:
 1. **Custom EULA — NonCommercial-Attribution-ShareAlike (NC-AS)**
 2. **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** (CC BY-NC-SA 4.0)
 
-You may choose **either** license when using, copying, modifying, or redistributing the Software. Your choice of license governs your use of the Software.
+Your choice of license governs your use of the Software.
 
 ---
 
 ## **1. Definitions**
 
-**"Commercial Use"** means any use of the Software that is primarily intended for or directed toward commercial advantage or monetary compensation. This includes, but is not limited to:
+**"Commercial Use"** means **ANY** use that:
+* Generates revenue, profit, or monetary compensation (direct or indirect)
+* Is conducted by for-profit entities, regardless of purpose
+* Is performed by educational institutions that charge fees or tuition
+* Involves integration into any product, service, or platform that generates income
+* Is used in employment, consulting, or professional services
+* **Includes ALL business, institutional, educational, and professional use**
 
-* Use in products or services that are sold, licensed, or offered for a fee
-* Use by for-profit entities in business operations that directly generate revenue
-* Integration into commercial products or platforms
-* Use in open source projects where a corporate sponsor derives **direct** commercial benefit from its inclusion
+**"Personal Use"** means use by individuals for private, non-professional purposes only (hobby projects, learning, personal experimentation).
 
-**"Derivative Work"** means any work that is based upon or incorporates the Software, including modifications, enhancements, translations, or compilations that contain the Software.
+**"Derivative Work"** means any work based upon or incorporating the Software.
 
-**"Attribution"** means acknowledgment of the original author and source as specified in Section 4.
-
----
-
-## **2. Custom EULA Terms (NC-AS)**
-
-You are granted a worldwide, royalty-free, non-exclusive, non-transferable license to:
-
-* **Use** the Software for **non-commercial purposes only** as defined above
-* **Copy, modify, and distribute** the Software
-* **Create derivative works**, provided they comply with the requirements below
-
-### **Requirements for Derivative Works:**
-
-* Must be licensed under this exact Custom EULA license **OR** CC BY-NC-SA 4.0
-* Must include proper attribution as specified in Section 4
-* Must maintain the same non-commercial restriction
-
-### **Prohibited Uses:**
-
-* Any commercial use without separate written permission from the Author
-* Removal or modification of copyright, license, or attribution notices
-* Distribution under licenses incompatible with the non-commercial and share-alike requirements
+**"Attribution"** means acknowledgement as specified in Section 3.
 
 ---
 
-## **3. CC BY-NC-SA 4.0 Alternative**
+## **2. License Terms**
 
-Alternatively, you may use the Software under the full terms of the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**, available at:
-[https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+### **Custom EULA (NC-AS):**
+You are granted rights to use, copy, modify, and distribute the Software for **Personal Use only**.
 
-When using this license option, all terms and conditions of CC BY-NC-SA 4.0 apply, including its specific definitions of commercial use and attribution requirements.
+**Derivative works** must be licensed under this Custom EULA or CC BY-NC-SA 4.0 and include proper attribution.
 
-**Plain-language summary of CC BY-NC-SA 4.0:**
-
-* **BY** — You must credit the author
-* **NC** — You cannot use the work for commercial purposes
-* **SA** — You must share adaptations under the same license
+### **CC BY-NC-SA 4.0 Alternative:**
+Use under Creative Commons Attribution-NonCommercial-ShareAlike 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 ---
 
-## **4. Attribution Requirements**
+## **3. Attribution Requirements**
 
-All uses and distributions under either license must include the following attribution:
-
+Include this attribution in source code, documentation, or credits:
 ```
-Based on 'charudatta10' by Charudatta Gurudas Korde, available at https://github.com/charudatta10/charudatta10. [Modified by <Your Name/Organization>]
+Based on 'charudatta10' by Charudatta Gurudas Korde, available at https://github.com/charudatta10/charudatta10. [Modified by <Your Name>]
 ```
 
-### **Attribution Placement:**
+---
 
-Attribution must appear in at least one of the following locations:
+## **4. Prohibited Uses**
 
-* Source code headers, README files, or license files
-* Documentation or help files distributed with the Software
-* Credits, about, or acknowledgments section of applications using the Software
-* For web-based applications: in a publicly accessible credits or about page
-
-Attribution should be reasonably prominent but need not appear in the primary user interface if placed in appropriate credits or documentation sections.
+**STRICTLY PROHIBITED** without written permission:
+* Any Commercial Use as defined above
+* Use by businesses, corporations, LLCs, or any commercial entity
+* Use by educational institutions (schools, universities, training centers)
+* Use in employment, consulting, or professional capacity
+* Use in government or institutional projects
+* Removal of copyright or attribution notices
 
 ---
 
-## **5. License Selection and Compatibility**
+## **5. Commercial Licensing**
 
-* You must choose one license (Custom EULA or CC BY-NC-SA 4.0) for your specific use
-* If you create derivative works, you may license them under either the Custom EULA or CC BY-NC-SA 4.0, provided you comply with the chosen license's requirements
-* You cannot combine terms from both licenses or create hybrid license arrangements
-
----
-
-## **6. Commercial Licensing**
-
-For commercial use of the Software, please contact:
-📧 **[152109007c@gmail.com](mailto:152109007c@gmail.com)**
+**ALL Commercial Use requires paid licensing.**  
+Contact: 📧 **152109007c@gmail.com**
 
 ---
 
-## **7. No Warranty**
+## **6. Termination**
 
-THE SOFTWARE IS PROVIDED **"AS IS"**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+License terminates immediately upon violation. Upon termination:
+* All use must cease immediately
+* Software must be removed from all systems
+* Violators may face legal action for damages
 
----
-
-## **8. Limitation of Liability**
-
-IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
----
-
-## **9. Termination**
-
-### **Automatic Termination:**
-
-Your rights under either license terminate automatically if you violate the terms of your chosen license.
-
-### **Effect of Termination:**
-
-* You must immediately cease all use, distribution, and modification of the Software
-* You must remove the Software from any systems under your control
-* End users who received the Software from you may continue using it if they remain in compliance
-* Termination does not affect the rights of downstream users who received properly licensed copies
-
-### **Reinstatement:**
-
-Rights may be reinstated at the sole discretion of the Author upon correction of violations and written agreement.
+Rights may be reinstated only with written Author consent and potential penalties.
 
 ---
 
-## **10. Governing Law and Disputes**
+## **7. No Warranty & Liability**
 
-This Agreement shall be governed by and construed in accordance with the laws of **Goa, India**, without regard to conflict of law principles.
-Any disputes arising under this Agreement shall be subject to the exclusive jurisdiction of the courts of Goa, India.
+**THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTIES.**
 
-For users outside India, this governing law clause applies to the maximum extent permitted by local law.
-
----
-
-## **11. Severability**
-
-If any provision of this Agreement is found to be unenforceable, the remainder of the Agreement shall remain in full force and effect, and the unenforceable provision shall be modified to the minimum extent necessary to make it enforceable.
+**THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES WHATSOEVER ARISING FROM USE OF THIS SOFTWARE.**
 
 ---
 
-## **12. Modifications**
+## **8. Governing Law**
 
-This Agreement may only be modified by written agreement signed by the Author. No implied modifications or waivers shall be effective.
-
----
-
-## **13. Entire Agreement**
-
-This Agreement constitutes the entire agreement between you and the Author concerning the Software and supersedes all prior or contemporaneous understandings regarding such subject matter.
+This Agreement is governed by the laws of **Goa, India**. All disputes shall be resolved exclusively in Goa courts.
 
 ---
 
-**By using the Software, you acknowledge that you have read, understood, and agreed to the terms and conditions of this End User License Agreement.**
+## **9. Modifications**
+
+Only the Author may modify this Agreement. No implied modifications are valid.
 
 ---
 
-© 2025 Charudatta Gurudas Korde — Licensed under a Dual-License model: Custom EULA (NC-AS) or CC BY-NC-SA 4.0
+**By using this Software, you agree to these terms and confirm your use is strictly Personal Use only.**
+
+---
+
+**© 2025 Charudatta Gurudas Korde**  
+**All Rights Reserved — Licensed under Custom EULA (NC-AS) or CC BY-NC-SA 4.0**
