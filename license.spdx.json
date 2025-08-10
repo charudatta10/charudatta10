@@ -1,0 +1,25 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "Charudatta10 Personal Use Copyleft License 1.0",
+  "documentNamespace": "https://github.com/charudatta10/charudatta10/license.spdx.json",
+  "documentDescribes": [
+    "SPDXRef-LICENSE"
+  ],
+  "creationInfo": {
+    "created": "2025-08-10T00:00:00Z",
+    "creators": [
+      "Person: Charudatta Gurudas Korde",
+      "Organization: Charudatta10 Project",
+      "Tool: ChatGPT-GPT5-License-Generator"
+    ]
+  },
+  "hasExtractedLicensingInfo": [
+    {
+      "licenseId": "LicenseRef-Charudatta10-Personal-Use-Copyleft-1.0",
+      "extractedText": "Charudatta10 Personal Use Copyleft License (PUCL-1.0)\n\n© 2025 Charudatta Gurudas Korde\nAll rights reserved for commercial use. Personal use is permitted under these terms:\n\n1. Personal Use Only — No commercial, institutional, or professional use is allowed without a separate commercial license.\n2. Strong Copyleft — All modified or unmodified redistributions must be licensed under these exact same terms.\n3. Attribution Required — Must credit \"Charudatta Gurudas Korde\" and include a link to the original repository: https://github.com/charudatta10/charudatta10.\n4. No Relicensing — You may not sublicense or distribute under different terms.\n5. Termination — License terminates automatically upon violation.\n6. No Warranty — Provided \"AS IS\" without warranty of any kind.\n\nFor commercial licensing, contact: 152109007c@gmail.com\n\nGoverning Law: Goa, India.",
+      "name": "Charudatta10 Personal Use Copyleft License 1.0"
+    }
+  ]
+}
