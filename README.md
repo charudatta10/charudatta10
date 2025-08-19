@@ -10,7 +10,7 @@
 
 I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acceleration**, and **cybersecurity** to solve real-world problems.
 
-🎓 Currently mentoring students at NFSU Goa  
+🎓 Currently persuing PhD @ NIT Goa.
 🛠 Building open-source tooling in automation, edge computing & education  
 🧠 Enabling neural networks on hardware through NNGEN & HDL workflows
 
