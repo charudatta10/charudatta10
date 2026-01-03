@@ -10,7 +10,7 @@
 
 I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acceleration**, and **cybersecurity** to solve real-world problems.
 
-🎓 Currently persuing PhD @ NIT Goa.  
+🎓 Currently pursuing PhD @ NIT Goa.  
 🛠 Building open-source tooling in automation, edge computing & education  
 🧠 Enabling neural networks on hardware through NNGEN & HDL workflows
 
@@ -18,10 +18,8 @@ I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acc
 
 ## 🔗 Links
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-263759?style=for-the-badge)](https://charudatta10.github.io/portfolio/)
+
 [![Download CV](https://img.shields.io/badge/Download_CV-555555?style=for-the-badge)](src/cv/cv.pdf)
-[![LinkedIn](https://img.shields.io/badge/linkedin-263759.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charudatta-korde/)
-[![Gmail](https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:152109007c@gmail.com)
 [![Sponsor](https://img.shields.io/badge/Sponsor_Efforts-263759?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/charudatta10)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcharudatta10&countColor=%23263759)
 
@@ -50,15 +48,11 @@ I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acc
 
 ## ⭐ Featured Projects
 
-### 📈 [AI Trade](https://github.com/charudatta10/ai-trade)
-> Trade bot powered by Python, Ollama, FastAPI  
-🔧 *Technologies:* YFinance, TextBlob, News API  
-📊 *Impact:* Improved trade margins by 50%
-
-### 💬 [AI Chat](https://github.com/charudatta10/ai_chat)
-> Lightweight conversational platform  
-⚙️ *Features:* Async routines, low-latency replies  
-⏱️ *Impact:* 30% faster responses than standard frameworks
+### 🛠️ [Task Runner SDLC](https://github.com/charudatta10/task-runner-SDLC)
+> Automated project management workflow tool
+🔧 Technologies: Python, Flask, SQLite
+⚙️ Features: Task scheduling, dependency tracking, progress visualization
+📊 Impact: Reduced manual overhead by 45%, improved sprint efficiency
 
 ### ✍️ [Devanagari Recognizer](https://github.com/charudatta10/devanagari-handwriting-recognizer)
 > OCR for handwritten Devanagari  
