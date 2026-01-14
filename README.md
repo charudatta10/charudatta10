@@ -1,23 +1,29 @@
 ![Profile Banner](assets/profile_banner.svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=720&lines=Building+AI%2C+FPGA+%26+Cybersecurity+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=820&lines=AI+Systems+%7C+FPGA+Acceleration+%7C+Secure+Edge+Computing" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acceleration**, and **cybersecurity** to solve real-world problems.
+I'm **Charudatta Korde**, a PhD researcher focused on **deploying intelligent, secure AI systems on real hardware**.
 
-🎓 Currently pursuing PhD @ NIT Goa.  
-🛠 Building open-source tooling in automation, edge computing & education  
-🧠 Enabling neural networks on hardware through NNGEN & HDL workflows
+My work sits at the intersection of:
+- 🧠 **Machine Learning Systems**
+- ⚡ **FPGA-based Acceleration**
+- 🔐 **Cybersecurity & Trusted Computing**
+
+🎓 PhD Scholar @ **NIT Goa**  
+🛠 Open-source contributor & tooling architect  
+👨‍🏫 Mentor in applied AI, security, and systems engineering  
+
+I specialize in taking **neural networks from notebooks to silicon**, ensuring they are **efficient, verifiable, and secure**.
 
 ---
 
 ## 🔗 Links
-
 
 [![Download CV](https://img.shields.io/badge/Download_CV-555555?style=for-the-badge)](src/cv/cv.pdf)
 [![Sponsor](https://img.shields.io/badge/Sponsor_Efforts-263759?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/charudatta10)
@@ -25,83 +31,109 @@ I'm **Charudatta Korde**, passionate about merging **AI innovation**, **FPGA acc
 
 ---
 
-## ⚡ Skills
+## ⚡ Technical Stack
 
-| Level         | Key Areas                                                                 |
-|---------------|---------------------------------------------------------------------------|
-| 🔵 **Expert**     | Python automation, PyTorch workflows, FastAPI, Redis, PowerShell, Flask |
-| 🟢 **Proficient** | Malware analysis (Wireshark, Cuckoo), GitHub Actions, LaTeX, Lua         |
-| 🟡 **Intermediate** | Julia, Docker, DevTools integration, semantic parsing, regex mastery    |
+### 🧠 AI & ML
+- PyTorch, TensorFlow, Keras
+- Model optimization & deployment
+- OCR, vision, and sequence models
+
+### ⚡ FPGA & Hardware
+- NNGEN-based neural synthesis
+- HDL workflows (Verilog integration)
+- Hardware-aware model design
+
+### 🔐 Cybersecurity & Systems
+- Malware analysis (Wireshark, Cuckoo)
+- Secure automation pipelines
+- Threat modeling & sandboxing
+
+### 🛠 Tooling & Automation
+- Python, FastAPI, Flask
+- Redis, Docker, GitHub Actions
+- PowerShell, LaTeX, Lua
 
 ![Skillicons](https://skillicons.dev/icons?i=python,pytorch,flask,powershell,redis,kali,c,github,lua,fastapi,docker,julia,latex&theme=dark)
 
 ---
 
-## 🔭 Current Focus
+## 🔭 Research & PhD Focus
 
-- 🧠 FPGA-Optimised Neural Networks  
-- 🚀 Contributions to [NNGEN](https://github.com/charudatta10/nngen)  
-- 🔗 Blockchain applications in edge computing  
-- 👨‍🏫 Instructional design and mentoring at NFSU Goa  
+- 🧠 **FPGA-Optimized Neural Network Architectures**
+- 🔗 **Blockchain-enabled Edge Computing**
+- 🔐 **Secure & Trusted AI Pipelines**
+- 📚 **AI-assisted instructional design**
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🛠️ [Task Runner SDLC](https://github.com/charudatta10/task-runner-SDLC)
-> Automated project management workflow tool
-🔧 Technologies: Python, Flask, SQLite
-⚙️ Features: Task scheduling, dependency tracking, progress visualization
-📊 Impact: Reduced manual overhead by 45%, improved sprint efficiency
+### 🛠️ Task Runner SDLC
+🔗 https://github.com/charudatta10/task-runner-SDLC
 
-### ✍️ [Devanagari Recognizer](https://github.com/charudatta10/devanagari-handwriting-recognizer)
-> OCR for handwritten Devanagari  
-📊 *Accuracy:* 94% on real-world samples  
-🔧 *Built With:* TensorFlow, Keras, NumPy
+**Problem:** Manual SDLC tracking causes delays and inconsistencies  
+**Solution:** Automated workflow orchestration system  
+**Impact:**  
+- ⏱ Reduced manual overhead by **45%**  
+- 📈 Improved sprint predictability  
+
+**Tech:** Python, Flask, SQLite
 
 ---
 
-## 📚 Blogs & Publications
+### ✍️ Devanagari Handwriting Recognizer
+🔗 https://github.com/charudatta10/devanagari-handwriting-recognizer
+
+**Goal:** Accurate OCR for handwritten Devanagari scripts  
+**Results:**  
+- 📊 **94% accuracy** on real-world samples  
+- 🧠 Robust to writing variability  
+
+**Tech:** TensorFlow, Keras, NumPy
+
+---
+
+## 📚 Blogs & Writing
 
 - ✨ [VS Code for AI-Enhanced Note-Taking](https://dev.to/charudatta10/vs-code-for-note-taking-324b)  
-  _Tips for integrating snippets, workflows, and semantic indexing into VS Code._
-
-- ⚙️ [AI-Optimised FPGA Deployments](https://dev.to/charudatta10/ai-optimized-fpga-deployments-challenges-solutions-2mij)  
-  _Challenges with NNGEN, HDL integration and performance trade-offs._
+  _Integrating snippets, workflows, and semantic indexing for research productivity._
 
 ---
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charudatta10&show_icons=true&include_all_commits=true&theme=onedark" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charudatta10&layout=pie&hide=html&theme=onedark" height="180">
-  <img src="https://github-profile-trophy.vercel.app/?username=charudatta10&theme=onedark&rows=2&column=3" height="180">
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/charudatta10?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
 ## 🏆 Achievements
 
-- 📜 Mentored 6 postgraduate theses (2025)  
-- 🏃 Completed RG Marathon 5K (2024)
+- 📜 Mentored **6 postgraduate theses** (2025)  
+- 🏃 Completed **RG Marathon 5K** (2024)
 
 ---
 
-## 💼 Collaborate With Me!
+## 💼 Collaborate With Me
 
-🚀 If you're exploring AI x FPGA solutions, instructional design, or cybersecurity tooling—let’s connect.
+I'm open to:
+- 🤝 **AI × FPGA research collaborations**
+- 🧪 **Applied ML systems projects**
+- 🔐 **Secure AI & edge computing work**
+- 📚 **Open-source & educational initiatives**
 
 [![Contact Me](https://img.shields.io/badge/Contact_Me-f1950d?style=for-the-badge)](mailto:152109007c@gmail.com)
 
 ---
 
+## 📜 License
+
 [![License: Charudatta10 PUCL-1.0](https://img.shields.io/badge/license-PUCL--1.0-blue.svg)](LICENSE.md)
 
 **SPDX-License-Identifier:** LicenseRef-Charudatta10-Personal-Use-Copyleft-1.0  
-**Summary:** Personal Use only. No commercial, institutional, or professional use permitted without a separate paid license.  
-Strong copyleft — all derivatives must use identical license terms and include attribution to:  
-Charudatta Gurudas Korde — https://github.com/charudatta10/charudatta10
 
+Personal Use only.  
+No commercial, institutional, or professional use without a paid license.  
+Strong copyleft — derivatives must retain identical terms and attribution.
 
-
+© Charudatta Gurudas Korde  
+https://github.com/charudatta10
