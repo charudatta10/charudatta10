@@ -1,7 +1,7 @@
 ![Profile Banner](assets/profile_banner.svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=820&lines=AI+Systems+%7C+FPGA+Acceleration+%7C+Secure+Edge+Computing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=520&lines=Engineer+Researcher+Programmer+Educator" />
 </p>
 
 ---
