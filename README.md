@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm **Charudatta Korde**, a PhD researcher focused on **deploying intelligent, secure AI systems on real hardware**.
+I'm **Charudatta Korde**, a Lecturer NFSU focused on **deploying intelligent, secure AI systems on real hardware**.
 
 My work sits at the intersection of:
 - 🧠 **Machine Learning Systems**
