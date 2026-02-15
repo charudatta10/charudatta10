@@ -1,7 +1,7 @@
 ![Profile Banner](assets/profile_banner.svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=520&lines=Engineer+Researcher+Programmer+Educator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=520&lines=Engineer+Researcher+Educator+Developer" />
 </p>
 
 ---
