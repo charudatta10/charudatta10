@@ -103,7 +103,7 @@ I specialize in taking **neural networks from notebooks to silicon**, ensuring t
 ## 📊 GitHub Activity
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/charudatta10?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
-
+![https://github-profile-trophy.vercel.app/?username=charudatta10](https://gh-trophy.cdnsoft.net/?username=charudatta10&theme=light&row=2&column=5)
 ---
 
 ## 🏆 Achievements
