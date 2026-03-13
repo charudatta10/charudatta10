@@ -8,14 +8,14 @@
 
 ## 🚀 About Me
 
-I'm **Charudatta Korde**, a Lecturer NFSU focused on **deploying intelligent, secure AI systems on real hardware**.
+I'm **Charudatta Korde**, focused on **deploying intelligent, secure AI systems on real hardware**.
 
 My work sits at the intersection of:
 - 🧠 **Machine Learning Systems**
 - ⚡ **FPGA-based Acceleration**
 - 🔐 **Cybersecurity & Trusted Computing**
 
-🎓 PhD Scholar @ **NIT Goa**  
+ 
 🛠 Open-source contributor & tooling architect  
 👨‍🏫 Mentor in applied AI, security, and systems engineering  
 
