@@ -6,8 +6,6 @@
 
 ---
 
-## 👋 Charudatta Korde
-
 I build **production-grade AI systems** that run on **hardware** — optimized, secure, and verifiable.
 
 ---
