@@ -10,7 +10,7 @@ I'm a developer, researcher, and educator at the intersection of **computer grap
 
 - 🎓 Background in CS with deep interest in **NLP/deep learning**, **RF signal processing**, and **reverse engineering**
 - 🛠️ I build everything from Marp slide decks and CLI tools to full-stack interactive web apps
-- 🌐 Maintainer of [Charudatta Archive](https://charudatta10.github.io) — a personal knowledge infrastructure built on GitHub Pages
+- 🌐 Maintainer of [Charudatta Archive](https://charudatta10.github.io/portfolio/) — a personal knowledge infrastructure built on GitHub Pages
 - 📓 Runs a **markdown-based wiki** ([wiki-notes](https://charudatta10.github.io/wiki-notes)) for personal knowledge management
 
 ---
@@ -65,9 +65,10 @@ Docs          → Markdown · DOCX generation · LaTeX-style slide decks
 
 ## 🌐 Links
 
-[![Website](https://img.shields.io/badge/Archive-charudatta10.github.io-00f5ff?style=flat-square&logo=github)](https://charudatta10.github.io)
+[![Website](https://img.shields.io/badge/Portfolio-bf5fff?style=flat-square&logo=github)](https://charudatta10.github.io/portfolio/)
 [![Wiki](https://img.shields.io/badge/Wiki-wiki--notes-bf5fff?style=flat-square&logo=markdown)](https://charudatta10.github.io/wiki-notes)
 [![GitHub](https://img.shields.io/badge/GitHub-charudatta10-181717?style=flat-square&logo=github)](https://github.com/charudatta10)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=charudatta10)
 
 ---
 
