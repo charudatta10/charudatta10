@@ -45,12 +45,7 @@ Docs          → Markdown · DOCX generation · LaTeX-style slide decks
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charudatta10&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charudatta10&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/charudatta10?cardType=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
