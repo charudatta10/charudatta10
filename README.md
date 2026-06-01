@@ -70,3 +70,5 @@ Docs          → Markdown · DOCX generation · LaTeX-style slide decks
 <div align="center">
   <sub>⚡ Dark themes · Monospace fonts · Cyberpunk aesthetics · Clean systems ⚡</sub>
 </div>
+
+![](assets/Copilot_20260601_123903.png)
