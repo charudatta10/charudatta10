@@ -66,9 +66,14 @@ Docs          → Markdown · DOCX generation · LaTeX-style slide decks
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=charudatta10)
 
 ---
-
+<div align="center">
+  <a href="https://chaito10.github.io/PayMe/?name=Charudatta+G+Korde&upi=c10kotak%40ybl">
+    🍵 Buy me a chai
+  </a>
+</div>
 <div align="center">
   <sub>⚡ Dark themes · Monospace fonts · Cyberpunk aesthetics · Clean systems ⚡</sub>
 </div>
 
 ![](assets/ChatGPT%20Image%20May%2022%2C%202026%2C%2002_16_58%20PM.png)
+
