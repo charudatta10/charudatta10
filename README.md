@@ -2,6 +2,41 @@
 
 > *"Build systems that think. Document everything. Ship in style."*
 
+![Version](https://img.shields.io/github/v/release/charudatta10/charudatta10)
+![License](https://img.shields.io/github/license/charudatta10/charudatta10)
+
+---
+
+## What is this?
+
+The GitHub profile repository of Charudatta Korde — a developer, researcher, and educator working across computer graphics, compiler design, cybersecurity, and machine learning. It hosts the portfolio, resume, CV, and the Charudatta Archive knowledge infrastructure.
+
+## Features
+
+- Portfolio, resume, and CV built from LaTeX and plain HTML/CSS sources
+- GitHub Pages-hosted project archive and profile assets
+- SPDX-licensed workspace (see `LICENSE.md` and `license.spdx.json`)
+- Build automation via `tasks.py` (Invoke)
+
+## Install / Quickstart
+
+```bash
+git clone https://github.com/charudatta10/charudatta10.git
+cd charudatta10
+pip install invoke
+invoke            # list available build tasks
+```
+
+## Usage
+
+```bash
+invoke portfolio  # build the portfolio (Marp) to HTML/PDF/PPTX
+invoke cv         # build the CV (LaTeX) to PDF
+invoke resume     # build the resume (Pandoc) to HTML/PDF
+```
+
+Open `src/portfolio/portfolio.html` in a browser or use the built artifacts under `src/`.
+
 ---
 
 ## 🧠 About Me
@@ -70,3 +105,9 @@ Docs          → Markdown · DOCX generation · LaTeX-style slide decks
 <div align="center">
   <sub>⚡ Dark themes · Monospace fonts · Cyberpunk aesthetics · Clean systems ⚡</sub>
 </div>
+
+---
+
+## License
+
+This repository is licensed under the terms in [LICENSE.md](LICENSE.md).
