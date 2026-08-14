@@ -1,5 +1,10 @@
 # 👾 Charudatta
 
+<p align="center">
+  <img src="assets/cover.png" alt="charudatta10" width="800"/>
+</p>
+
+
 > *"Build systems that think. Document everything. Ship in style."*
 
 ![Version](https://img.shields.io/github/v/release/charudatta10/charudatta10)
