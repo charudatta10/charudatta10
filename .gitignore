@@ -203,3 +203,7 @@ luac.out
 *.hex
 
 archives
+
+# Scratch test files
+test.txt
+test.txt.asc
