@@ -50,12 +50,12 @@ Docs          → Markdown · DOCX generation · LaTeX-style slide decks
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🖥️ Building out **computer graphics** and **compiler design** curriculum materials
-- 🤖 Deep-diving into **transformer model families** (GPT / BERT / T5)
-- 🔊 Exploring **underwater acoustic signal classification** (rule-based & ML hybrid)
-- ⚡ Containerizing ML tooling with **Podman** and **nerdctl**
+- **Edge AI and FPGA acceleration** — Exploring quantization, efficient dataflow, and hardware–software co-design for low-power generative AI inference.
+- **Distributed AI** — Exploring peer-to-peer model training and inference through ShardX.
+- **Applied cybersecurity** — Developing hands-on labs for incident response, vulnerability assessment, and penetration testing.
+- **Computer science education** — Building interactive labs and course material for computer graphics and compiler design.
 
 ---
 
