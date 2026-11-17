@@ -1,103 +1,54 @@
-# CHARUDATTA GURUDAS KORDE
+# Dr. Charudatta Gurudas Korde
 
 <div class="section headerInfo">
 
-- korde.charudatta@gmail.com
-- 8275381582
-- [https://charudatta10.github.io/myblog/](https://charudatta10.github.io/myblog/)
+- [korde.charudatta@gmail.com](mailto:korde.charudatta@gmail.com)
+- +91 8275381582
+- [Portfolio](https://charudatta10.github.io/portfolio/)
 - Goa, India
 
 </div>
 
-## About me
+## Profile
 
-I currently work as a research scholar at NIT Goa. In my role, I have served as a teaching assistant, overseeing  final-year bachelor's and master's students in their lab work and projects. Through my research experience, I have cultivated a penchant for innovative and independent thinking. My areas of interest span across artificial intelligence, machine learning, hardware accelerators, image processing, web design, cryptography, network security, blockchain, and  Web 3.
+Educator, researcher, engineer, and developer. I completed my PhD at NIT Goa in 2025. My doctoral research focused on accelerating generative adversarial networks (GANs) on FPGA-based edge devices through energy-efficient dataflow, quantization, and hardware–software co-design. I have taught applied cybersecurity and have guided six master's students.
 
 ## Experience
 
-### Freelancer, GITHUB <span class="spacer">*2015, remote</span> 
+### Lecturer, NFSU <span class="spacer">2024–2026</span>
 
-- FPGA based SVM implementation.
-- FPGA based perceptron network implementation.
-- Creating automation scripts for windows pc with powershell.
+Taught Incident Response and Vulnerability Assessment and Penetration Testing (VAPT) using hands-on cybersecurity practice and system-level analysis.
 
-**Technologies used:** MATLAB, Powershell, Python, Vscode, Jupyter.
+### Visiting Faculty, GPCM <span class="spacer">2024</span>
 
-### Software Validation Engineer, Intel <span class="spacer">2019-2020, Bangalore</span> 
+Led Basic Electronics labs covering circuit fundamentals, measurement techniques, and their engineering applications.
 
-- Validating tool flow for Quartus 19.3 through 20.1.
-- Validating tool processes on Quartus like synthesis, implementation, and bit stream generation.
-- Validating design flows for Qurtus tool including top-down, bottom-up, and hierarchical approaches of FPGA design.
+### Software Validation Engineer, Intel <span class="spacer">2019, six months</span>
 
-**Technologies used:** Quartus, Verilog, Perl, Python .
+Validated Intel Quartus FPGA design flows, including synthesis, implementation, and bitstream generation.
 
 ## Education
 
-|      Qualification       | Year of passing | Percentage | Board/University |             Specialization             |            Institute Name            |
-| :----------------------: | :-------------: | :--------: | :--------------: | :------------------------------------: | :----------------------------------: |
-|           SSC            |      2009       |     69     |    Goa Board     |                Science                 |          Dr. K.B. Hedgewar           |
-|           HSSC           |      2011       |     71     |    Goa Board     |                Science                 |      Santacruz Higher Secondary      |  |
-| Bachelors in Engineering |      2015       |     76     |  Goa University  | Electrical and Electronics Engineering |      Goa College of Engineering      |
-|  Masters in Engineering  |      2017       |     81     |  Goa University  |      Microelectronics Engineering      |      Goa college of Engineering      |
-|           PhD            |      *2024       |     86     |     NIT Goa      |                  VLSI                  | National Institute of Technology Goa |
+| Degree | Institution | Years | Grade |
+| :--- | :--- | :--- | :--- |
+| PhD in VLSI (AI on edge devices) | National Institute of Technology Goa | 2018–2025 | 8.6/10 CGPA |
+| Master of Engineering in Microelectronics | Goa University | 2015–2017 | 8.0/10 CGPA |
+| Bachelor of Engineering in Electrical and Electronics Engineering | Goa University | 2011–2015 | 76% |
 
-## Current Projects
+## Selected Research and Projects
 
-### GenAi
+- **FPGA-Accelerated Generative AI** — Implemented GAN architectures using Verilog, NNGEN, and Xilinx Kintex-7.
+- **ShardX** — Built peer-to-peer infrastructure for distributed model training and inference.
+- **GenAiTamago** — Built a PyTorch project for experimenting with GAN variants and generating handwritten digits.
+- **readme-generator** — Built a Python and Jinja2 tool that generates GitHub README graphics and badges.
 
-- Built a Generative AI PyTorch tensor model aggregator project.
-- Project include GAN, VanillaGAN, ConditionalGAN, DCGAN, WGAN.
-- GenAiTamago is used to trace signal, and generate handwritten digits with given prompts.
+## Selected Publications
 
-### readme-generator
+- [MFDFA-Enhanced GAN: A Hardware-Optimized Architecture for Efficient Synthetic Image Generation](https://doi.org/10.1109/ACCESS.2026.3677066), IEEE Access, 2026.
+- [Evolutionary-Enhanced GAN With Wavelet-Based Discrimination: A Hardware-Accelerated Architecture for Efficient Synthetic Image Generation](https://doi.org/10.1109/ACCESS.2025.3642041), IEEE Access, 2025.
+- [Generating Synthetic Data Using 2D Multifractal Detrended Fluctuation Analysis Generative Adversarial Networks](https://doi.org/10.1109/ACCESS.2025.3603332), IEEE Access, 2025.
 
-- Built a readme generator for github repo using python and jinja2.
-- readme-generator has hero svg, dependency badges, status dynamic badges auto generated.
+## Expertise and Links
 
-<!-- 
-### LinkNet
-
-- Built a python based link aggregator platform.
-- LinkNet has custom icons configurable through json config file.
-- LinkNet is flask app with static hosting options available.
-
-
-### MyBlog
-
-- Built a statics website using mkdocs to host portfolio. 
-- MyBlog has blog section, portfolio section, home and about sections.
-
-### legendary-dollop
-
-- Built a SVG generator project.
-- Project generates svg's such as glitch, luminance, badge etc.
-
-### improved-barnacle
-
-- Built python script to clean download directory.
-- Project sorts through the files by extension and move files to folder. -->
-
-## Tools & Skills
-
-- **Programming**: Python, Verilog, Latex.
-- **Deep learning tools**: PyTorch, Tensorflow, keras,
-- **Deep learning models**: GAN, CGAN, WGAN, DCGAN.
-- **Machine learning**: genetic algorithm, wavelet transform, MFDFA.
-- **Artificial intelligence**: ollama, lamma3, gemma. 
-<!-- 
-- **VLSI**: Quartus, Vivado, FPGA.
-- **misc tools**: powershell, vscode, github, neovim. -->
-  
-
-<!-- 
-## Achievements
-
-### Best Undergrad Research Project <span class="spacer"></span> 2018
-
-### Eagle Scout <span class="spacer"></span> 2012 -->
-
-## References
-
-- Dr. M.H. Vasantha | Associate professor, Dept. of ECE, NIT Goa | vasanthmh@nitgoa.ac.in
-
-- Dr. Y.B.Nithin Kumar | Associate professor, Dept. of ECE, NIT Goa | nithin.shastri@gmail.com
+- **Expertise** — AI, machine learning, generative AI, FPGA and embedded systems, cybersecurity, and decentralized systems.
+- [GitHub](https://github.com/charudatta10) · [ORCID](https://orcid.org/0000-0003-0055-4997) · [Google Scholar](https://scholar.google.com/citations?user=wdLkz5MAAAAJ) · [LinkedIn](https://www.linkedin.com/in/charudatta-korde/)

@@ -1,27 +1,24 @@
-# 👾 Charudatta
+# Dr. Charudatta Gurudas Korde
 
+I'm a researcher, educator, and developer working in edge AI, FPGA design, and cybersecurity. I completed my **PhD in VLSI at NIT Goa in 2025** with an **8.6/10 CGPA**. My doctoral research focused on accelerating generative adversarial networks on FPGA-based edge devices.
 
+I taught incident response and vulnerability assessment and penetration testing at NFSU and led Basic Electronics labs as visiting faculty at GPCM. I also develop open-source tools and teaching material for computer graphics, compiler design, and cybersecurity.
 
+## CV, résumé, and portfolio
 
-> *"Build systems that think. Document everything. Ship in style."*
-
-
-## 🧠 About Me
-
-I'm a developer, researcher, and educator at the intersection of **computer graphics**, **compiler design**, **cybersecurity**, and **machine learning**. I enjoy turning complex technical concepts into polished interactive tools, structured curricula, and well-documented systems.
-
-- 🎓 Background in CS with deep interest in **NLP/deep learning**, **RF signal processing**, and **reverse engineering**
-- 🛠️ I build everything from Marp slide decks and CLI tools to full-stack interactive web apps
-- 🌐 Maintainer of [Charudatta Archive](https://charudatta10.github.io/portfolio/) — a personal knowledge infrastructure built on GitHub Pages
-- 📓 Runs a **markdown-based wiki** ([wiki-notes](https://charudatta10.github.io/wiki-notes)) for personal knowledge management
+- [Academic CV (PDF)](src/cv/cv.pdf)
+- [Résumé (PDF)](src/resume/resume.pdf) · [Résumé image](assets/Charudatta%20Korde.png)
+- [Portfolio website](https://charudatta10.github.io/portfolio/) · [Deck (PDF)](src/portfolio/portfolio.pdf) · [Deck (PowerPoint)](src/portfolio/portfolio.pptx)
+- [Publications on Google Scholar](https://scholar.google.com/citations?user=wdLkz5MAAAAJ) · [ORCID](https://orcid.org/0000-0003-0055-4997)
 
 ---
 
 ## 🔧 Tech Stack
 
 ```
-Languages     → Python · JavaScript · PowerShell · Rust (learning)
+Languages     → Python · Verilog · JavaScript · PowerShell · Rust (learning)
 ML/DL         → PyTorch · Transformers · Scikit-learn · Streamlit
+FPGA          → Vivado · Quartus · NNGEN
 Graphics      → OpenGL · CG pipelines · Shading · Hidden Surface Removal
 Compilers     → Lexer/Parser · IR Generation · Code Optimization
 Security      → Malware Analysis · IDA Pro · Volatility · WinDBG · OllyDbg
@@ -36,6 +33,8 @@ Docs          → Markdown · DOCX generation · LaTeX-style slide decks
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| **FPGA-Accelerated Generative AI** | GAN acceleration for low-power edge inference | Verilog · NNGEN · Kintex-7 |
+| **ShardX** | Peer-to-peer model training and inference | Distributed AI |
 | 🧬 **LLM Wiki** | CLI + presentation tool for exploring LLM architectures (Karpathy-inspired) | Python · Marp |
 | 🔬 **RF Signal Analyzer** | Streamlit app with modulation classification | Python · Streamlit · Podman |
 | 🧪 **Compiler Design Lab** | Interactive lexer → parser → IR → symbol table pipeline | HTML · JS |
@@ -62,7 +61,6 @@ Docs          → Markdown · DOCX generation · LaTeX-style slide decks
 
 ## 🌐 Links
 
-[![Website](https://img.shields.io/badge/Portfolio-bf5fff?style=flat-square&logo=github)](https://charudatta10.github.io/portfolio/)
 [![Wiki](https://img.shields.io/badge/Wiki-wiki--notes-bf5fff?style=flat-square&logo=markdown)](https://charudatta10.github.io/wiki-notes)
 [![GitHub](https://img.shields.io/badge/GitHub-charudatta10-181717?style=flat-square&logo=github)](https://github.com/charudatta10)
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=charudatta10)
@@ -77,11 +75,7 @@ Docs          → Markdown · DOCX generation · LaTeX-style slide decks
   </a>
 </p>
 
-![](assets/ChatGPT%20Image%20May%2022%2C%202026%2C%2002_16_58%20PM.png)
-
-<div align="center">
-  <sub>⚡ Dark themes · Monospace fonts · Cyberpunk aesthetics · Clean systems ⚡</sub>
-</div>
+![Profile artwork](assets/ChatGPT%20Image%20May%2022%2C%202026%2C%2002_16_58%20PM.png)
 
 ---
 

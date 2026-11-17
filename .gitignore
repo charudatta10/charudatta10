@@ -207,3 +207,6 @@ archives
 # Scratch test files
 test.txt
 test.txt.asc
+
+# LaTeX build output
+/src/cv/*.aux

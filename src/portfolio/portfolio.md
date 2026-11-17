@@ -1,16 +1,18 @@
 ---
 
 marp: true
-theme: beamer
+theme: default
 paginate: true
 
 ---
 
-# CHARUDATTA GURUDAS KORDE
+# Dr. Charudatta Gurudas Korde
+
+Educator, researcher, engineer, and developer
 
 ---
 
-![bg right:70%](../../assets/images/blog1.jpeg)
+![bg right:70%](../../assets/images/blog1.png)
 
 ## Walkthrough
 
@@ -20,69 +22,66 @@ paginate: true
 - [Experience](#experience)
 - [Projects](#projects)
 - [Skills](#skills)
-- [Work](#work)
+- [Publications](#publications)
   
 
 ---
 
-![bg left:40%](../../assets/images/blog2.jpeg)
+![bg left:40%](../../assets/images/blog2.png)
 
 ## About
 
-I am X where X is:
+I completed my PhD at NIT Goa in 2025.
 
-- ### Software Engineer
-
-- ### Research scholar at NIT Goa.
-
-- ### Teaching assistant at NIT Goa.
-
-- ### Freelancer on GitHub.
+- Researched FPGA acceleration of generative AI on edge devices.
+- Taught applied cybersecurity and basic electronics.
+- Guided six master's students.
+- Build open-source tools for AI, education, and software development.
 
 
 ---
 
-![bg right:40%](../../assets/images/blog3.jpeg)
+![bg right:40%](../../assets/images/blog3.png)
 
 ## Contact
 
-- Email: korde.charudatta@gmail.com
-- Phone: 8275381582
-- Address: Santacruz, Goa, India 403005
-- Website: charudatta10.github.io/myblog
-- LinkNet: charudatta10.github.io/LinkNet
-- LinkdIn: in/charudatta-korde
-- Instagram: ryunabi326
-- X: @kordecharudatta
-  
+- [Email](mailto:korde.charudatta@gmail.com)
+- +91 8275381582
+- Goa, India
+- [Portfolio website](https://charudatta10.github.io/portfolio/)
+- [GitHub](https://github.com/charudatta10)
+- [LinkedIn](https://www.linkedin.com/in/charudatta-korde/)
+
+
 ---
 
 ## Education
 
-|      Qualification       | Year of passing | Percentage | Board |             Specialization             |            Institute Name            |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|           SSC            |      2009       |     69     |    Goa Board     |                Science                 |          Dr. K.B. Hedgewar           |
-|           HSSC           |      2011       |     71     |    Goa Board     |                Science                 |      Santacruz Higher Secondary      |  
+| Degree | Institution | Years | Grade |
+| :--- | :--- | :--- | :--- |
+| PhD in VLSI (AI on edge devices) | National Institute of Technology Goa | 2018–2025 | 8.6/10 CGPA |
+| Master of Engineering in Microelectronics | Goa University | 2015–2017 | 8.0/10 CGPA |
+| Bachelor of Engineering in Electrical and Electronics Engineering | Goa University | 2011–2015 | 76% |
 
 ---
 
-## Education (Continued...1)
-|      Qualification       | Year of passing | Percentage | University |             Specialization             |            Institute Name            |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Bachelors  |      2015       |     76     |  Goa   | EEE |      Goa College of Engineering      |
-|  Masters  |      2017       |     81     |  Goa  |      Microelectronics      |      Goa college of Engineering      |
+## Doctoral Research
 
----
-
-## Education (Continued...2)
-|      Qualification       | Year of passing | Percentage | University |             Specialization             |            Institute Name            |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|           PhD            |      *2024       |     86     |     NIT Goa      |                  VLSI                  | National Institute of Technology Goa |
-
+- Accelerated GANs on FPGA-based edge devices.
+- Studied energy-efficient dataflow, quantization, and hardware–software co-design.
+- Implemented GAN architectures using Verilog, NNGEN, and Xilinx Kintex-7.
 
 ---
 
 ## Experience
+
+### Lecturer, NFSU (2024–2026)
+
+Taught Incident Response and Vulnerability Assessment and Penetration Testing through applied cybersecurity labs and system-level analysis.
+
+### Visiting Faculty, GPCM (2024)
+
+Led Basic Electronics labs covering circuit fundamentals and measurement techniques.
 
 ---
 
@@ -96,21 +95,20 @@ I am X where X is:
 
 ---
 
-### Software Validation Engineer, Intel 2019-2020, Bangalore
+### Software Validation Engineer, Intel (2019, six months)
 
-- Validating tool flow for Quartus 19.3 through 20.1.
-- Validating tool processes on Quartus like synthesis, implementation, and bit stream generation.
-- Validating design flows for Qurtus tool including top-down, bottom-up, and hierarchical approaches of FPGA design.
-
-**Technologies used:** Quartus, Verilog, Perl, Python .
+- Validated Quartus FPGA design flows from versions 19.3 through 20.1.
+- Tested synthesis, implementation, bitstream generation, and hierarchical design flows.
 
 ---
 
 ## Projects
 
----
+### ShardX
 
-![bg right:40%](../../assets/images/project1.jpeg)
+Peer-to-peer infrastructure for distributed model training and inference.
+
+---
 
 ### GenAiTamago
 
@@ -120,16 +118,12 @@ I am X where X is:
 
 ---
 
-![bg left:40%](../../assets/images/project2.jpeg)
-
 ### readme-generator
 
 - Built a readme generator for github repo using python and jinja2.
 - readme-generator has hero svg, dependency badges, status dynamic badges auto generated.
 
 ---
-
-![bg right:40%](../../assets/images/project3.jpeg)
 
 ### LinkNet
 
@@ -139,8 +133,6 @@ I am X where X is:
 
 ---
 
-![bg left:40%](../../assets/images/project4.jpeg)
-
 ### MyBlog
 
 - Built a statics website using mkdocs to host portfolio. 
@@ -148,16 +140,12 @@ I am X where X is:
 
 ---
 
-![bg right:40%](../../assets/images/project5.jpeg)
-
 ### legendary-dollop
 
 - Built a SVG generator project.
 - Project generates svg's such as glitch, luminance, badge etc.
 
 ---
-
-![bg left:40%](../../assets/images/project6.jpeg)
 
 ### improved-barnacle
 
@@ -194,6 +182,16 @@ I am X where X is:
 
 ## Publications
 
+### Selected IEEE Access papers
+
+- [MFDFA-Enhanced GAN: A Hardware-Optimized Architecture for Efficient Synthetic Image Generation](https://doi.org/10.1109/ACCESS.2026.3677066) (2026)
+- [Evolutionary-Enhanced GAN With Wavelet-Based Discrimination: A Hardware-Accelerated Architecture for Efficient Synthetic Image Generation](https://doi.org/10.1109/ACCESS.2025.3642041) (2025)
+- [Generating Synthetic Data Using 2D Multifractal Detrended Fluctuation Analysis Generative Adversarial Networks](https://doi.org/10.1109/ACCESS.2025.3603332) (2025)
+
+---
+
+## Conference Publications
+
 | Title                                                                                          | Year | Type       | Publisher                                                                                       |
 |------------------------------------------------------------------------------------------------|------|------------|-------------------------------------------------------------------------------------------------|
 | Implementation of FPGA Based Pre-Processing Algorithms for Devnagri Script Recognition Systems | 2015 | Conference | IEEE Computer Society Annual Symposium on VLSI (ISVLSI)                                         |
@@ -201,7 +199,7 @@ I am X where X is:
 
 ---
 
-## Publications (Continued...1)
+## Conference Publications (2018–2019)
 
 | Title                                                                                          | Year | Type       | Publisher                                                                                       |
 |------------------------------------------------------------------------------------------------|------|------------|-------------------------------------------------------------------------------------------------|
@@ -210,7 +208,7 @@ I am X where X is:
 
 ---
 
-## Publications (Continued...2)
+## Conference Publications (2021)
 
 | Title                                                                                          | Year | Type       | Publisher                                                                                       |
 |------------------------------------------------------------------------------------------------|------|------------|-------------------------------------------------------------------------------------------------|

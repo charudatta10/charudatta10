@@ -31,7 +31,7 @@
 
 \setcounter{secnumdepth}{-1}
 \RequirePackage[a4paper,vmargin={10mm,17mm},hmargin={10mm,17mm},onecolumn]{geometry}
-\RequirePackage{bookman,etoolbox,needspace,pifont,tabularx,xcolor,graphicx}
+\RequirePackage{bookman,etoolbox,pifont,tabularx,xcolor,graphicx}
 \RequirePackage{hyperref}
 
 %
@@ -92,7 +92,7 @@
     \old@section[#1]{\ucwords{#2}}%
     \newdimen\raising%
     \raising=\dimexpr-0.7\baselineskip\relax%
-    \vskip\raising\hrule height 0.4pt\vskip-\raising}
+    \nobreak\vskip\raising\hrule height 0.4pt\nobreak\vskip-\raising\nobreak}
 \makeatother
 
 % Allow conditionals based on the job name. This can usually be set
@@ -157,7 +157,8 @@
 
 \newenvironment{fromto}{%
     \renewcommand\item[1]{%
-          {\raggedleft\textsc{##1}\smallskip\\ }}}
+          {\raggedleft\textsc{##1}\par}}}
+    {\nobreak\smallskip\nobreak}
               
 \newenvironment{project}{%
      \renewcommand\item[3]{%
@@ -196,18 +197,19 @@
 %         {fact}
 %         {description}
 \newenvironment{factlist}{%
-    \newdimen\unbaseline
-    \unbaseline=\dimexpr-\baselinestretch\baselineskip\relax
-    \renewcommand\item[2]{%
-	\textsc{##1} & {\raggedright ##2\medskip\\}\\[\unbaseline]}
+    \renewcommand\item[2]{\textsc{##1} & ##2\\[0.35em]}%
     \tabularx{\linewidth}{rX}}
     {\endtabularx}
 
 \newenvironment{publi}{%
-    \renewcommand\item[2]{%
-	\textsc{##1} & {##2}\medskip\\}	
-    \tabularx{\linewidth}{rX}}
-    {\endtabularx}
+    \begin{list}{}{\setlength{\leftmargin}{3.25em}%
+        \setlength{\labelwidth}{2.75em}%
+        \setlength{\itemsep}{0pt}%
+        \setlength{\parsep}{0pt}}%
+    \let\publicationitem\item
+    \renewcommand\item[2]{\publicationitem[\textsc{##1}]%
+        {\interlinepenalty=10000 ##2\par}}}
+    {\end{list}}
 
 \newenvironment{name}{%
     \renewcommand\item[2]{%
